@@ -385,6 +385,18 @@ substantively in writing. Offer 2 (1/29/26) was stated "valid for 60 days"
 via Gorberg 5/11/26; representation ended 5/12/26; arbitration filed
 5/12/26 (Decision Letter "File Date").
 
+**Memo of Law v3 produced** (`materials/Hu_v_HMA_Memo_of_Law_Article75_v3.docx`).
+Changelog v2→v3: corrected the two record-contradicted assertions — Feb 2026
+event now 11,230 mi / RO #370267 / battery replaced under warranty after
+dealer confirmed warranty-covered defect (no "second HV replacement" claim);
+"two complete HV battery replacements" → one HV pack replacement at recorded
+cost $17,483.69; footnote 1 placeholder resolved (12-volt battery, part
+00275-18001, with the award's own 8,662-mi error turned into a Point VI
+exhibit); Point VI conflation passage now states both errors affirmatively.
+XSD-validated against v2 (200 paragraphs unchanged). ⚠ LibreOffice is broken
+in this sandbox (even v2 fails to convert), so pagination was NOT visually
+re-verified — open in Word before filing. v2 retained for diff.
+
 **⚠ Defensive prep — collision-damage angle:** right-headlamp damage existed
 since 12/22/24; Mizzoni's Auto Body repair (self-pay, Ex16) 1/22–2/9/26;
 Paramus initially floated the damage as possible cause of the Jan-2026

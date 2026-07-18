@@ -43,8 +43,8 @@ if (!docPath) {
 }
 
 const LENSES = [
-  { key: 'facts', prompt: 'factual support: every date, mileage figure, repair count, and dollar amount must trace to a file in evidence/ or research/' },
-  { key: 'legal', prompt: 'legal sufficiency: statutory elements, notice requirements, deadlines, and statute citations checked against research/' },
+  { key: 'facts', prompt: 'source verification: every date, mileage figure, RO number, dollar amount, and quotation must trace to CLAUDE.md verified tables or a file in materials/' },
+  { key: 'legal', prompt: 'citation and legal sufficiency: statutory elements, deadlines, and every citation checked against the CLAUDE.md verified-citations table and its noted limits' },
   { key: 'consistency', prompt: 'internal consistency: dates and figures must agree with the timeline and with each other' },
   { key: 'tone', prompt: 'tone and risk: threats, emotional language, admissions against interest, overstated legal certainty' },
 ]

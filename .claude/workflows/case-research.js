@@ -51,7 +51,7 @@ const researched = await pipeline(
   (q, _item, i) =>
     agent(
       `Research this question for the Lemon-Law case (see CLAUDE.md for case context): ${q}\n` +
-        'Check research/ and evidence/ first, then search the web for primary sources. ' +
+        'Check CLAUDE.md and materials/_extracted/ first, then search the web for primary sources. ' +
         'Return each finding as a claim + source URL + jurisdiction, and mark verified=false ' +
         'for anything not confirmed in a primary source.',
       { label: `research:q${i + 1}`, phase: 'Research', schema: FINDINGS_SCHEMA, agentType: 'case-researcher' }

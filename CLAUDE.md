@@ -397,6 +397,19 @@ XSD-validated against v2 (200 paragraphs unchanged). ⚠ LibreOffice is broken
 in this sandbox (even v2 fails to convert), so pagination was NOT visually
 re-verified — open in Word before filing. v2 retained for diff.
 
+**Vehicle status (user-reported 2026-07-18):** still in Petitioner's
+possession under the month-to-month lease extension; odometer **~15,000 mi**
+(approximate — confirm exact reading before it enters any filing). Legal
+effect: none on the refund math (statutory deduction runs from the 7,026-mi
+first report), none on the merits (current operability irrelevant per
+DaimlerChrysler), helpful on mootness (vehicle available for inspection).
+Note: still under 18,000 mi — if any NEW battery/electrical event occurs,
+get a dealer RO immediately; it would be within the statutory coverage
+window. Attorney-outreach email drafts created in Gmail 7/18 (Bromberg,
+Krukas, Kimmel & Silverman, Lemberg) — To-addresses are self-placeholders
+pending verification of each firm's intake email (proxy blocked site
+fetches; do not trust unverified addresses).
+
 **⚠ Defensive prep — collision-damage angle:** right-headlamp damage existed
 since 12/22/24; Mizzoni's Auto Body repair (self-pay, Ex16) 1/22–2/9/26;
 Paramus initially floated the damage as possible cause of the Jan-2026

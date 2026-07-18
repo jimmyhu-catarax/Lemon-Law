@@ -319,3 +319,76 @@ own record: opened 18FEB26 16:21, ready 19FEB26 12:37). The award's "RO
 **Still missing vs. the arbitration record (user attaching next):** lease,
 AG arbitration request/form, HMA offer letters, repurchase calc, Settlement
 Agreement & Release, registration, Ex11 Days Out of Service.
+
+---
+
+## SESSION ADDENDUM 2 — 2026-07-18 (exhibits + email record ingested)
+
+**Repo state.** `materials/exhibits/` now holds 28 files from Drive folder
+"Hyundai Claude Code Project" (magic-byte verified; text in
+`materials/exhibits/_extracted/`). Email record verified and summarized in
+`materials/email_record_summary.md` (verbatim quotes + Gmail message IDs).
+Law-firm research in `research/2026-07-18-law-firm-candidates.md`.
+
+**RESOLVED — discrepancy 2 from Addendum 1 (second HV battery):**
+`Ex04_Repair_Orders.pdf` is **md5-identical** to the 13-page RO set already
+verified. **No second HV-pack-replacement RO exists in the arbitration
+record.** The only HV pack replacement is RO #358530. The Feb 2026 event
+(RO #370267) was a 12-volt battery. **Memo v2's "high-voltage battery was
+replaced a second time" and the "two full HV battery replacements" row in
+VERIFIED FACTS above must be revised before filing.** The strongest accurate
+framing: same underlying electrical/battery defect recurred (P1BAD92 +
+C110213 present on the Jan 8, 2026 Smart Diagnosis), vehicle stranded and
+"TOO DEAD TO COMPLETE GDS," and Paramus confirmed on 2/19/26 the failure was
+a warranty-covered defect (Hu→css email, verbatim in email summary).
+
+**Verified against exhibit text this session:**
+- Ex05 (Aug 18, 2025 offer): two options — keep car + **$4,000.00** cash, or
+  repurchase, restitution **$7,977.00** ($5,024 payments + $2,953 down),
+  mileage deduction "**WAIVED**" (formula recited "mileage at first report of
+  concern **8151**"). ✓
+- Ex06 (Jan 29, 2026 offer): keep car + **$5,000** cash, or repurchase,
+  restitution **$5,388.51** with deduction **($4,326.49)** on cash price
+  $53,360.77 × (**8148**−40)/100,000. ✓ ($598.71 overstatement math ✓.)
+  ⚠ Both offers used RO-358530 mileage (8148/8151) as "first report" — the
+  statutory first report is 7,026 (RO #356398). Useful for Argument 7.
+- Ex09a (Aug 2025 Settlement Agreement): §1542 waiver (Cal. Civ. Code),
+  confidentiality, indemnity clauses confirmed in text. ✓
+- Ex08 pair: $2,500 conveyed only via Gorberg (Laura Wolfe email 5/11/26);
+  consumer-built cover sheet states no standalone HMA writing exists. ✓
+- Sept 30, 2025 Hu→HMA email (in Gmail; also relevant to Ex22): written
+  pre-counsel objections to release scope / confidentiality / §1542.
+
+**⚠ NEW halt-and-confirm items:**
+1. **Duplicate exhibit slots in Drive:** Ex07_Repurchase_Calculated_Offer is
+   md5-identical to Ex05, and Ex09b_Settlement_Agreement_Jan2026 is
+   md5-identical to Ex06. If distinct documents were intended for Ex07/Ex09b,
+   they are missing — confirm what was actually submitted to the arbitrator.
+2. **Expense total conflict inside Ex21_Loss_of_Use_Record:** claims
+   **$1,793.43** (citing Ex17 ledger) in one place and **$1,989.25** (citing
+   the Expense Receipt Packet) in another. Brief uses $1,793.43. Resolve
+   before any filing states a number.
+3. **Missing from repo (transfer failed, >10MB or errors):** Lease Agreement
+   (both copies: "Car Lease Contract 1-59225931599.pdf" and Ex01) and
+   "Ex21_Expense Packet.pdf". User must supply another way (compress/split or
+   upload directly).
+4. Aug-2025 "sent to wrong email" note (offer trajectory table above) is not
+   corroborated by the email record — the 8/18/25 offer email went to
+   jimmy.hu@gmail.com (it may merely have skipped the inbox). Confirm or drop.
+
+**Settlement-history precision (from email record — supersedes the coarse
+trajectory table above where they differ):** 9/26/25 Hu accepted the $4,000
+cash-keep option in principle ("Let's get started on next steps"); deal
+failed solely on release terms (9/30/25 objections); HMA never responded
+substantively in writing. Offer 2 (1/29/26) was stated "valid for 60 days"
+(2/6/26 email) → lapsed ≈3/30/26 while Gorberg held the file; $2,500 came
+via Gorberg 5/11/26; representation ended 5/12/26; arbitration filed
+5/12/26 (Decision Letter "File Date").
+
+**⚠ Defensive prep — collision-damage angle:** right-headlamp damage existed
+since 12/22/24; Mizzoni's Auto Body repair (self-pay, Ex16) 1/22–2/9/26;
+Paramus initially floated the damage as possible cause of the Jan-2026
+no-start; several Jan-8 DTCs (tail lamp, radar) are plausibly
+collision-related. **Neutralizer (record-verified):** Paramus completed
+diagnostics and confirmed warranty-covered defect, replaced battery
+(RO #370267; Hu 2/19/26 email). Expect HMA to raise it; brief any counsel.

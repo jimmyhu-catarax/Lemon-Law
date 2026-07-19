@@ -370,10 +370,15 @@ a warranty-covered defect (Hu→css email, verbatim in email summary).
    confirms $1,793.43 is correct.** Memo v3 already uses $1,793.43 ✓. The
    $1,989.25 sentence inside Ex21 remains wrong on its face — if Ex21 is
    ever re-served or refiled, correct it there.
-3. **Missing from repo (transfer failed, >10MB or errors):** Lease Agreement
-   (both copies: "Car Lease Contract 1-59225931599.pdf" and Ex01) and
-   "Ex21_Expense Packet.pdf". User must supply another way (compress/split or
-   upload directly).
+3. **Missing from repo (transfer failed, >10MB or errors):** ~~Lease
+   Agreement~~ **RESOLVED 2026-07-19** — user uploaded it directly; now at
+   `materials/exhibits/Hu_v_HMA_Ex01_Lease_Agreement.pdf` (24,067,714 B,
+   byte-size-identical to all 4 Drive copies). **Lease anchor figures now
+   source-verified against the lease text layer:** date 05/23/2024 ✓,
+   odometer at delivery 40 mi ✓, VIN ✓, lessor KOEPPEL HYUNDAI, 34-54 44th
+   St, Long Island City NY ✓, $314.00/mo (due 23rd) ✓, cap-cost reduction
+   $2,953.00 ✓, agreed value $53,360.77 ✓, gross cap cost $54,597.70 ✓,
+   24-month term ✓. Still missing: **"Ex21_Expense Packet.pdf" only.**
 4. Aug-2025 "sent to wrong email" note (offer trajectory table above) is not
    corroborated by the email record — the 8/18/25 offer email went to
    jimmy.hu@gmail.com (it may merely have skipped the inbox). Confirm or drop.

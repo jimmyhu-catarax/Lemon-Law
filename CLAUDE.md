@@ -378,7 +378,15 @@ a warranty-covered defect (Hu→css email, verbatim in email summary).
    odometer at delivery 40 mi ✓, VIN ✓, lessor KOEPPEL HYUNDAI, 34-54 44th
    St, Long Island City NY ✓, $314.00/mo (due 23rd) ✓, cap-cost reduction
    $2,953.00 ✓, agreed value $53,360.77 ✓, gross cap cost $54,597.70 ✓,
-   24-month term ✓. Still missing: **"Ex21_Expense Packet.pdf" only.**
+   24-month term ✓. **Ex21 Expense Packet RESOLVED 2026-07-19** — uploaded
+   directly (66 pp., 6.4MB) along with Ex21_RAP_Response and
+   Ex21_Hyundai_Case_Management_42053079 (both new to repo; uploaded
+   Loss_of_Use_Record was md5-identical to repo copy). **The packet's own
+   cover states TOTAL $1,793.43, expressly reconciling to Ex17** (stated 3×)
+   — so the $1,989.25 sentence inside Ex21_Loss_of_Use_Record is now
+   source-refuted, not merely user-overridden. Packet covers incident period
+   Jan 6 – Feb 20, 2026; Tab A (rentals) subtotal $1,237.81.
+   **The repo's arbitration record is now COMPLETE — no missing documents.**
 4. Aug-2025 "sent to wrong email" note (offer trajectory table above) is not
    corroborated by the email record — the 8/18/25 offer email went to
    jimmy.hu@gmail.com (it may merely have skipped the inbox). Confirm or drop.

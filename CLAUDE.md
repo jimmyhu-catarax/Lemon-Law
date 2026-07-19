@@ -366,8 +366,10 @@ a warranty-covered defect (Hu→css email, verbatim in email summary).
    they are missing — confirm what was actually submitted to the arbitrator.
 2. **Expense total conflict inside Ex21_Loss_of_Use_Record:** claims
    **$1,793.43** (citing Ex17 ledger) in one place and **$1,989.25** (citing
-   the Expense Receipt Packet) in another. Brief uses $1,793.43. Resolve
-   before any filing states a number.
+   the Expense Receipt Packet) in another. **RESOLVED 2026-07-19: user
+   confirms $1,793.43 is correct.** Memo v3 already uses $1,793.43 ✓. The
+   $1,989.25 sentence inside Ex21 remains wrong on its face — if Ex21 is
+   ever re-served or refiled, correct it there.
 3. **Missing from repo (transfer failed, >10MB or errors):** Lease Agreement
    (both copies: "Car Lease Contract 1-59225931599.pdf" and Ex01) and
    "Ex21_Expense Packet.pdf". User must supply another way (compress/split or

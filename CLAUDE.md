@@ -432,3 +432,58 @@ no-start; several Jan-8 DTCs (tail lamp, radar) are plausibly
 collision-related. **Neutralizer (record-verified):** Paramus completed
 diagnostics and confirmed warranty-covered defect, replaced battery
 (RO #370267; Hu 2/19/26 email). Expect HMA to raise it; brief any counsel.
+
+---
+
+## SESSION ADDENDUM 3 — 2026-07-19 (adversarial review → Memo v4)
+
+**Full adversarial review of Memo v3 run against the complete record**
+(3 blockers, 12 should-fixes, 5 nits). **Memo of Law v4 produced**
+(`materials/Hu_v_HMA_Memo_of_Law_Article75_v4.docx`; XSD-validated, 200
+paragraphs unchanged; pagination still not visually verified — LibreOffice
+broken in sandbox; open in Word).
+
+**⚠ CORRECTIONS TO THIS BRIEF (source-refuted; trajectory table above is
+superseded on these points):**
+1. **There is NO California choice-of-law clause in the release.** Ex09a's
+   only CA reference is the §1542 waiver "as well as any similar law of any
+   state or territory of the United States." The award's "clause related to
+   the state of CA" = the §1542 waiver. All filings must frame the objection
+   around the §1542 unknown-claims waiver, never "choice of law."
+   (The Jan-2026 release's contents are NOT in the record — Ex09b is a dup
+   of Ex06 — so claims about "each" release's contents must be qualified.)
+2. **The dispositive "no allegation" sentence sits in the SAME paragraph as
+   the consumer summary it contradicts** (per the authentic award text
+   layer), not "two paragraphs earlier." Same-paragraph is the stronger and
+   accurate framing; Argument 2's description updated accordingly.
+3. Offer-1 "sent to wrong email" — dropped (refuted); Offer-3 timing: Jan
+   offer stated valid 60 days, lapsed ≈3/30/26; $2,500 conveyed via counsel
+   5/11/26, no standalone HMA writing (Ex08 cover sheet).
+
+**v3→v4 changelog:** removed wrong-email claim; reframed both
+choice-of-law passages around §1542 (+"any similar law" quote); offer-3 row
+and Point VII prose re-dated to the 60-day lapse and 5/11/26 $2,500 via
+counsel; Feb-2026 sentence re-anchored to RO #370267 as the record source
+(open date ≠ failure date); "failed repeatedly" opener replaced with
+one-HV-replacement framing; Point II recitation now quotes the award's
+actual words; "She observed" → "The award recites" (both spots); "manifest
+disregard" recast; "sole stated basis" → "only stated reasoning" +
+checkbox acknowledgment; Finding No. 2 → cited by language; 176 days
+reframed as a span; 198–201 clarified as aggregate; "statutory formula" →
+"formula recited in Respondent's own offers"; Point VII now leads with the
+9/25/25 written acceptance + 9/30/25 three requested release edits +
+HMA's refusal (all record-based, Ex22); Leonidou quote boundary fixed;
+Riina "citing" parenthetical → "see also"; (b)(1) quote bracketed
+"[the]"; footnote-1 warranty attribution moved to Ex22.
+
+**⚠ NEW OPEN ITEM — the 12,000-mile deduction question (potential
+$3,727.78 swing):** if official §198-a(c)(1) allows a use allowance only
+beyond the first 12,000 miles, the statutory deduction at a 7,026-mi first
+report is ZERO. Verify against official text before filing; see
+`research/prefiling-verification-checklist.md` (which also lists every
+case/statute quotation requiring Official Reports verification — the
+sandbox proxy blocks all legal-text sites).
+
+**⚠ Ex22 says RO #370267 "opened" 02/13/26; the RO document says 18FEB26
+16:21.** v4 anchors on the RO document. Reconcile (likely: arrival 2/13,
+RO opened 2/18) before HMA probes the inconsistency.

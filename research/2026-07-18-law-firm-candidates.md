@@ -29,6 +29,12 @@ P.C.** (Philip C. Semprevivo, NYC) — a defense firm; expect that profile as
 appeal): Law Office of Louis Venezia, P.C., Forest Hills (admitted 1975;
 current lemon-law focus UNVERIFIED, directory listings only).
 
+## Outreach status (updated 2026-07-19)
+
+- **Kimmel & Silverman** — previously contacted by user (prior to this project). Drop from new outreach.
+- **Lemberg Law** — replied, **not interested**. Closed.
+- **Bromberg, Krukas** — active targets; rephrased (softer, less "difficult client") drafts in Gmail 2026-07-19. Tone lesson applied: present facts and defer the legal judgment to counsel; frame settlement-refusals as ordinary caution about a release, not principled defiance; drop the citation string and "vulnerable on its face." Old (v1) drafts should be deleted by user — Gmail connector has no delete/update-draft capability.
+
 ## Tier 1 — best profile matches (contact first)
 
 | Firm | Why | Contact | Gaps |

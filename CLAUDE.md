@@ -487,3 +487,65 @@ sandbox proxy blocks all legal-text sites).
 **⚠ Ex22 says RO #370267 "opened" 02/13/26; the RO document says 18FEB26
 16:21.** v4 anchors on the RO document. Reconcile (likely: arrival 2/13,
 RO opened 2/18) before HMA probes the inconsistency.
+
+---
+
+## SESSION ADDENDUM 4 — 2026-07-25 (filing mechanics resolved; Petition drafted)
+
+**Deliverables added:**
+- `materials/Hu_v_HMA_Verified_Petition_v1.docx` — 72 numbered paragraphs,
+  five enumerated Grounds, WHEREFORE, CPLR 402 verification page, and an
+  Index of Exhibits (A–L). XSD-validated (204 paragraphs).
+- `materials/Hu_v_HMA_Notice_of_Petition_v1.docx` — CPLR 403(b) form,
+  return-date and answering-papers demand, venue recital, service block.
+  XSD-validated (62 paragraphs).
+- `research/2026-07-25-filing-mechanics.md` — the procedural memo.
+- ⚠ **LibreOffice is still broken in this sandbox** (control test fails on
+  untouched files too). Neither filing has been visually paginated. **Open
+  both in Word before filing.**
+
+**RESOLVED — the three "WHERE TO GO FROM HERE" questions:**
+
+1. **Caption / parties.** Name **HMA as sole respondent**. Do NOT name
+   NYSDRA, the NY Peace Institute CDRC, the Attorney General, or the
+   arbitrator. Bases: 13 NYCRR Part 300 has no appeal or party-designation
+   provision (**§ 300.17 is "Recordkeeping"**, not appeals); CPLR 7511 runs
+   on the application of "a party"; the award's own CONCLUSION says "a
+   dissatisfied party … may seek judicial relief"; and both First Dept
+   templates (*Leonidou*, *Riina*) are captioned manufacturer v. consumer,
+   two parties only. Recommended non-jurisdictional courtesy copy to
+   lemonlaw@nysdra.org.
+2. **Venue.** New York County is proper under **CPLR 7502(a)(i)** — Petitioner
+   resides at 320 W 38th St. Apt. 2427, New York, NY 10018 (address verified
+   on both the award and the Decision Letter). First Department. ✓
+3. **Service / return date.** CPLR 304 (commencement by filing); CPLR 402
+   (petition must be verified); **CPLR 403(b)** — serve ≥8 days before the
+   return date, ≥12 days if demanding an answer 7 days out (late service
+   defeats jurisdiction); CPLR 403(c) — served like a summons. Corporate
+   service: **BCL § 306** (Secretary of State) if HMA is an authorized
+   foreign corporation, **BCL § 307** (extra mailing + affidavit of
+   compliance) if not. Index fee $210, RJI $95, file ≥5 business days before
+   the return date. **Use a licensed process server — a party may not serve
+   his own papers.**
+
+**⚠ OPEN — the only thing blocking service:** run "Hyundai Motor America" on
+the NY DOS Corporation and Business Entity Search (or call (518) 473-2492) to
+get (a) authorized/unauthorized status, (b) state of incorporation — currently
+bracketed in Petition ¶ 6, (c) the DOS process address, (d) any registered
+agent. Hyundai *Capital* America is a different entity; do not reuse its agent.
+
+**⚠ MILEAGE DEDUCTION — near-resolved, in Petitioner's favor.** Three
+independent search renderings define the statutory "mileage deduction
+formula" as mileage **"in excess of twelve thousand miles"** × price ÷
+100,000. If confirmed, the deduction at a 7,026-mile first report (and at
+HMA's erroneous 8,148-mile basis) is **$0.00** — HMA's $4,326.49 deduction
+was wholly unauthorized, not merely overstated by $598.71, and Memo v4
+concedes $3,727.78 that is not owed. **Not written into any filing** (Prime
+Directive); the Petition carries a bracketed drafting note instead. The one
+remaining step is reading § 198-a(a) and (c)(1) in the official text — the
+sandbox proxy 403s every legal-text host. See
+`research/prefiling-verification-checklist.md` § 3.
+
+**Memo v4 is now behind the Petition on two points** (the mileage deduction,
+and the § 300.17/caption research). A v5 should follow once the statutory
+text is confirmed.

@@ -33,7 +33,7 @@ gating problem.
   paraphrase-in-quotes).
 - **(c)(1)** — confirm the lessee-refund description AND, critically:
 
-## 3. ⚠ THE MILEAGE-DEDUCTION QUESTION — potential $3,727.78 swing in Petitioner's favor
+## 3. ⚠ THE MILEAGE-DEDUCTION QUESTION — **near-resolved 2026-07-25, in Petitioner's favor**
 
 The memo (and both HMA offers) compute the deduction as
 price × (mileage at first report − mileage at delivery) / 100,000. **If the
@@ -47,6 +47,45 @@ the official text; if the 12,000-mile threshold exists, revise Point VIII
 (and the offer-arithmetic passage) accordingly. v4 already hedges by calling
 it "the mileage-deduction formula recited in Respondent's own offers" rather
 than "the statutory formula."
+
+### Research finding, 2026-07-25 — HIGH CONFIDENCE, still officially unverified
+
+Three independent search renderings of the statute return the same
+definition:
+
+> "**Mileage deduction formula**" means the mileage which is **in excess of
+> twelve thousand miles** times the purchase price, or the lease price if
+> applicable, of the vehicle divided by one hundred thousand miles.
+
+and describe the refund as reduced by "an allowance for the consumer's use of
+the vehicle **in excess of the first twelve thousand miles of operation**
+pursuant to the mileage deduction formula." One rendering supplies a worked
+example consistent with that reading (15,000 mi on a $10,000 car → $300, i.e.
+3,000 excess miles, not 15,000).
+
+**Consequence if confirmed:**
+
+| | Deduction |
+|---|---|
+| HMA's January 2026 offer (8,148-mi basis, no 12,000 threshold) | $4,326.49 |
+| Memo v4's "correct" figure (7,026-mi basis, no 12,000 threshold) | $3,727.78 |
+| **Statutory figure with the 12,000-mile threshold** | **$0.00** |
+
+Neither 7,026 nor 8,148 exceeds 12,000, so the excess mileage is zero either
+way. The Point VII argument changes shape: HMA did not merely overstate the
+deduction by $598.71 — it **took a $4,326.49 deduction the statute did not
+authorize at all**, which is a materially stronger bad-faith/arithmetic point
+and increases the refund Petitioner should seek by $3,727.78.
+
+**Still gated.** Per the Prime Directive this has NOT been written into any
+filing. WebFetch returns 403 on nysenate.gov, findlaw, justia, cornell LII and
+autopedia from this sandbox, so the official text could not be pulled. **The
+one remaining step is to read § 198-a(a) (definitions) and § 198-a(c)(1) in
+McKinney's, on Westlaw/Lexis, or on nysenate.gov from an unblocked browser and
+confirm the words "in excess of twelve thousand miles."** On confirmation:
+Memo v5 revises Point VIII ¶2 and the Statement of Facts offer table; the
+Verified Petition's bracketed drafting note (Relief on the Merits, ¶ 66) is
+replaced with the affirmative allegation.
 
 ## 4. § 198-a(l) fee-shifting paraphrase
 

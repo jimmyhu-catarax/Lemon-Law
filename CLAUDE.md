@@ -549,3 +549,28 @@ sandbox proxy 403s every legal-text host. See
 **Memo v4 is now behind the Petition on two points** (the mileage deduction,
 and the § 300.17/caption research). A v5 should follow once the statutory
 text is confirmed.
+
+---
+
+## SESSION ADDENDUM 5 — 2026-07-27 (attorney case summary v3)
+
+User reports the outreach e-mails to the lemon-law firms have been **sent**.
+Deliverable added for the reply: `materials/Hu_v_HMA_Attorney_Case_Summary_v3.docx`
+— a **one-page** briefing sheet to attach when a firm responds. XSD-validated
+(17 paragraphs). Times New Roman 9.5 pt, 0.65" margins, 0.9 leading; layout
+sized to ~93% of one US-Letter page **by calculation, not by visual
+pagination** (LibreOffice still broken in this sandbox) — open in Word and
+confirm it holds to one page before sending.
+
+**v2→v3 changelog** (v1/v2 were produced in the pre-repo claude.ai sessions and
+are not in this repo): rebuilt from the current verified record. Now reflects
+**one** HV pack replacement (RO #358530), not two; frames the release objection
+as the **Civil Code § 1542 unknown-claims waiver**, not a California
+choice-of-law clause; states the September 2025 acceptance-in-writing and that
+the deal died on release terms rather than price; anchors the Feb-2026 event
+away from the award's conflated "RO 363888 / 8,662 mi"; adds a candid
+"WHAT CUTS AGAINST ME" section (current operability, remittal-not-judgment as
+the likely remedy under CPLR 7511(d), the headlamp collision damage, pro se
+posture). Fee-shifting is stated with its scope flagged as to-be-confirmed,
+consistent with `research/prefiling-verification-checklist.md` § 4. The
+mileage-deduction question is **not** mentioned — it stays gated.

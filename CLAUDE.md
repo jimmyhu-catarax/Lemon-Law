@@ -574,3 +574,18 @@ the likely remedy under CPLR 7511(d), the headlamp collision damage, pro se
 posture). Fee-shifting is stated with its scope flagged as to-be-confirmed,
 consistent with `research/prefiling-verification-checklist.md` § 4. The
 mileage-deduction question is **not** mentioned — it stays gated.
+
+**v3→v4 (2026-07-27, same session) — tone.** User's direction: the summary is
+a request for help, not a set of instructions to counsel; protect the
+attorney's judgment and ego. v4 reframes every conclusion as the user's own
+reading, offered subject to the lawyer's judgment — "WHAT MY RESEARCH
+SUGGESTS — subject entirely to your judgment," bullets recast as "appears
+to," "may rest on," "you may weigh them differently, or set them aside." The
+drafted petition/memo are now expressly offered as "a starting point, not a
+prescription," with an explicit statement that counsel is free to rewrite or
+discard them. Adds an invitation to be told the case is not viable, defers
+valuation ("no firm view of what the matter is worth"), and closes on the
+distinction between reading cases and practicing law. **No factual content
+changed** — same figures, dates, RO number, quotations, and citations, except
+that the Gurau pinpoint cite and two minor details were dropped for space.
+Set in 9 pt / 0.55" margins; ~90% of one page by calculation. v3 retained.

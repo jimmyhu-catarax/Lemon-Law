@@ -77,8 +77,12 @@ deduction by $598.71 — it **took a $4,326.49 deduction the statute did not
 authorize at all**, which is a materially stronger bad-faith/arithmetic point
 and increases the refund Petitioner should seek by $3,727.78.
 
-**Still gated.** Per the Prime Directive this has NOT been written into any
-filing. WebFetch returns 403 on nysenate.gov, findlaw, justia, cornell LII and
+**Still gated as to filings.** Per the Prime Directive this has NOT been
+written into any filing. **It does appear in the attorney case summary from v6
+(2026-07-27)** — but only as an explicitly unconfirmed question put to
+prospective counsel ("I could not confirm the language against an official
+source, so I am not asserting it"), which is a different act than pleading it.
+Nothing changes for the Petition or the Memo until the official text is read. WebFetch returns 403 on nysenate.gov, findlaw, justia, cornell LII and
 autopedia from this sandbox, so the official text could not be pulled. **The
 one remaining step is to read § 198-a(a) (definitions) and § 198-a(c)(1) in
 McKinney's, on Westlaw/Lexis, or on nysenate.gov from an unblocked browser and

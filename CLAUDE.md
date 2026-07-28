@@ -613,3 +613,23 @@ Set in 10.5 pt / 0.8" margins; ~91% of two pages by calculation (LibreOffice
 still broken — open in Word). v3 and v4 retained. **The mileage-deduction
 question remains out of the summary**, gated as before; it is the one live
 option to add if the user wants counsel's read on it.
+
+**v5→v6 (2026-07-28) — the mileage-deduction question, un-gated for counsel
+only.** User directed that the deduction question be added to the summary.
+`materials/Hu_v_HMA_Attorney_Case_Summary_v6.docx` (XSD-validated, 20
+paragraphs, 10 pt / 0.8" margins, ~91% of two pages by calculation) adds:
+1. **New section "ONE QUESTION I COULD NOT RESOLVE"** — the twelve-thousand-
+   mile threshold, stated as a question and expressly not asserted ("I could
+   not confirm the language against an official source, so I am not asserting
+   it"), noting that if it holds the $4,326.49 was unauthorized rather than
+   miscalculated. **This does not un-gate the point for filings** — the
+   Petition's bracketed note and Memo v4 are untouched, and
+   `research/prefiling-verification-checklist.md` § 3 now records the
+   distinction.
+2. **"Nothing has been filed: no proceeding is pending, and the ninety days
+   have not run"** — counsel needs to know the posture is pre-commencement.
+3. **The lease extension reframed as a mitigant** — the award itself records
+   that the lease was extended to keep the car available for inspection,
+   which cuts against a staleness/mootness objection.
+Also dropped the duplicated pro-se admission from THE AWARD (it already
+appears in WHAT I THINK CUTS AGAINST ME). v3–v5 retained.

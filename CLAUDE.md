@@ -589,3 +589,27 @@ distinction between reading cases and practicing law. **No factual content
 changed** — same figures, dates, RO number, quotations, and citations, except
 that the Gurau pinpoint cite and two minor details were dropped for space.
 Set in 9 pt / 0.55" margins; ~90% of one page by calculation. v3 retained.
+
+**v4→v5 (2026-07-27) — two pages, detail restored.** User lifted the
+one-page constraint. v5 (`materials/Hu_v_HMA_Attorney_Case_Summary_v5.docx`,
+XSD-validated, 19 paragraphs) keeps v4's deferential voice verbatim and
+restores the evidence that had been cut for space, plus material never in
+v3/v4:
+- **New THE FEBRUARY 2026 RECURRENCE section** — the Jan 8, 2026 Smart
+  Diagnosis (7 DTCs incl. P1BAD92 and C110213), the Feb 18 no-start at
+  11,230 mi, RO #370267's "VERIFIED NEEDS JUMP TO START. TOO DEAD TO
+  COMPLETE GDS," and an **affirmative disclaimer** that this was the 12-volt
+  battery and not a second HV pack (inoculates against the award's
+  conflation and against any impression of overclaiming).
+- **New THE AWARD section** quoting the arbitrator's reasoning in full —
+  backorder parts / free loaner / "no guarantee … of a defect free car" /
+  "[t]he manufacturer's argument is compelling" / the dispositive sentence.
+- Restored: the Gurau pinpoint, the "RO 258530" and "RO 363888 mileage 8662"
+  specifics, odometer 8,148→8,151, $17,483.69 warranty charges, $314/month
+  and $53,360.77, the 7,026-vs-8,148 deduction-basis error, the sixty-day
+  lapse, and the May 11, 2026 $2,500-via-counsel date.
+- Added: "I am flexible on fee structure."
+Set in 10.5 pt / 0.8" margins; ~91% of two pages by calculation (LibreOffice
+still broken — open in Word). v3 and v4 retained. **The mileage-deduction
+question remains out of the summary**, gated as before; it is the one live
+option to add if the user wants counsel's read on it.

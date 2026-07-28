@@ -50,8 +50,8 @@ than "the statutory formula."
 
 ### Research finding, 2026-07-25 — HIGH CONFIDENCE, still officially unverified
 
-Three independent search renderings of the statute return the same
-definition:
+**Four** independent search renderings of the statute (re-confirmed
+2026-07-28) return the same definition:
 
 > "**Mileage deduction formula**" means the mileage which is **in excess of
 > twelve thousand miles** times the purchase price, or the lease price if
@@ -97,6 +97,16 @@ Memo says fees available to a "prevailing consumer" incl. in "a proceeding to
 vacate or modify an arbitration award." Confirm the subsection's exact scope
 ("plaintiff"? "judicial action or proceeding arising out of an arbitration"?)
 before relying on it in the fee reservation and in attorney pitches.
+
+## 4a. ⚠ CPLR 306-b — service deadline (added 2026-07-28)
+
+Search renderings quoting the statutory text agree: where the limitations
+period is **four months or less**, service must be made **not later than
+fifteen days after the date the period expires**. Article 75's 90 days is under
+four months, so service on HMA must be complete by **September 24, 2026**,
+fixed to the expiry date rather than to the filing date. Direct fetch 403s;
+confirm against McKinney's. See `2026-07-25-filing-mechanics.md`, UPDATE
+section, for the revised calendar.
 
 ## 5. Record items (user, not library)
 

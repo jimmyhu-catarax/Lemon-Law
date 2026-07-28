@@ -174,3 +174,74 @@ becomes a $4,326.49 "wholly improper deduction" argument.
 - [Motions & Special Proceedings by Notice of Petition — NY County Supreme, Civil](https://www.nycourts.gov/courts/new-york-county-supreme-court-civil-term/motions-special-proceedings-notice-motionpetition)
 - [NY DOS Corporation and Business Entity Search](https://dos.ny.gov/corporation-and-business-entity-search-database)
 - [GBL § 198-a full text](https://codes.findlaw.com/ny/general-business-law/gbs-sect-198-a/) (403 to direct fetch; mileage-deduction definition read via search rendering)
+
+---
+
+# UPDATE — 2026-07-28: CPLR 306-b, and the real service deadline
+
+**This section corrects an omission in § 4 above.** The original memo covered
+*how* to serve HMA but never *by when*. That is governed by **CPLR 306-b**, and
+for this proceeding it is much tighter than the ordinary rule.
+
+## The rule
+
+The 120-day service window most practitioners think of does **not** apply here.
+CPLR 306-b provides that where the applicable statute of limitations is **four
+months or less**, service must be made **not later than fifteen days after the
+date on which the applicable statute of limitations expires**. (Confirmed
+across four independent search renderings quoting the statutory text, including
+Justia's codification and two practitioner treatments. **Direct fetch still
+403s — confirm against McKinney's before relying on it in court.**)
+
+Article 75's period here is **90 days** — under four months — so the short rule
+governs.
+
+## What that means on this calendar
+
+| Event | Date | Source |
+|---|---|---|
+| Award delivered | June 11, 2026 | Decision Letter |
+| **Limitations period expires (file by)** | **September 9, 2026** | CPLR 7511(a) — locked |
+| **Service on HMA must be complete by** | **September 24, 2026** | CPLR 306-b (15 days after expiry) |
+
+**The service date is fixed to the expiry of the limitations period, not to the
+filing date.** Filing early does not shorten it; filing late does not extend
+it. Two consequences:
+
+1. **Filing in mid-August buys real slack.** File ~August 17 and there are
+   roughly five weeks to complete service on a foreign corporation before the
+   September 24 wall — enough to survive one failed attempt, a wrong process
+   address, or a BCL § 307 mailing sequence.
+2. **Filing on September 8 does not.** The service wall stays at September 24
+   no matter how late the petition goes in, which compresses everything —
+   process server, DOS route, affidavit of service — into about two weeks.
+
+If service is not made in time, 306-b directs dismissal **without prejudice**
+on motion, but permits an extension "upon good cause shown or in the interest
+of justice." Do not plan around that safety net: it is discretionary, and
+here a dismissal without prejudice is functionally with prejudice, because the
+90 days will have run and cannot be refiled.
+
+## Revised recommended calendar
+
+| Step | Target |
+|---|---|
+| Complete the NY DOS entity lookup | **by August 10, 2026** |
+| File Notice of Petition + Verified Petition + exhibits + RJI | **~August 17, 2026** |
+| Serve via licensed process server (BCL § 306 or § 307) | **immediately on filing** |
+| Return date (≥12 days after service to demand an answer) | **early-to-mid September 2026** |
+| Absolute service wall | **September 24, 2026** |
+| File the affidavit of service | promptly after service |
+
+## Also updated
+
+**HMA's state of incorporation — narrowed, still not verified.** Federal and
+state complaints from 2018 and 2025 plead Hyundai Motor America as "a
+corporation organized under the laws of the State of **California**," with its
+principal place of business at 10550 Talbert Avenue, Fountain Valley,
+California. That is consistent across sources but is **pleading language, not a
+corporate record** — Petition ¶ 6 keeps its bracket. The DOS search is still
+required, and for the thing the bracket cannot supply anyway: whether HMA is
+**authorized** in New York (which decides BCL § 306 vs. § 307) and its DOS
+process address. Both the DOS database and the AG's own 2025 Assurance of
+Discontinuance with HMA are blocked to automated fetch from this sandbox.

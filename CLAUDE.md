@@ -56,8 +56,8 @@ Verified arithmetically. CPLR 7511(a). **This date is locked.**
 | Same, to vehicle pickup | 126 days (Apr 3 – Aug 7, 2025) | RO #358530 + delivery |
 | From first report | 176 days (Feb 12 – Aug 7, 2025) | RO #356398 + #358530 |
 | First nonconformity report | **Feb 12, 2025 @ 7,026 mi** | **RO #356398** (incl. Recall 272 ICCU software) |
-| Defect | HV battery; fault codes **P1BAD92, C110213** | two full HV battery replacements under warranty |
-| Feb 2026 recurrence | **Feb 18, 2026 @ ~8,662 mi** — "too dead to complete"; 2nd battery replacement | RO # **UNRESOLVED — see Open Items** |
+| Defect | HV battery; fault codes **P1BAD92, C110213** | **ONE** HV pack replacement (RO #358530, part 37501-GI351-RM). ⚠ CORRECTED — the old "two full HV battery replacements" reading is **refuted by the record**; see Addendum 2. |
+| Feb 2026 recurrence | **Feb 18, 2026 @ 11,230 mi** — "VERIFIED NEEDS JUMP TO START. TOO DEAD TO COMPLETE GDS"; **12-volt** battery replaced under warranty | **RO #370267** ✓ RESOLVED (Addendum 1). The award's "RO 363888 / 8,662 mi" is a separate Aug 2025 no-work visit. |
 | Statutory threshold | 30 days | GBL § 198-a(d)(2) |
 | Incidental expenses | **$1,793.43** (rental/rideshare/transit/towing, net) | GBL § 198-a(c)(1) |
 | Total days (all four repair periods) | ~198–201 | secondary; **do not rely on — 124 alone suffices** |
@@ -66,14 +66,18 @@ Verified arithmetically. CPLR 7511(a). **This date is locked.**
 
 | Date | Offer | Note |
 |---|---|---|
-| Aug 18, 2025 | **$7,977.00** full repurchase | mileage deduction **waived**; sent to wrong email |
-| Jan 29, 2026 | **$5,388.51** restitution | deduction **$4,326.49 on WRONG 8,148-mi basis**; correct 7,026-mi basis = **$3,727.78**; **overstated $598.71** |
-| ~Apr 2026 | repurchase **rescinded**, **$2,500** counter | offer withdrawn as hearing approached |
+| Aug 18, 2025 | **$7,977.00** full repurchase (or **$4,000** cash-keep) | mileage deduction **waived**. ⚠ "sent to wrong email" **DROPPED — refuted** (Addendum 3). Hu **accepted the $4,000 option in writing 9/25–26/25**; deal died on release terms. |
+| Jan 29, 2026 | **$5,388.51** restitution (or **$5,000** cash-keep) | deduction **$4,326.49 on WRONG 8,148-mi basis** (first report was 7,026). ⚠ Do **not** state $3,727.78 as "the correct deduction" — the 12,000-mile threshold question is unresolved; Memo v5 reserves it. Valid 60 days; **lapsed ≈3/30/26**. |
+| May 11, 2026 | repurchase **withdrawn**, **$2,500** counter | conveyed **only through Gorberg** (Laura Wolfe email); no standalone HMA writing (Ex08 cover sheet). |
 
-All offers conditioned on notarized release: **§1542 unknown-claims waiver**,
-confidentiality, indemnity, **California choice-of-law clause**. Petitioner's
-refusal is recorded in the award and was **because of the CA-law clause, not the
-dollar amount** (his objection is verbatim in the award). 10% statutory cap =
+The Aug-2025 release (Ex09a) required a notarized **§1542 unknown-claims
+waiver** ("as well as any similar law of any state or territory of the United
+States"), confidentiality, and indemnity. ⚠ **There is NO California
+choice-of-law clause** — that reading is refuted; see Addendum 3. The award's
+"clause related to the state of CA" IS the §1542 waiver. Petitioner's objection
+is recorded in the award and was **to that clause, not the dollar amount**.
+(The Jan-2026 release's contents are **not in the record** — Ex09b is a
+duplicate of Ex06 — so never describe "each" release's terms.) 10% statutory cap =
 **$5,336.08** (deduction fits under cap either way). Cash price $53,360.77;
 gross cap cost $54,597.70; $314/mo; $2,953 cap-cost reduction.
 
@@ -162,27 +166,47 @@ Brooklyn**" (actually Koeppel LIC); controlling RO mistyped "**RO 258530**"
 
 ---
 
-## DELIVERABLES ALREADY PRODUCED
+## DELIVERABLES — CURRENT VERSIONS (as of Addendum 6, 2026-07-28)
 
-| Document | Where | Status |
+| Document | Current file | Status |
 |---|---|---|
-| **Memorandum of Law v2** | `Hu_v_HMA_Memo_of_Law_Article75_v2.docx` (prior session outputs) | **Complete, filing-formatted.** ⚠ **Copy this into the Claude Code project.** |
-| Memorandum of Law v1 | Google Drive (see map) | superseded by v2 |
-| Attorney Case Summary v1/v2 | prior outputs | one-page intake w/ fee-shifting hook |
-| Exhibit 11 — Days Out of Service | project folder / Drive | supports the day-count |
+| **Attorney Case Summary** | `materials/Hu_v_HMA_Attorney_Case_Summary_v6.docx` | **CURRENT** — ~2 pp., deferential register, carries the deduction question |
+| **Verified Petition** | `materials/Hu_v_HMA_Verified_Petition_v2.docx` | **CURRENT** — 72 ¶¶, 5 Grounds, CPLR 402 verification, Exhibit index A–L |
+| **Notice of Petition** | `materials/Hu_v_HMA_Notice_of_Petition_v2.docx` | **CURRENT** — CPLR 403(b) |
+| **Memorandum of Law** | `materials/Hu_v_HMA_Memo_of_Law_Article75_v5.docx` | **CURRENT** — deduction reserved, not conceded |
+| Packet send plan | `research/2026-07-28-attorney-packet.md` | three tiers + do-NOT-include list |
+| Filing mechanics | `research/2026-07-25-filing-mechanics.md` | caption / venue / service |
+| Verification checklist | `research/prefiling-verification-checklist.md` | what is still unverified |
+
+Superseded but retained for diff: Summary v3/v4/v5, Memo v2/v3/v4, Petition v1,
+Notice v1. **Arbitration Exhibit 11 (Days Out of Service) is still a Google Doc
+only — export to PDF before it can be annexed.**
 
 ---
 
 ## WHERE TO GO FROM HERE (next steps)
 
-1. **Verified Petition** (CPLR 7511) + **Notice of Petition** — the next
-   deliverable. Verify against the record; caption per venue.
-2. **Service mechanics on HMA** — foreign corporation. Research **CPLR 403 /
-   7503 / 311** and BCL § 306/307 (service via NY Secretary of State or
-   registered agent). Confirm the return-date / RJI mechanics.
-3. **Caption question — confirm before drafting:** does the Notice of Petition
-   name **NYSDRA / the AG program** (and/or the arbitrator) as a party or only
-   HMA? Check **13 NYCRR Part 300** and First Dept practice. Do not guess.
+The three original questions (caption, service, return date) are **RESOLVED** —
+see Addendum 4. What remains:
+
+1. **Decide pro se vs. counsel by ~Aug 17, 2026.** The filing deadline is
+   Sept 9. Outreach went out 2026-07-27; if no firm has engaged by mid-August
+   there is no longer time to onboard one, and the petition must be filed
+   pro se or the claim is lost.
+2. **NY DOS entity search on "Hyundai Motor America"** — blocks service.
+   (Hyundai *Capital* America is a different entity.)
+3. **Pull official GBL § 198-a (a) and (c)(1)** — the twelve-thousand-mile
+   question.
+4. **⚠ RESEARCH GAP — CPLR 306-b.** Nothing in this repo addresses the
+   service-after-filing window. For a proceeding whose limitations period is
+   four months or less, 306-b is understood to require service within a short
+   fixed window after the period expires — which would bind hard if the
+   petition is filed near Sept 9. **Unverified; confirm before choosing a
+   filing date.**
+5. **Open all four current .docx in Word** — no pagination has ever been
+   visually verified (LibreOffice is broken in this sandbox).
+6. Verify the five case quotations against the Official Reports; cite
+   *Leonidou* by Slip Op number only (AD3d parallel unconfirmed).
 
 ## OPEN ITEMS (halt-and-confirm)
 
@@ -695,3 +719,50 @@ Ex21_Loss_of_Use_Record $1,989.25 contradiction, and the Mizzoni collision
 invoice, plus the six items still open before filing.
 
 **Superseded:** Petition v1, Notice v1, Memo v4 (all retained for diff).
+
+---
+
+## SESSION ADDENDUM 7 — 2026-07-28 (full-project review; brief reconciled)
+
+Whole-workstream review, not just the filings. One structural defect found and
+fixed, one research gap identified, one scheduling risk escalated.
+
+**⚠ FIXED — this brief contradicted itself.** The top half still carried three
+facts that Addenda 1–3 had already retracted, so a fresh session reading
+top-down would pick up refuted material before ever reaching the corrections:
+(1) "two full HV battery replacements" in VERIFIED FACTS; (2) the Feb-2026 row
+still reading "~8,662 mi / RO UNRESOLVED"; (3) "**California choice-of-law
+clause**" in the release paragraph, plus the refuted "sent to wrong email" note
+and the superseded "~Apr 2026" rescission date. **All corrected in place with
+pointers to the addendum that resolved each.** The DELIVERABLES table (which
+still called Memo v2 current and told the reader to copy it into the project)
+and the WHERE TO GO FROM HERE section (three questions resolved back in
+Addendum 4) were replaced wholesale. The offer-trajectory table now also warns
+against restating $3,727.78 as "the correct deduction."
+
+**Lesson for future sessions:** append-only addenda work for an audit trail but
+rot the head of the file. When an addendum retracts a fact, edit the fact where
+it lives *and* log it below.
+
+**⚠ NEW RESEARCH GAP — CPLR 306-b (service after filing).** Nothing in this
+repo addresses how long after filing service must be made. Article 75's period
+is 90 days — under four months — and 306-b is understood to impose a short
+fixed window after expiration of such a period, rather than the 120 days that
+apply to ordinary actions. If the petition is filed close to Sept 9, that
+window could bind hard, and defective service on a foreign corporation is the
+classic way these proceedings die. **Unverified — the sandbox proxy blocks
+every legal-text host. Confirm before choosing a filing date.** Added to the
+"WHERE TO GO FROM HERE" list above.
+
+**⚠ SCHEDULING — the binding constraint is now the calendar, not the law.**
+43 days to the deadline as of this review. Outreach went out 2026-07-27.
+**Recommended decision date: ~August 17, 2026** — if no firm has engaged by
+then there is no longer time to onboard one, and the choice collapses to filing
+pro se or losing the claim. This is the user's call and is not being reopened;
+it is flagged because the date is now close enough to matter.
+
+**Verified sound in this review:** the 124-day anchor and its source; the
+Petition/Notice/Memo captions; the Exhibit A–L index against the files on disk;
+Memo v5's reservation of the deduction question; Summary v6's affirmative
+12-volt disclaimer. No new factual errors found in the four current documents
+beyond those fixed in Addendum 6.

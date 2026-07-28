@@ -633,3 +633,65 @@ paragraphs, 10 pt / 0.8" margins, ~91% of two pages by calculation) adds:
    which cuts against a staleness/mootness objection.
 Also dropped the duplicated pro-se admission from THE AWARD (it already
 appears in WHAT I THINK CUTS AGAINST ME). v3–v5 retained.
+
+---
+
+## SESSION ADDENDUM 6 — 2026-07-28 (packet review → Petition v2, Notice v2, Memo v5)
+
+Full cross-document review of the four deliverables before packet assembly.
+Two blocking findings, both fixed; everything produced by XML surgery on the
+prior version (paragraph counts unchanged: 204 / 62 / 200; all XSD-validated).
+
+**⚠ BLOCKER 1 — RESOLVED: the "M.D." / "practicing physician" assertion was
+unsourced.** It appeared **9 times** across three documents (Petition ×5
+including the CPLR 402 verification page, Notice ×2, Memo ×2) and originated
+in Memo v2 during the pre-repo claude.ai sessions. The only record support
+anywhere is the award's "Consumer: **Dr.** Jimmy Hu" — and "Dr." does not
+establish "M.D." A sworn verification is the wrong place for an unverified
+credential, and it carried no legal weight: consumer status under
+§ 198-a (a) turns on leasing for personal/family/household purposes, which
+Petition ¶ 5 already alleges. **All nine occurrences removed, and the
+sentence "He is a practicing physician." deleted from ¶ 5.** The caption
+already read "JIMMY Y. HU" so the documents are now internally consistent.
+If a credential is accurate the user may restore it; nothing depends on it.
+
+**⚠ BLOCKER 2 — RESOLVED: the packet contradicted itself on the mileage
+deduction.** Summary v6 raised it as possibly $0.00, Petition ¶ 68 bracketed
+it, but **Memo v4 affirmatively conceded "the correct deduction is
+$3,727.78" in three places** plus "an overstatement of $598.71." Memo v5
+now: (a) offer-table cell states the 8,148-vs-7,026 basis error without a
+figure; (b) the arithmetic block's bold label changed from "Overstatement:
+$598.71" to "Difference attributable to the erroneous basis: $598.71";
+(c) Point VII prose reads "computed the deduction from the wrong odometer
+basis"; (d) Point VIII relief now reads "Applying to that basis the formula
+recited in Respondent's own offers yields $3,727.78. Petitioner does not
+concede that any allowance for use is authorized on these facts, and
+expressly reserves the question whether the statutory formula permits a
+deduction for mileage below twelve thousand miles." **No document in the
+packet now concedes money that may not be owed**, and the reservation is
+phrased to survive being filed as-is.
+
+**Also fixed in Memo v5:**
+- `(Ex. 22.)` → `(Ex. I.)` — the Memo had been citing arbitration exhibit
+  numbers while the Petition cites Exhibits A–L. Now one system.
+- "**Respondent declined to alter any term**" → "**Respondent did not agree
+  to any of them**." The email record (Addendum 2) shows HMA *never responded
+  substantively in writing*; an affirmative refusal overstated it. The new
+  wording is true under either reading.
+
+**Verified clean in review:** captions identical across all three filings;
+all three carry DRAFT — FOR ATTORNEY REVIEW; Memo free of the retracted
+"second HV replacement" and "California choice-of-law" claims; the Petition's
+Exhibit A–L index maps correctly onto the files in `materials/exhibits/`.
+
+**Known-and-accepted:** Exhibits K and L are indexed but never cited in the
+Petition body (annexing an uncited exhibit is not an error); `[telephone]`
+remains blank in the Notice (user to fill).
+
+**New deliverable:** `research/2026-07-28-attorney-packet.md` — a three-tier
+send plan (summary alone → record bundle → drafts), with an explicit
+do-NOT-include list covering the Ex07/Ex09b duplicates, the
+Ex21_Loss_of_Use_Record $1,989.25 contradiction, and the Mizzoni collision
+invoice, plus the six items still open before filing.
+
+**Superseded:** Petition v1, Notice v1, Memo v4 (all retained for diff).

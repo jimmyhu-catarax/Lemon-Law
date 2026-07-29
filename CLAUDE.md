@@ -170,7 +170,7 @@ Brooklyn**" (actually Koeppel LIC); controlling RO mistyped "**RO 258530**"
 
 | Document | Current file | Status |
 |---|---|---|
-| **Attorney Case Summary** | `materials/Hu_v_HMA_Attorney_Case_Summary_v6.docx` | **CURRENT** — ~2 pp., deferential register, carries the deduction question |
+| **Attorney Case Summary** | `materials/Hu_v_HMA_Attorney_Case_Summary_v7.docx` | **CURRENT** — ~2 pp., analysis put as questions; discloses the Q16 conflict |
 | **Verified Petition** | `materials/Hu_v_HMA_Verified_Petition_v2.docx` | **CURRENT** — 72 ¶¶, 5 Grounds, CPLR 402 verification, Exhibit index A–L |
 | **Notice of Petition** | `materials/Hu_v_HMA_Notice_of_Petition_v2.docx` | **CURRENT** — CPLR 403(b) |
 | **Memorandum of Law** | `materials/Hu_v_HMA_Memo_of_Law_Article75_v5.docx` | **CURRENT** — deduction reserved, not conceded |
@@ -824,3 +824,69 @@ non-obvious filename (`Hu NC-1-1249605441.pdf`) and its OCR text is unusable,
 so seven sessions of verification never touched it. **Any exhibit whose
 extracted text is symbol-mangled must be read visually before the record is
 called "complete."**
+
+---
+
+## SESSION ADDENDUM 9 — 2026-07-29 (Attorney Case Summary v7 — deference pass)
+
+**Health check run** (`/doctor` equivalent — the built-in command does not run
+in a non-interactive remote session). Claude Code 2.1.220; branch
+`claude/install-orchestration-drjo97` clean and level with origin at `8513c74`;
+30 GB free; 31 exhibit PDFs present; all four Word deliverables XSD-valid
+(Summary 20 ¶¶ / Petition 204 / Notice 62 / Memo 200). `claude mcp list`
+reports no servers — expected, the remote harness injects them rather than
+using local config. Nothing was broken and nothing needed committing.
+
+**v6→v7 (user direction: "less authority and more deference … we are not
+lawyers and cannot tell the attorneys what to do").**
+`materials/Hu_v_HMA_Attorney_Case_Summary_v7.docx`, XSD-validated, 22
+paragraphs, 10 pt / 0.75" margins, **~94.5% of two pages by calculation**
+(tighter than v6's 84% — the disclosure paragraph and the split of the
+standard-of-review discussion cost roughly a page-third; **open in Word**).
+
+Register changes:
+- The four analytical bullets are now **questions**, not assertions —
+  "Does the award contradict itself?", "Does the 'currently operating'
+  rationale hold up?", "Did the findings ever reach the thirty-day claim?",
+  "Do the errors in the award amount to anything?" — under a new heading
+  **"THINGS I NOTICED, PUT AS QUESTIONS"** that invites counsel to call them
+  naive.
+- Case law pulled out of the argument and quarantined in its own section,
+  **"ON THE STANDARD OF REVIEW — offered only so you know where I got the
+  idea,"** which states outright: "I cite them only so you can see my
+  reasoning and correct it, not as authority for anything." Pinpoint cites
+  dropped (75 NY2d 175; 33 AD3d 1149; 7 NY3d 653) — a pinpoint reads as a
+  claim to have shepardized.
+- "I am not a lawyer. Everything below the facts is guesswork by someone who
+  has read too much and practiced nothing" added to the opening.
+- § 198-a(d)(2) recast from "As I read [it], thirty cumulative days …
+  triggers the presumption" to "My understanding is that § 198-a(d)(2) works
+  off a thirty-day threshold, and you will know that provision far better
+  than I do."
+- Closing line now separates the two registers explicitly: **"The facts I
+  stand behind. The analysis is a layman's."**
+
+**⚠ SUBSTANTIVE ADDITION — the Q16 conflict is now disclosed in the summary.**
+New section **"AN INCONSISTENCY IN MY OWN PAPERS — please see it from me
+first"** states that the Request for Arbitration Form answers the
+first-report question **04/03/2025 at 8,148 miles** while RO #356398 is dated
+**02/12/2025 at 7,026 miles**, that both are in the file, that Petitioner has
+**not** attempted to reconcile them, and that it likely explains Hyundai's use
+of 8,148. This is a **disclosure, not a resolution** — it does not pick a
+reading and so does not violate halt-and-confirm. Rationale: the form is one
+of the two documents being sent to Krukas, so the conflict was going to
+surface within minutes; a summary that asserted 7,026 as "the" first report
+alongside it would have looked either careless or evasive.
+
+Consequently **SETTLEMENT HISTORY no longer says the January deduction was
+computed "rather than the 7,026 miles at which I first reported the defect"** —
+it now says only that the deduction was "computed from an 8,148-mile reading."
+The characterization was the overclaim; the figure is not.
+
+**Still untouched pending the user's decision:** Petition ¶ 68 ("must be
+measured from 7,026 miles") and Memo v5 Point VII ("computed the deduction
+from the wrong odometer basis"). Those are Tier-3 documents and are not in
+the Krukas send.
+
+v3–v6 retained for diff. The packet plan and the Krukas draft-email note now
+point at v7.

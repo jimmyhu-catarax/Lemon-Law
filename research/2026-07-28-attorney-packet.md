@@ -10,7 +10,7 @@ record; only a firm that is engaged wants the drafts.
 
 | Item | File |
 |---|---|
-| Case summary | `materials/Hu_v_HMA_Attorney_Case_Summary_v6.docx` |
+| Case summary | `materials/Hu_v_HMA_Attorney_Case_Summary_v7.docx` |
 
 Nothing else. The summary already says the full record and the drafts exist
 and are available. Attaching eleven files to a first reply reads as a client

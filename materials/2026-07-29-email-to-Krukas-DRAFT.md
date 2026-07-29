@@ -5,7 +5,7 @@ connector not authorized in this session). The document list below is the
 Tier-2 record set from `research/2026-07-28-attorney-packet.md`. **Conform it
 to whatever he actually asked for before sending.**
 
-**Attach:** `materials/Hu_v_HMA_Attorney_Case_Summary_v6.docx` (open in Word
+**Attach:** `materials/Hu_v_HMA_Attorney_Case_Summary_v7.docx` (open in Word
 first and confirm it holds to two pages).
 
 ---

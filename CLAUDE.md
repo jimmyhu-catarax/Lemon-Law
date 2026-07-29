@@ -95,6 +95,15 @@ negotiable."** The call itself is **Hu's testimony — undocumented**; the email
 requesting it is in the record and corroborates that the refusal moved to the
 phone. Do not state HMA's position as non-negotiable as fact; state what Hu was
 told.
+**⚠ AND THE BODY-REPAIR PRECONDITION — documented; see Addendum 13.** By October
+the deal had moved toward the **repurchase**, and HMA gated it on repairing
+unrelated collision damage: **10/14/2025** "status of vehicle body repairs"
+(Ex22 — "the first appearance of the body-repair condition tied to closing the
+deal"); **10/24/2025** Hu reports "completing **rear bumper** body repairs" and
+will return the car when done; **11/05/2025** "Offer #1 was **never executed**
+before the second failure event." **There is no executed repurchase in the file
+because HMA conditioned it on body work whose delay traced back to the 124 days
+HMA had the car.**
 (The Jan-2026 release's contents are **not in the record** — Ex09b is a
 duplicate of Ex06 — so never describe "each" release's terms.) 10% statutory cap =
 **$5,336.08** (deduction fits under cap either way). Cash price $53,360.77;
@@ -1145,3 +1154,64 @@ own written "we have confirmed that you have a valid claim for damages." The
 email now carries both halves and the reason, and adds one line to THE LEASE
 WALL section ("I took the extension on prior counsel's advice, for the same
 reason you raise") so counsel's ¶4 is answered where he raised it.
+
+---
+
+## SESSION ADDENDUM 13 — 2026-07-29 (the body-repair precondition — documented, and previously unused)
+
+**⚠ MATERIAL FINDING. This was sitting in `Ex22_Communication_Log` and no prior
+session used it.** The user's recollection ("Hyundai wanted unrelated body damage
+repaired before the repurchase") is **corroborated by the log itself**, in the
+log's own analytical language:
+
+| Date | Ex22 entry (verbatim fragments) |
+|---|---|
+| 10/03 & 10/14/2025 | HMA "moving toward repurchase"; requests current mileage + Aug/Sep payment history |
+| **10/14/2025** | HMA asked about "the **status of vehicle body repairs**" — Ex22: "**the first appearance of the body-repair condition tied to closing the deal**" |
+| 10/17/2025 | Hu reports a **new** EV issue — charging Level 1 only; will need to return the car |
+| **10/24/2025** | Hu "was completing **rear bumper** body repairs and would return the vehicle once those were done" — Ex22: "**corroborating that body work had become a precondition to executing Offer #1**" |
+| **11/05/2025** | HMA unable to reach Hu; "**Offer #1 was never executed before the second failure event**" |
+
+**Why it matters.** The award and Respondent both lean on Petitioner having
+"refused" offers. The record now shows the August 2025 repurchase did not fail on
+price or on Petitioner's refusal — **HMA gated it on repairing unrelated
+collision damage**, and the reason that damage sat unrepaired was that the
+vehicle was **disabled at Paramus from April 3 to August 5, 2025** (RO #358530).
+Then the battery failed again in January 2026 and the next offer dropped to
+$5,388.51, then $2,500. **This strengthens Argument 7 substantially and is fully
+documented** — unlike the 9/30/2025 call.
+
+**⚠ TWO SEPARATE BODY-DAMAGE EPISODES — do not conflate (this resolves an
+apparent conflict):**
+1. **Rear bumper** — the item gating Offer #1; underway 10/24/2025. **No
+   completion date is in the record.** The user recalls November 2025;
+   **unverified — do not assert it.**
+2. **Right headlamp** — `Ex16_Mizzoni_Auto_Body_Invoice`, a **Preliminary
+   Estimate dated 1/13/2026**, inspection **01/09/2026**, repair **1/22–2/9/26**,
+   self-pay. This is the one Paramus floated as a possible cause of the January
+   2026 no-start.
+   The prior defensive-prep note (Addendum 2) treated the collision damage as a
+   single headlamp item. **It is two items, months apart.**
+
+**⚠ INSURANCE INVOLVEMENT — partly corroborated.** Hu's 9/30/2025 release
+objections cite an "insurance claim" among the confidentiality problems, and on
+**1/22/2026** HMA's css asks for "any updates from the insurance company
+regarding the approval needed to move forward with the diagnosis or repair." So
+an insurer was in the loop in both episodes. **The Mizzoni estimate itself has
+Policy #, Claim #, and Insurance Company all blank**, and Addendum 2 recorded the
+Mizzoni repair as self-pay. **Which episode ran through insurance and which was
+self-paid is UNRESOLVED — halt and confirm before either enters a filing.**
+
+**Krukas email updated accordingly** (new draft `r3806568616495414394`, thread
+`19faaa4dcaaeaca8`). It uses only the documented October dates, asserts **no**
+completion date for the bumper work, and closes the section: "the buyback ended
+up gated on body work, and the reason that work had not already been done was
+that the car spent four months disabled at the dealership. I don't know whether
+that matters legally."
+
+**⚠ GMAIL TOOLING LESSON.** `update_draft` has **no `replyToMessageId`
+parameter** — only `create_draft` does. Editing a reply draft therefore **strips
+its threading** and silently moves it to a new thread. This happened here and
+went unnoticed for six revisions. **Any revision to a reply must be a fresh
+`create_draft` with the reply ID.** There is no delete-draft tool in this
+connector, so superseded drafts must be trashed by hand.

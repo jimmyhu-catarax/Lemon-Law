@@ -247,8 +247,17 @@ see Addendum 4. What remains:
   User to resolve against source before filing.** The Feb-2026 argument is
   anchored on date + odometer + "too dead to complete," which don't depend on
   the RO number.
-- **NJ Lemon Law parallel track** (N.J.S.A. 56:12-29 et seq.) — flagged,
-  **not developed.** Evaluate viability; do not draft without verification.
+- **NJ Lemon Law parallel track** (N.J.S.A. 56:12-29 et seq.) — **preliminary
+  scan done 2026-07-29**, `research/2026-07-29-nj-lemon-law-prelim.md`.
+  **SECONDARY SOURCES ONLY — no primary text read** (proxy 403s every
+  legal-text host by egress policy). Indications: NJ reaches a vehicle
+  **registered** there though leased out of state; the presumption runs on
+  **20 days** out of service, so **RO #358530's 124 days is 6.2× the NJ
+  threshold**; term of protection 24,000 mi / 2 yrs, and every nonconformity
+  was reported inside it. **Two unresolved questions probably decide it:**
+  (a) does losing the NY compulsory arbitration preclude a NJ claim, and
+  (b) what is the limitations period for filing (as opposed to the term of
+  protection). **Nothing here may enter a filing.** Posed to Krukas 7/29.
 
 ## DO NOT REOPEN (user has decided)
 

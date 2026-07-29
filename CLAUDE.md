@@ -46,6 +46,15 @@
 90 days from award delivery (6/11/2026, emailed 2:24 p.m. ET from don@nysdra.org).
 Verified arithmetically. CPLR 7511(a). **This date is locked.**
 
+### ⏰ SECOND CLOCK — **LEASE ENDS NOVEMBER 23, 2026 (hard)**
+The Lease Term Extension Agreement allows a **maximum of 6 months** month-to-month
+and sets a **Maximum Maturity Date of 11/23/2026**. The lease **cannot** be
+extended beyond it. Service must be complete by **9/24/2026** (CPLR 306-b), so
+the sequence is **file → serve → then ~8 weeks of vehicle possession left.**
+Counsel (Krukas, 7/29/26) flags post-return standing as *"far from settled law."*
+Buying the vehicle out is the identified preservation option — **undecided; the
+user's call.** See Addendum 10.
+
 ---
 
 ## VERIFIED FACTS (the anchors)
@@ -61,6 +70,8 @@ Verified arithmetically. CPLR 7511(a). **This date is locked.**
 | Statutory threshold | 30 days | GBL § 198-a(d)(2) |
 | Incidental expenses | **$1,793.43** (rental/rideshare/transit/towing, net) | GBL § 198-a(c)(1) |
 | Total days (all four repair periods) | ~198–201 | secondary; **do not rely on — 124 alone suffices** |
+| ⏰ **LEASE EXTENSION HARD WALL** | **November 23, 2026** — "Maximum Months Extended: **6**; Maximum Maturity Date: **11/23/2026**." Month-to-month at $314 due the 23rd; extension letter dated **May 22, 2026**. **The lease CANNOT be extended past 11/23/2026.** | **Ex15 Lease Term Extension Agreement**, acct #2415627694 ✓ read 2026-07-29 (Addendum 10). Sits **10 weeks after** the 9/9/2026 filing deadline. |
+| Sums paid on the lease | **$7,552.74** applied through the 5/23/2026 due date (25 payments × $314.00 = $297.26 base + $16.74 sales tax) **+ $2,953.00** cap-cost reduction ≈ **$10,505.74**, plus extension payments since | **Ex19 Lease Payment History** (Hyundai Motor Finance, stmt. dated 6/2/2026) ✓ computed 2026-07-29. "Amount Funded 39,958.70" — **not reconciled** to the $7,500 federal credit; do not assert how the credit was handled. |
 
 ### Settlement-offer trajectory (a strategic asset — shows bad faith / no rational basis)
 
@@ -890,3 +901,82 @@ the Krukas send.
 
 v3–v6 retained for diff. The packet plan and the Krukas draft-email note now
 point at v7.
+
+---
+
+## SESSION ADDENDUM 10 — 2026-07-29 (Krukas substantive reply; the November 23 lease wall)
+
+**Counsel's second reply** (ekrukas@lemonfreedom.com, 7/29/26 12:18 UTC, cc
+mvicario@lemonfreedom.com) — seven numbered points. Four corroborate the
+existing analysis; **two attack the case on posture and economics, not merits.**
+
+**⚠ NEW HARD DEADLINE — the lease cannot outlive November 23, 2026.**
+`Ex15_Lease_Extension_Agreement.pdf` was **read for the first time this
+session** (extracted text had been on disk since 7/18 but never opened).
+Verbatim: extension letter dated **May 22, 2026**; "**Maximum Months Extended:
+6    Maximum Maturity Date: 11/23/2026**"; month-to-month at **$314** due the
+23rd; early-termination provisions do not apply between Original and Maximum
+Maturity Date. **This is a second clock and it was not in the project's model
+of the case.** Recorded in VERIFIED FACTS and under the filing deadline above.
+
+**⚠ Krukas's two adverse points (do not paper over these):**
+1. **Standing after the lease ends.** The lease was already in extension at the
+   arbitration. Case law on maintaining a claim after the vehicle is returned
+   at lease end is *"far from settled law"*; he warns against handing HMA an
+   extra issue in dispute. **Buying the vehicle out** is the identified
+   preservation option — he notes it complicates any repurchase calculation and
+   is "throwing more good money after bad." **UNDECIDED — the user's call.**
+2. **Economics.** He rated the exposure off `24 × $314 = $7,536` and doubted it
+   justifies a ~$5,000 fee against only possible court-ordered reimbursement.
+   **His figure was low** — see the correction below.
+
+**✔ Krukas corroborates, unprompted:** *DaimlerChrysler v Spitzer* forecloses
+the condition-at-hearing standard (his ¶6 = our Argument 3); § 198-a(e) does not
+excuse supply shortages (his ¶7 = our Argument 5); **the Request for Arbitration
+Form never alleged 4+ repair attempts**, so he "question[s] why the arbitrator
+added that as an issue in dispute" (independent support for Argument 4, the
+disjunctive-prongs point); and **RO #358530 "should be sufficient to justify a
+LL repurchase 100% of the time."** Also: *"this arbitrator has no business
+handling such matters."*
+
+**⚠ THE TWELVE-THOUSAND-MILE QUESTION — practitioner confirmation, NOT official
+text.** Krukas, unprompted: *"In NY you wouldn't be charged usage on the first
+12,000 miles — so the usage offset in your settlement discussions should have
+been nothing or almost nothing."* This is a practicing NY lemon-law attorney
+independently stating the reading the project could not verify (proxy 403s every
+legal-text host). **It does NOT clear the Prime Directive on its own** — the
+official § 198-a(c)(1) text is still unread, and no filing may assert it yet.
+Consequence if it holds: HMA's **$4,326.49** January deduction was *unauthorized*,
+not merely computed from the wrong odometer basis. Memo v5's reservation was
+drafted correctly and needs no change. `research/prefiling-verification-checklist.md`
+§ 3 remains open.
+
+**✔ Q16 disclosure vindicated.** Krukas built his ¶2 partly on the mileage-basis
+conflict volunteered in the 7/29 email and Summary v7. Disclosing it bought
+credibility rather than costing it.
+
+**⚠ ECONOMICS CORRECTED (new, computed from Ex19 this session).**
+`Ex19_Lease_Payment_History.pdf` (Hyundai Motor Finance, statement dated
+6/2/2026) — 46 payment rows across **25 distinct due dates, 05/23/2024 through
+05/23/2026**, each $314.00 split **$297.26 base + $16.74 sales tax**, totalling
+**$7,552.74**. Plus the **$2,953.00** cap-cost reduction = **≈$10,505.74**, plus
+extension payments since, plus **$1,793.43** incidentals ≈ **$13,000** — not the
+$7,536 Krukas assumed. ⚠ "Amount Funded **39,958.70**" appears on the history and
+**does not reconcile** to agreed value $53,360.77 / gross cap cost $54,597.70
+less the $2,953 reduction. **Do not assert how the $7,500 federal credit was
+handled** — unresolved; the lease was sent to counsel to speak for itself.
+
+**Reply drafted** in thread `19faaa4dcaaeaca8` (reply to message
+`19fadcff2f7f22b7`, draft id `r2391943105547565973`): thanks for the informal
+agreement; explains **leased in NY / registered in NJ because Petitioner resides
+in Manhattan and commutes to work in New Jersey**, with all service at Paramus,
+and notes the form disclosed it (Q6 Yes / Q7 No) and the program arbitrated
+anyway; gives the corrected money figures; states the 11/23/2026 wall; asks for
+a fee structure or a plain no. **Attachments must be added by hand** — the Gmail
+connector cannot attach. ⚠ `Ex01_Lease_Agreement.pdf` is **23.0 MB**, at the edge
+of Gmail's 25 MB post-encoding limit; expect Gmail to convert it to a Drive link.
+
+**Lesson (second time this pattern has cost us — cf. Addendum 8):** an exhibit
+whose text sat extracted-but-unread for eleven days contained a hard deadline.
+**Extraction is not reading.** Before the record is called "complete," every
+exhibit needs eyes on its substance, not just a successful text dump.

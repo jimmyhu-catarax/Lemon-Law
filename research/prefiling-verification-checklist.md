@@ -33,6 +33,29 @@ gating problem.
   paraphrase-in-quotes).
 - **(c)(1)** — confirm the lessee-refund description AND, critically:
 
+## 2a. § 198-a(n) — the rights-waiver provision (NEW 2026-07-29)
+
+Argument 7 and Petition Ground-level relief both lean on **§ 198-a(n) voiding
+waivers of lemon-law rights**. **Its text has never been read.** It is asserted
+throughout the project on the same footing as (c)(1) and (l) — i.e. unverified.
+
+Why it now matters more: the August 2025 buyback was conditioned on a notarized
+**Civil Code § 1542 unknown-claims waiver**, plus confidentiality and indemnity.
+Petitioner sent three requested edits **9/30/2025**; HMA replied the same day
+asking to move to a phone call, never answered in writing, and **on that call
+told him the terms were "not negotiable."** If (n) voids waivers of rights under
+the section, then HMA conditioned a statutory remedy on a term it could not
+lawfully demand — and the arbitrator's reliance on Petitioner's "refusal"
+rests on that condition.
+
+**To confirm:** read § 198-a(n) in McKinney's / Westlaw / Lexis / nysenate.gov
+from an unblocked browser. Establish (a) the exact scope of what is void,
+(b) whether it reaches a pre-suit settlement release as opposed to only
+warranty/contract terms, (c) whether any case law applies it to a release.
+**Until then no filing may assert (n)'s scope**, and the call may be described
+only as what Petitioner was told — it is undocumented; the 9/30 email
+requesting the call is the only writing.
+
 ## 3. ⚠ THE MILEAGE-DEDUCTION QUESTION — **near-resolved 2026-07-25, in Petitioner's favor**
 
 The memo (and both HMA offers) compute the deduction as

@@ -87,6 +87,14 @@ States"), confidentiality, and indemnity. ⚠ **There is NO California
 choice-of-law clause** — that reading is refuted; see Addendum 3. The award's
 "clause related to the state of CA" IS the §1542 waiver. Petitioner's objection
 is recorded in the award and was **to that clause, not the dollar amount**.
+**How the deal actually died (user-confirmed 2026-07-29):** Hu sent three
+requested edits **9/30/2025**; HMA's css replied **the same day asking for a
+good time to call** (email record line 17) and **never responded substantively
+in writing**; **on that call Hu was told the buyback terms were "not
+negotiable."** The call itself is **Hu's testimony — undocumented**; the email
+requesting it is in the record and corroborates that the refusal moved to the
+phone. Do not state HMA's position as non-negotiable as fact; state what Hu was
+told.
 (The Jan-2026 release's contents are **not in the record** — Ex09b is a
 duplicate of Ex06 — so never describe "each" release's terms.) 10% statutory cap =
 **$5,336.08** (deduction fits under cap either way). Cash price $53,360.77;
@@ -171,6 +179,18 @@ Brooklyn**" (actually Koeppel LIC); controlling RO mistyped "**RO 258530**"
 7. **Refusal of offers ≠ conformity**; offer trajectory + $598.71 mileage error
    + $2,500 rescission cut against Respondent. Lease extension (recorded in
    award) **defeats mootness**; § 198-a(n) voids rights-waivers.
+   **Strengthened 2026-07-29:** Petitioner did not refuse money — he **accepted
+   in writing 9/25–26/25** and asked for three edits on **9/30/25**; HMA moved
+   the conversation to a phone call the same day and **told him the terms were
+   "not negotiable."** So the statutory buyback was conditioned on a notarized
+   **§1542 unknown-claims waiver + confidentiality + indemnity**, take-it-or-
+   leave-it. If § 198-a(n) voids waivers of lemon-law rights, HMA demanded a
+   term it could not lawfully require, and the arbitrator's use of the refusal
+   against Petitioner rests on that unlawful condition — not merely unfair, but
+   an improper basis. ⚠ **§ 198-a(n)'s text is UNVERIFIED** — same gap as
+   (c)(1) and (l); see checklist § 2a. **No filing may assert (n)'s scope until
+   the official text is read.** The call is Petitioner's testimony and is
+   **undocumented**; the 9/30 email requesting it is the corroboration.
 8. **Relief & fees** — § 198-a(c) lessee refund (all sums paid, less statutory
    mileage from **7,026 mi** = $3,727.78, cap $5,336.08) + $1,793.43
    incidentals; **§ 198-a(l)** fee-shifting reserved if counsel retained.
@@ -980,3 +1000,58 @@ of Gmail's 25 MB post-encoding limit; expect Gmail to convert it to a Drive link
 whose text sat extracted-but-unread for eleven days contained a hard deadline.
 **Extraction is not reading.** Before the record is called "complete," every
 exhibit needs eyes on its substance, not just a successful text dump.
+
+---
+
+## SESSION ADDENDUM 11 — 2026-07-29 (how the buyback actually died; the § 198-a(n) hook)
+
+**User-confirmed fact, new to the project:** the August 2025 buyback did not
+lapse into silence. Sequence, now recorded in the release paragraph above and
+in Argument 7:
+
+| Date | Event | Source |
+|---|---|---|
+| 8/18/2025 | HMA offers repurchase ($7,977.00, mileage deduction **waived**) **or** $4,000 cash-keep | Ex05 ✓ |
+| 9/25–26/2025 | **Hu accepts in writing** ("Let's get started on next steps") | Gmail ✓ |
+| 9/30/2025 | Hu sends **three requested edits** to the release (§1542 waiver, scope, confidentiality) | Gmail ✓ |
+| 9/30/2025 | **HMA css replies the same day asking for "best time to call"** — and never answers substantively in writing | `materials/email_record_summary.md` line 17 ✓ |
+| on that call | **Hu is told the buyback terms are "not negotiable."** | **Hu's testimony — UNDOCUMENTED** |
+
+**Evidentiary posture — do not overstate.** The call is Petitioner's own
+recollection; there is **no writing memorializing it**. What *is* documented is
+HMA's same-day email moving the conversation to the phone, and the absence of
+any substantive written response. Filings and correspondence may say **what Hu
+was told**; they may **not** assert as fact that HMA's position was
+non-negotiable.
+
+**Why this matters — the § 198-a(n) hook.** The arbitrator treated Petitioner's
+refusal of offers as weighing against him. The record now shows he **accepted**
+and that the deal died on a **notarized §1542 unknown-claims waiver** (plus
+confidentiality and indemnity) presented take-it-or-leave-it. If § 198-a(n)
+voids waivers of rights under the section, HMA conditioned a statutory remedy on
+a term it could not lawfully demand, and the award's use of the "refusal" rests
+on that unlawful condition — an improper basis, not merely an unfair one.
+
+**⚠ § 198-a(n)'s TEXT HAS NEVER BEEN READ.** It has been asserted since the
+pre-repo sessions on the same unverified footing as (c)(1) and (l). New
+`research/prefiling-verification-checklist.md` **§ 2a** records what must be
+confirmed: the exact scope of what is void, whether it reaches a **pre-suit
+settlement release** as opposed to warranty/contract terms only, and whether any
+case law applies it that way. **No filing may assert (n)'s scope until then.**
+
+**Also corrected this session:** the user's initial framing of the objection as
+a waiver of "rights in California, which didn't apply" is **refuted by Ex09a**
+and would have cost credibility with counsel. Clause (j) reads: *"Releasor
+specifically waives section 1542 of the California Civil Code, **as well as any
+similar law of any state or territory of the United States**."* It is an
+unknown-claims waiver reaching every state's equivalent — not a choice-of-law
+provision, and not inapplicable. This is the third time the "California" reading
+has had to be corrected (cf. Addendum 3). **The accurate framing is the stronger
+one:** Petitioner declined to sign away claims he did not know he had.
+
+**Krukas reply draft** updated accordingly (thread `19faaa4dcaaeaca8`; draft id
+rotated to `r-7536188808672574741`). It now opens with why the repurchase did
+not close, corrects the California characterization in Petitioner's own voice
+before counsel finds it, states the evidentiary gap on the call, and closes by
+asking Krukas what **he** would do in Petitioner's position. Reply requested by
+**August 7**.

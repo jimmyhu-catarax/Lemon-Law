@@ -1064,3 +1064,53 @@ not close, corrects the California characterization in Petitioner's own voice
 before counsel finds it, states the evidentiary gap on the call, and closes by
 asking Krukas what **he** would do in Petitioner's position. Reply requested by
 **August 7**.
+
+---
+
+## SESSION ADDENDUM 12 — 2026-07-29 (Krukas reply finalized; prior counsel disclosed)
+
+**The reply draft was restructured and is final** (thread `19faaa4dcaaeaca8`,
+draft id `r-7536188808672574741`). Order now tracks Krukas's own numbered
+points — registration (his ¶2) → the NJ question → lease wall (¶4) → the money
+(¶5) → why the repurchase didn't close (¶3) → prior counsel → asks. The NJ
+question was moved **up**, ahead of the defensive material, because it is the
+item most likely to change his answer. **No reply date is set** (user's
+direction: counsel has been prompt without being asked).
+
+**⚠ NEW DISCLOSURE — the Gorberg representation is now on the record with
+counsel.** It had never been mentioned to Krukas. Verbatim anchors from
+`materials/email_record_summary.md`:
+
+| Date | Event | Verbatim |
+|---|---|---|
+| 2026-02-25 | Hu signs Authorization to Represent | — |
+| 2026-02-26 | Gorberg (jackie) → Hu | *"Based on our review we have confirmed that you have a valid claim for damages and are now representing you in this matter."* |
+| ≈2026-03-30 | HMA's Offer 2 lapses **while Gorberg holds the file** | — |
+| 2026-05-11 | Laura Wolfe, Esq. → Hu | *"David indicated that the best we can do is resolve the claim for $2500, plus HMA pays our legal fee in addition."* |
+| 2026-05-12 | Hu → Wolfe | Declines; *"Since David does not want to file, and is dropping this case, I ask that you release me…"* |
+| 2026-05-12 | Wolfe → Hu | *"HMA has been advised we no longer represent you."* Arbitration filed same day. |
+
+**Why disclosing helps rather than hurts:** a second firm confirmed **in
+writing** that the claim was valid, then declined to litigate it and proposed a
+$2,500 exit **with its own fee paid by HMA on top**. Petitioner's refusal was
+that $2,500 was *less than HMA had offered before Gorberg was retained* — which
+is a sound judgment, not a stubborn one. The email states the assessment and the
+recommendation "pointed in different directions" and leaves the inference to
+counsel.
+
+**Three accuracy fixes in the same pass:**
+1. *"I accepted in writing"* → *"I accepted **the cash option** in writing"* —
+   the record shows Hu accepted the **$4,000 cash-keep**, not the repurchase.
+   The old wording read as though he had accepted the buyback.
+2. *"I intend to file by September 9 either way"* → *"I would rather preserve
+   the claim imperfectly than lose it cleanly, and I'll file pro se if it comes
+   to that."* The original asserted a decision the user **has not made** — pro
+   se vs. counsel remains open and is his call.
+3. § 198-a(n) **deliberately omitted** from the email. Its text is still
+   unverified (checklist § 2a); floating an unverified statutory theory at a
+   practitioner costs credibility. The underlying facts are all in the email, so
+   counsel can reach the argument independently.
+
+**Still true and unchanged:** attachments must be added by hand (the connector
+cannot attach); `Ex01_Lease_Agreement.pdf` at 23.0 MB will likely be converted
+to a Drive link by Gmail.

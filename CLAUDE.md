@@ -1114,3 +1114,34 @@ counsel.
 **Still true and unchanged:** attachments must be added by hand (the connector
 cannot attach); `Ex01_Lease_Agreement.pdf` at 23.0 MB will likely be converted
 to a Drive link by Gmail.
+
+**⚠ WHY THE LEASE WAS EXTENDED — new, and it matters (user recollection,
+2026-07-29).** The extension was **not** a drift into month-to-month. Hu took it
+**on Gorberg's advice**, because Gorberg told him the vehicle would need to
+still be in his possession when anything was filed. **Krukas's ¶4 standing
+concern was therefore reached independently by prior counsel months earlier.**
+Two consequences: (a) the award's recital that the lease was extended to keep
+the car available for inspection is corroborated by the reason it was actually
+done; (b) any mootness/staleness answer can say the preservation step was taken
+deliberately on legal advice, not by accident.
+
+**Why Gorberg declined — business model, not merits (user recollection, same
+call).** As Hu understood him: the firm's work is mostly **quick pre-suit
+settlements**, and once Gorberg saw HMA had already made **two repurchase
+offers**, he did not regard this as that kind of case. He was not available for
+further discussion; the $2,500 came through the office.
+
+**⚠ EVIDENTIARY STATUS — UNDOCUMENTED.** Both points above come from **one brief
+phone conversation** and there is **nothing in writing** behind either. Same
+posture as the 9/30/2025 HMA call (Addendum 11). Filings and correspondence may
+state **what Hu was told and what he understood**; they may **not** assert
+Gorberg's reasoning as fact. The Krukas email is phrased that way ("what follows
+is my understanding of it with nothing in writing behind it").
+
+**Strategic read:** this materially *improves* the Gorberg disclosure. A firm
+declining because a case does not fit its quick-settlement model is a very
+different signal from a firm declining on the merits — especially alongside its
+own written "we have confirmed that you have a valid claim for damages." The
+email now carries both halves and the reason, and adds one line to THE LEASE
+WALL section ("I took the extension on prior counsel's advice, for the same
+reason you raise") so counsel's ¶4 is answered where he raised it.

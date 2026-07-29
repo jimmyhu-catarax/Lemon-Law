@@ -766,3 +766,61 @@ Petition/Notice/Memo captions; the Exhibit A–L index against the files on disk
 Memo v5's reservation of the deduction question; Summary v6's affirmative
 12-volt disclaimer. No new factual errors found in the four current documents
 beyond those fixed in Addendum 6.
+
+---
+
+## SESSION ADDENDUM 8 — 2026-07-29 (Krukas engaged; ARBITRATION FORM READ FOR THE FIRST TIME)
+
+**Counsel contact.** Eugene Krukas (Lemon Freedom, (516) 203-4001) called
+2026-07-28, was sent the award, and replied 2026-07-29 02:07 UTC: *"from my
+perspective, the decision is insane… The only argument about days is that back
+ordered parts are a challenge in the industry… it's exactly the sort of thing
+that the state lemon laws are meant to address."* He asked for **the Repair
+Orders and the Request for Arbitration Form**, and looped in his partner
+**Michael Vicario (mvicario@lemonfreedom.com)**, who "handled the litigation
+end of things." Gmail draft prepared in the thread (reply to message
+19fabaab5a59a645); **attachments must be added by hand** — the draft tool does
+not support them.
+
+**`materials/exhibits/Hu NC-1-1249605441.pdf` IS the Request for Arbitration
+Form.** It had never been read in any prior session — the text layer is
+symbol-mangled and the checkbox states are not recoverable from it. Read
+visually this session. Case No. NC-1-1249605441, referred to NYSDRA 5/5/26,
+Filing Date 5/12/26.
+
+**⚠ FINDING 1 — Q16 CONTRADICTS THE FILINGS' FIRST-REPORT DATE.** The form's
+Q16 ("On what date and at what mileage did you **first** report this
+problem(s)?") reads **04/03/2025, mileage 8148** — not February 12, 2025 at
+7,026 miles. **This is Petitioner's own filed statement to the AG program, and
+it is why Hyundai used 8,148 in both offers.** Consequences:
+- Memo v5 Point VII ("computed the deduction from the wrong odometer basis")
+  and Petition ¶ 68 ("must be measured from 7,026 miles") are **materially
+  weakened**; as drafted they put Petitioner in conflict with his own filing.
+- RO #356398 (2/12/25, 7,026 mi, incl. Recall 272 ICCU) is real and is in the
+  record; whether it is a "first report" of the *same* nonconformity is
+  arguable — but it is now an argument, not an anchor.
+- **The 124-day anchor is UNAFFECTED**, and is in fact corroborated: 4/3/2025
+  is the first day of RO #358530.
+- **Do not revise the filings until the user decides how to reconcile this.**
+  Halt-and-confirm.
+
+**✔ FINDING 2 — Q15 CORROBORATES GROUND II.** Q15 ("Does the problem(s) for
+which you seek relief substantially impair the value of the vehicle to you?")
+is checked **YES**. The award's dispositive sentence says there was "no
+allegation that the use and value is impaired." **The initiating document in
+the arbitrator's own file alleges exactly that**, in the program's own words.
+This is stronger corroboration than the same-paragraph contradiction the Memo
+currently relies on, and should be added to Ground II / Memo Point II.
+
+**Other form data (all new to the project):** Q5 date of delivery **05/22/24**
+(the lease says 05/23/2024 — reconcile); current mileage at filing **12,800**;
+Q10 purchase price **$54,597.40** (cf. gross cap cost $54,597.70 — 30¢ off);
+Q6 purchased/leased in NY **Yes**; Q7 registered in New York **No**; Q8
+personal/family/household **Yes**; Q14 problem part: "car battery system."
+Lessor: Hyundai Lease Titling Trust, Lease Acct #2415627694.
+
+**Lesson:** the arbitration form was sitting in `materials/exhibits/` under a
+non-obvious filename (`Hu NC-1-1249605441.pdf`) and its OCR text is unusable,
+so seven sessions of verification never touched it. **Any exhibit whose
+extracted text is symbol-mangled must be read visually before the record is
+called "complete."**

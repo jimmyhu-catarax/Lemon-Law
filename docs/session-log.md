@@ -34,6 +34,7 @@
 | 15 | 2026-07-30 | The fee ask added to the Krukas reply |
 | 16 | 2026-07-30 | Fee structures made concrete |
 | 17 | 2026-07-30 | **Counsel said yes; NJ closed; earlier read retracted** |
+| 18 | 2026-07-30 | **The $5,000 declined; fee restructure asked with numbers** |
 
 ---
 
@@ -1151,8 +1152,9 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r2138320854833607067`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. Short and businesslike, matching his register now that the
+**SEND `r-2968709523769102880`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. (Supersedes `r2138320854833607067`; see Addendum 18 — the
+user will **not** pay the $5,000 and the email now says so.) Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
 retainer against § 198-a(l); limited scope — review, sign, appear; appearance
@@ -1169,3 +1171,51 @@ returns "caller does not have permission."
 Pro se vs. counsel is no longer abstract: **$5,000 up front, reimbursed only if
 he wins, on odds he puts well below 90% and pins largely to judicial assignment.**
 That is the user's call and his alone. Nothing in this repo should presume it.
+
+---
+
+## SESSION ADDENDUM 18 — 2026-07-30 (⚠ THE $5,000 IS DECLINED — position fixed)
+
+**⚠ USER DECISION, RECORDED: he will NOT pay a $5,000 up-front retainer.**
+Representation happens only on a restructured basis. This is a settled position,
+not an opening bid — do not draft anything that presumes otherwise.
+
+**Draft `r-2968709523769102880`** supersedes `r2138320854833607067`, which had
+said *"I am inclined to go ahead … before I commit to the $5,000."* That framing
+invited the reply *"the fee is $5,000"* and would have ended the conversation.
+
+**The framing that replaced it — declining is AGREEING with him.** Krukas wrote:
+*"Strictly speaking, from a financial perspective it doesn't make sense to pay
+what we would charge."* So the email adopts his own analysis rather than
+haggling:
+
+> "I am not going to pay $5,000 up front. That is less reluctance than agreement
+> with your own analysis: a $5,000 fee for a shot at $6,500, on odds you would
+> put well under 90% and that turn substantially on which judge I draw, does not
+> make sense."
+
+**Three structures, each now asking for a NUMBER rather than a yes/no** — "what
+would that cost?" instead of "is there an arrangement?":
+1. **Fee looking to recovery or § 198-a(l) fee-shifting**, with or without a
+   modest retainer. ⚠ (l)'s scope still **UNVERIFIED** — asked as a question.
+2. **Limited scope at a reduced fee** — counsel reviews and signs the filing and
+   appears on the return date; Petitioner does assembly, exhibits, service.
+3. **Appearance only** — Petitioner files; counsel represents at the hearing.
+   Includes the on-the-record-for-the-duration caveat.
+
+**Explicit exit given:** *"If none of those work, I will file pro se and take my
+chances… I would rather have a clean no than have you take something on terms
+that don't work at your end."*
+
+**⚠ REALISTIC READ (assessment, not fact).** Option 1 is the least likely — a
+firm bearing fee risk on a petition counsel himself rates well under 90%, under
+a provision nobody has read. **Options 2 and 3 are the likely landing zone**
+because they cut his labour rather than his security. If a number comes back, it
+should be materially below $5,000; if it comes back at or near $5,000, that is
+effectively a no and **pro se is the path.**
+
+**The usage question is retained and is the one item with money in it.** Krukas's
+two emails reconcile only if usage runs on the **current** odometer rather than
+**first-report** mileage; if it runs on first report (7,026 or 8,148 — both under
+12,000), usage is **zero** and his $6,500 rises. **Neither reading may be
+asserted.**

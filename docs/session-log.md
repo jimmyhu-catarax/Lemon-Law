@@ -36,6 +36,7 @@
 | 17 | 2026-07-30 | **Counsel said yes; NJ closed; earlier read retracted** |
 | 18 | 2026-07-30 | **The $5,000 declined; fee restructure asked with numbers** |
 | 19 | 2026-07-30 | Tightened reply; superseded drafts pending deletion |
+| 20 | 2026-07-30 | Register: gratitude and counsel's own indignation |
 
 ---
 
@@ -1153,9 +1154,9 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r8206308063604041995`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. Tightened version (~250 words, down from ~450) to match the
-short register counsel has shifted to. Supersedes `r-2968709523769102880` and
+**SEND `r8166413635158683041`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. See Addendum 20 (gratitude + shared-indignation register).
+Supersedes `r8206308063604041995`, `r-2968709523769102880`,
 `r2138320854833607067`. Position unchanged — see Addendum 18. Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
@@ -1247,3 +1248,43 @@ offer. A number at or near $5,000 is a polite no and **pro se is the path** —
 at which point the blocking item is unchanged and unresolved: **how HMA is served
 in New York** (BCL § 306 vs § 307; the DOS entity search has never been runnable
 from this environment).
+
+---
+
+## SESSION ADDENDUM 20 — 2026-07-30 (register: gratitude, and counsel's own indignation)
+
+**SEND `r8166413635158683041`.** Position identical to Addendum 18 — **the $5,000
+is still declined and all three structures still ask for a number.** Only the
+register changed, on the user's direction: sound genuinely grateful, and enlist
+the fact that **Krukas is angry about this award.**
+
+**Why this is a real lever and not flattery.** Krukas has volunteered indignation
+three separate times, unprompted and unbilled:
+- *"from my perspective, the decision is insane"* (7/29)
+- *"this arbitrator has no business handling such matters"* (7/29, ¶ after 7)
+- *"I don't like what this arbitrator did and it would bother me if nothing came
+  of it."* (7/30)
+
+He also made the **systemic** argument first: *"If nobody holds manufacturers
+accountable for making warranty parts available in a timely manner, why should
+they ever address that industry wide problem?"* The email quotes his own line
+back and **attributes the systemic point to him** rather than inventing it, then
+reframes the fee as the obstacle to the outcome *he* said he wants: *"I would
+rather solve the fee problem than let it be the reason nothing comes of this."*
+
+**Gratitude is specific, not general** — he gave more straight analysis unbilled
+than the firm that actually represented the user, including points against his
+own interest, and closing NJ in one line saved weeks. Specific thanks reads as
+observation; general thanks reads as softening before an ask.
+
+**⚠ THE EXIT RAMP WAS DELIBERATELY WIDENED, not narrowed.** An appeal to shared
+principle can tip into obligation, which would backfire with someone who has
+already been generous. So: *"a one-line no to any of them is a complete answer"*
+is retained, and the fallback is warmer and unconditional — *"I will file it
+myself and take my chances, with no hard feelings at all. I am already ahead for
+having talked to you."* **If a future session revises this email, keep that
+line.** The appeal only works while the no stays genuinely free.
+
+Length ~380 words — between the ~250-word tightened version and the ~450-word
+original. The added length is all in the opening; the three asks and the usage
+question are unchanged.

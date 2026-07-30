@@ -31,6 +31,7 @@
 | 12 | 2026-07-29 | Krukas reply finalized; prior counsel disclosed |
 | 13 | 2026-07-29 | The body-repair precondition |
 | 14 | 2026-07-30 | State reconciliation before /clear |
+| 15 | 2026-07-30 | The fee ask added to the Krukas reply |
 
 ---
 
@@ -925,9 +926,8 @@ nowhere else in the repo.**
 
 | | |
 |---|---|
-| **SEND THIS** | draft **`r8063655648528527666`**, thread `19faaa4dcaaeaca8` ✓ |
-| Delete by hand | `r3806568616495414394`, `r3248443608735667849` (superseded, same thread) |
-| Delete by hand | `r-7536188808672574741` — **orphaned onto thread `19faf39d09d78f0a`** |
+| **SEND THIS** | draft **`r2236505439958967567`** (2026-07-30), thread `19faaa4dcaaeaca8` ✓ — supersedes `r8063655648528527666` |
+| Delete by hand | `r-7536188808672574741` — **orphaned onto thread `19faf39d09d78f0a`** (earlier superseded drafts already cleared) |
 | Attach by hand | `Ex01_Lease_Agreement.pdf` (**23.0 MB** — Gmail will likely convert to a Drive link), `Ex15_Lease_Extension_Agreement.pdf`, `Ex19_Lease_Payment_History.pdf` |
 
 **Final structure** (restructured 2026-07-30 on user direction — "keep them
@@ -1021,3 +1021,44 @@ still unread and unusable in a filing.
 **~72% of it**. A relocation of the addenda to a separate log was proposed
 2026-07-30 — if it has not happened, it is still worth doing, because the
 operative brief is the top ~338 lines and everything else is audit trail.
+
+---
+
+## SESSION ADDENDUM 15 — 2026-07-30 (the fee ask added to the Krukas reply)
+
+**Draft `r2236505439958967567`** (thread `19faaa4dcaaeaca8`) supersedes
+`r8063655648528527666`. Only change: a new **ON THE FEE** section, placed
+immediately before the closing question, at the user's direction to "ask about
+either a restructured fee or a limited scope engagement."
+
+**Why it was added.** Krukas's ¶5 was one of his two adverse points: a ~$5,000
+fee "with only the possibility of reimbursement by order of the court" against
+what he believed was $7,536 at stake. The earlier draft corrected the money
+(≈$13,000) but only offered limited scope, leaving his fee objection standing as
+an unanswered obstacle. The section now converts it into two answerable
+questions rather than a wall.
+
+**Ask 1 — restructure the whole engagement:** contingency or hybrid; hourly with
+a **cap** so exposure is defined; or an arrangement looking to fee-shifting if
+fees are recoverable from HMA. ⚠ Phrased as a **question**, not a claim:
+*"I genuinely don't know whether § 198-a(l) reaches an Article 75 petition rather
+than only the underlying claim. You would."* **This is the correct posture —
+(l)'s scope is still UNVERIFIED** (checklist § 4) and no filing may assert it.
+It also surfaces the fee-shifting point that was previously held back, without
+overclaiming.
+
+**Ask 2 — narrower engagement:** review the drafted petition pre-filing; an hour
+of consultation; **a demand letter to HMA over counsel's signature** ("nobody has
+gone back to them since the award, and I suspect a letter from you would land
+differently than one from me"); or a second look once something is on file and
+has survived a first motion.
+
+**Structure preserved.** The closing "what would you do if it were your car and
+your money" question still stands alone as the final substantive item, followed
+only by the no-deadline / no-pressure close. The fee section sits *before* it so
+the email still ends where the user wanted it to end.
+
+**Housekeeping.** `~/.claude/settings.json` created with
+`permissions.defaultMode: "auto"` (user scope; reversible by deleting the key;
+will not survive this ephemeral container). CLAUDE.md was reduced to ~5,700 est.
+tokens by relocating these addenda here — see the commit `7bdf482` message.

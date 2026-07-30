@@ -32,6 +32,7 @@
 | 13 | 2026-07-29 | The body-repair precondition |
 | 14 | 2026-07-30 | State reconciliation before /clear |
 | 15 | 2026-07-30 | The fee ask added to the Krukas reply |
+| 16 | 2026-07-30 | Fee structures made concrete |
 
 ---
 
@@ -926,7 +927,7 @@ nowhere else in the repo.**
 
 | | |
 |---|---|
-| **SEND THIS** | draft **`r2236505439958967567`** (2026-07-30), thread `19faaa4dcaaeaca8` ✓ — supersedes `r8063655648528527666` |
+| **SEND THIS** | draft **`r2412345025725400001`** (2026-07-30), thread `19faaa4dcaaeaca8` ✓ — supersedes `r2236505439958967567` and `r8063655648528527666` |
 | Delete by hand | `r-7536188808672574741` — **orphaned onto thread `19faf39d09d78f0a`** (earlier superseded drafts already cleared) |
 | Attach by hand | `Ex01_Lease_Agreement.pdf` (**23.0 MB** — Gmail will likely convert to a Drive link), `Ex15_Lease_Extension_Agreement.pdf`, `Ex19_Lease_Payment_History.pdf` |
 
@@ -1062,3 +1063,42 @@ the email still ends where the user wanted it to end.
 `permissions.defaultMode: "auto"` (user scope; reversible by deleting the key;
 will not survive this ephemeral container). CLAUDE.md was reduced to ~5,700 est.
 tokens by relocating these addenda here — see the commit `7bdf482` message.
+
+---
+
+## SESSION ADDENDUM 16 — 2026-07-30 (fee structures made concrete)
+
+**Draft `r2412345025725400001`** supersedes `r2236505439958967567`. The ON THE
+FEE section was rewritten from three generic options to **three named structures
+the user proposed**, which are how lemon-law firms actually unbundle work. A
+lawyer can answer these yes/no without first working out what is being asked.
+
+1. **Reduced retainer against fee-shifting** — retainer sized to what the matter
+   can bear, balance looking to **§ 198-a(l)** if fees are recoverable from HMA.
+   ⚠ Still framed as a question, not a claim: *"I don't know whether that
+   provision reaches an Article 75 petition rather than only the underlying
+   claim. You would."* **(l)'s scope remains UNVERIFIED — checklist § 4.**
+2. **Limited scope — counsel reviews and signs the petition and appears on the
+   return date**; Petitioner does assembly, exhibits, service, legwork.
+3. **Court appearance only** — Petitioner files pro se, counsel appears at the
+   hearing.
+
+Fallback if none work: an hour of consultation, or **a demand letter to HMA over
+counsel's signature** (the cheapest yes available, and the highest-leverage
+settlement move in the file — see Addendum 14).
+
+**⚠ TWO FRICTIONS DELIBERATELY NAMED IN THE EMAIL RATHER THAN GLOSSED.** Both
+were raised because a NY practitioner will think of them immediately, and
+proposing around them would read as naive:
+- **Signing is certifying.** An attorney who signs a filing in NY certifies it is
+  not frivolous and that reasonable inquiry was made. "Just review and sign"
+  understates the ask. The email says so: *"asking you to sign something I
+  drafted means putting your own certification behind it, which is not a small
+  thing,"* and invites him to rewrite or decline.
+- **A limited appearance may not stay limited.** Appearing can put counsel on the
+  record for the duration rather than the single date. The email raises this
+  against its own interest and defers: *"That is entirely your call and I have no
+  view on it."*
+
+**Nothing else in the email changed.** Structure and the standalone closing
+question are unchanged from Addendum 14.

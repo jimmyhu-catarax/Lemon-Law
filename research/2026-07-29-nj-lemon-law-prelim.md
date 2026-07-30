@@ -1,5 +1,15 @@
 # New Jersey Lemon Law — preliminary scan (2026-07-29)
 
+> # ⚠ CLOSED 2026-07-30 — DO NOT PURSUE
+>
+> Counsel (Krukas, 7/30/26) answered the threshold question: **"Having brought
+> the NY arbitration, you would not be able to subsequently bring a NJ case due
+> to collateral estoppel."** and **"NJ isn't an option due to collateral
+> estoppel. The only option is to file the Article 75."**
+>
+> Question (a) below was the dispositive one and it is now answered against us.
+> Retained for the record only. **No further NJ work.**
+
 > **CONFIDENCE: LOW. SECONDARY SOURCES ONLY.** Every statement below comes from
 > web-search result summaries. **No primary text was read.** The agent proxy
 > returns 403 on every legal-text host (`law.cornell.edu`,

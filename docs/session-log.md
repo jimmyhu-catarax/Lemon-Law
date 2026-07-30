@@ -33,6 +33,7 @@
 | 14 | 2026-07-30 | State reconciliation before /clear |
 | 15 | 2026-07-30 | The fee ask added to the Krukas reply |
 | 16 | 2026-07-30 | Fee structures made concrete |
+| 17 | 2026-07-30 | **Counsel said yes; NJ closed; earlier read retracted** |
 
 ---
 
@@ -927,7 +928,7 @@ nowhere else in the repo.**
 
 | | |
 |---|---|
-| **SEND THIS** | draft **`r2412345025725400001`** (2026-07-30), thread `19faaa4dcaaeaca8` ✓ — supersedes `r2236505439958967567` and `r8063655648528527666` |
+| ⚠ **OBSOLETE — see Addendum 17** | every draft before `r2138320854833607067` replies to a superseded message. **Do not send any of them.** |
 | Delete by hand | `r-7536188808672574741` — **orphaned onto thread `19faf39d09d78f0a`** (earlier superseded drafts already cleared) |
 | Attach by hand | `Ex01_Lease_Agreement.pdf` (**23.0 MB** — Gmail will likely convert to a Drive link), `Ex15_Lease_Extension_Agreement.pdf`, `Ex19_Lease_Payment_History.pdf` |
 
@@ -1102,3 +1103,69 @@ proposing around them would read as naive:
 
 **Nothing else in the email changed.** Structure and the standalone closing
 question are unchanged from Addendum 14.
+
+---
+
+## SESSION ADDENDUM 17 — 2026-07-30 (⚠ COUNSEL SAID YES — earlier read RETRACTED)
+
+**⚠ RETRACTION.** Addendum 14 recorded an assessment that Krukas's 7/29 email was
+a **soft decline**. **That was wrong.** He has since answered the closing
+question directly and **offered to take the case.**
+
+**⚠ ALSO: the thread moved on without the repo knowing.** The user sent his own
+edited version of the reply on **7/29 23:13** (he cut the fee section), and
+Krukas replied **twice** on 7/30. Every draft built between Addendum 12 and
+Addendum 16 replies to a superseded message and **must not be sent.**
+
+### What Krukas actually said (verbatim, msgs `19fb317867437cc9` and `19fb36be0e7a6e2f`)
+
+| Point | Verbatim |
+|---|---|
+| **NJ is dead** | *"Having brought the NY arbitration, you would not be able to subsequently bring a NJ case due to **collateral estoppel**."* / *"NJ isn't an option due to collateral estoppel. The only option is to file the Article 75."* |
+| **Merits** | *"I think it's a **winnable petition**.. but the lease extension ending soon worries me. You could win the petition and not be able to complete a LL repurchase anyway. As mentioned, there is some case law we could try to rely upon - but it's iffy."* |
+| **His valuation** | *"By my rough count, should you win your case you would be entitled to **around $6,500**."* — materially below the ≈$13,000 gross in Addendum 14, because he nets out **rent charge under the NY statute** and **usage** |
+| **His fee** | *"It's a **$5k attorney fee up front** for a chance to get back $6.5k and your attorney fee reimbursed. If it was like a 90% chance of winning it might be worth it - but **the odds are probably considerably less**. It probably comes down to **which judge you're assigned**."* |
+| **⚠ THE ANSWER** | *"**If you want to do it anyway, I would be very happy to take the case. I don't like what this arbitrator did and it would bother me if nothing came of it.**"* |
+
+**So the posture is a qualified yes:** he will take it, he thinks it is winnable,
+and he is advising against it on economics alone. Asking what he would *actually*
+do — rather than asking him to take the case — is what produced this.
+
+### ⚠ CLOSED: the NJ track
+
+`research/2026-07-29-nj-lemon-law-prelim.md` flagged two unresolved questions as
+probably dispositive. **Question (a) is now answered: collateral estoppel bars
+it.** The file should be treated as closed. No NJ work should be done.
+
+### ⚠ OPEN AND MATERIAL: the $6,500 vs ~$13,000 gap, and a possible tension
+
+Krukas nets to ~$6,500 citing **rent charge** and **"some usage now that we're
+over 12,000 miles."** But his own 7/29 ¶2 said *"In NY you wouldn't be charged
+usage on the first 12,000 miles — so the usage offset in your settlement
+discussions should have been nothing or almost nothing."* Those may be
+reconcilable (usage computed on **current** odometer rather than **first-report**
+mileage) — **but it is not resolved, and it moves the number.** Posed to him as a
+question, not an argument, in the reply below. **Do not assert either reading.**
+**Rent charge (lease interest) as a deduction is also new to this file and
+unquantified.**
+
+### The live draft
+
+**SEND `r2138320854833607067`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. Short and businesslike, matching his register now that the
+long-form phase is over. It: accepts his framing; says the user is **inclined to
+proceed** without committing to the $5,000; asks the three structures (reduced
+retainer against § 198-a(l); limited scope — review, sign, appear; appearance
+only, with the on-the-record-for-the-duration caveat named); asks the usage
+question above; and offers the drafts *or* offers to withhold them.
+
+**⚠ ALL EARLIER DRAFTS MUST BE DELETED BY HAND.** This connector has **no
+delete-draft tool**; `apply_sensitive_message_label` needs *message* ids, drafts
+do not surface in `get_thread`, and the orphan's thread `19faf39d09d78f0a`
+returns "caller does not have permission."
+
+### ⚠ THE DECISION IS NOW LIVE
+
+Pro se vs. counsel is no longer abstract: **$5,000 up front, reimbursed only if
+he wins, on odds he puts well below 90% and pins largely to judicial assignment.**
+That is the user's call and his alone. Nothing in this repo should presume it.

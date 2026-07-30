@@ -35,6 +35,7 @@
 | 16 | 2026-07-30 | Fee structures made concrete |
 | 17 | 2026-07-30 | **Counsel said yes; NJ closed; earlier read retracted** |
 | 18 | 2026-07-30 | **The $5,000 declined; fee restructure asked with numbers** |
+| 19 | 2026-07-30 | Tightened reply; superseded drafts pending deletion |
 
 ---
 
@@ -1152,9 +1153,10 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r-2968709523769102880`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. (Supersedes `r2138320854833607067`; see Addendum 18 — the
-user will **not** pay the $5,000 and the email now says so.) Short and businesslike, matching his register now that the
+**SEND `r8206308063604041995`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. Tightened version (~250 words, down from ~450) to match the
+short register counsel has shifted to. Supersedes `r-2968709523769102880` and
+`r2138320854833607067`. Position unchanged — see Addendum 18. Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
 retainer against § 198-a(l); limited scope — review, sign, appear; appearance
@@ -1219,3 +1221,29 @@ two emails reconcile only if usage runs on the **current** odometer rather than
 **first-report** mileage; if it runs on first report (7,026 or 8,148 — both under
 12,000), usage is **zero** and his $6,500 rises. **Neither reading may be
 asserted.**
+
+---
+
+## SESSION ADDENDUM 19 — 2026-07-30 (tightened; drafts pending deletion)
+
+**SEND `r8206308063604041995`.** Same position as Addendum 18, cut from ~450 to
+~250 words. Krukas now writes five-line emails; a long reply invites skimming
+past the three asks, which are the only part that needs an answer.
+
+**What was cut:** the thank-you preamble, the expanded certification explanation,
+the standalone "clean no" paragraph (folded into one line), and the closing
+about moving early. **What was kept verbatim in substance:** the decline framed
+as agreement with his own analysis; all three structures, each demanding **a
+number**; the § 198-a(l) caveat as a question; the on-the-record-for-the-duration
+caveat; the pro se fallback; and the usage question.
+
+**⚠ SUPERSEDED DRAFTS AWAITING MANUAL DELETION** (no delete-draft tool in this
+connector — see Addendum 17): `r-2968709523769102880`, `r2138320854833607067`,
+`r2236505439958967567`, and the orphan `r-7536188808672574741` on thread
+`19faf39d09d78f0a` if it still exists.
+
+**Next inbound decides the path.** A number materially under $5,000 is a real
+offer. A number at or near $5,000 is a polite no and **pro se is the path** —
+at which point the blocking item is unchanged and unresolved: **how HMA is served
+in New York** (BCL § 306 vs § 307; the DOS entity search has never been runnable
+from this environment).

@@ -37,6 +37,7 @@
 | 18 | 2026-07-30 | **The $5,000 declined; fee restructure asked with numbers** |
 | 19 | 2026-07-30 | Tightened reply; superseded drafts pending deletion |
 | 20 | 2026-07-30 | Register: gratitude and counsel's own indignation |
+| 21 | 2026-07-30 | User's revision adopted; "marginally higher" flagged |
 
 ---
 
@@ -1154,10 +1155,10 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r8166413635158683041`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. See Addendum 20 (gratitude + shared-indignation register).
-Supersedes `r8206308063604041995`, `r-2968709523769102880`,
-`r2138320854833607067`. Position unchanged — see Addendum 18. Short and businesslike, matching his register now that the
+**SEND `r-4992051048113065183`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. **User's own revision**, with fixes — see Addendum 21.
+Supersedes `r8166413635158683041`, `r8206308063604041995`,
+`r-2968709523769102880`, `r2138320854833607067`. Position unchanged — Addendum 18. Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
 retainer against § 198-a(l); limited scope — review, sign, appear; appearance
@@ -1288,3 +1289,34 @@ line.** The appeal only works while the no stays genuinely free.
 Length ~380 words — between the ~250-word tightened version and the ~450-word
 original. The added length is all in the opening; the three asks and the usage
 question are unchanged.
+
+---
+
+## SESSION ADDENDUM 21 — 2026-07-30 (user's revision adopted; one open judgment call)
+
+**SEND `r-4992051048113065183`.** This is **the user's own rewrite**, not Claude's.
+Two of his changes are improvements and should survive any future edit:
+- *"validation for the frustrations I have had for much of this year"* — more
+  human than the drafted version, and true.
+- *"I did most of the assembly and exhibits for the arbitration already"* —
+  **concrete evidence he can carry the limited-scope option**, not just a claim.
+  This materially strengthens ask #2, which is the likeliest to land.
+
+**Fixes applied:** typo "arbirtation"; grammar on the $5,000 sentence; restored
+the signature block; restored **"September 9 either way, so I would rather move
+early than late"** (the revision had dropped the deadline entirely, losing the
+prompt for a fast reply); restored one concrete instance of what counsel gave —
+*"than I got from the firm that actually represented me — and none of it billed.
+Closing off New Jersey in a single line probably saved me weeks"* — because
+specific thanks reads as observation while general thanks reads as softening
+before an ask.
+
+**⚠ OPEN JUDGMENT CALL — "marginally higher potential payoff" may concede too
+much.** Krukas's own words were *"a chance to get back $6.5k **and your attorney
+fee reimbursed**."* So the upside is not $6,500 against a $5,000 fee; it is
+$6,500 **plus** potential fee recovery. And **the usage question, if it resolves
+on first-report mileage, raises the $6,500.** Conceding the economics builds
+rapport and is deliberate, but the concession is larger than the record
+supports. Hedged to *"doesn't make this a cost-effective endeavor **on its
+face**"* — **the user was flagged and it is his call.** Do not harden this into
+a settled fact about the case's value.

@@ -38,6 +38,7 @@
 | 19 | 2026-07-30 | Tightened reply; superseded drafts pending deletion |
 | 20 | 2026-07-30 | Register: gratitude and counsel's own indignation |
 | 21 | 2026-07-30 | User's revision adopted; "marginally higher" flagged |
+| 22 | 2026-07-30 | **Break-even correction — economics conceded too far** |
 
 ---
 
@@ -1155,10 +1156,11 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r-4992051048113065183`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. **User's own revision**, with fixes — see Addendum 21.
-Supersedes `r8166413635158683041`, `r8206308063604041995`,
-`r-2968709523769102880`, `r2138320854833607067`. Position unchanged — Addendum 18. Short and businesslike, matching his register now that the
+**SEND `r-6387151239611226988`** — replies to `19fb36be0e7a6e2f`, thread
+`19faaa4dcaaeaca8`. See Addendum 22 — the concession was replaced with the
+fee-recovery arithmetic. Supersedes `r-4992051048113065183`,
+`r8166413635158683041`, `r8206308063604041995`, `r-2968709523769102880`,
+`r2138320854833607067`. Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
 retainer against § 198-a(l); limited scope — review, sign, appear; appearance
@@ -1320,3 +1322,48 @@ rapport and is deliberate, but the concession is larger than the record
 supports. Hedged to *"doesn't make this a cost-effective endeavor **on its
 face**"* — **the user was flagged and it is his call.** Do not harden this into
 a settled fact about the case's value.
+
+---
+
+## SESSION ADDENDUM 22 — 2026-07-30 (⚠ the break-even correction — stop conceding the economics)
+
+**SEND `r-6387151239611226988`.** Addendum 21's open judgment call is now
+resolved **against** the concession. The phrase *"marginally higher potential
+payoff"* is **removed** and replaced with counsel's own arithmetic worked
+through.
+
+**⚠ THE ARITHMETIC, from Krukas's own words** — *"a $5k attorney fee up front for
+a chance to get back $6.5k **and your attorney fee reimbursed**"*:
+
+| Outcome | Result |
+|---|---|
+| Win | recover ≈**$6,500**, and the **$5,000 fee comes back** → net ≈ **+$6,500** |
+| Lose | fee spent, no recovery → **−$5,000** |
+
+**Break-even probability = 5,000 ÷ (6,500 + 5,000) ≈ 43.5%.**
+
+Krukas framed the bet as needing *"like a 90% chance"* to be worth it. **On his
+own numbers it is positive expected value above roughly 44%** — and he separately
+called the petition *"winnable."* Those two statements sit in tension, and the
+email now asks him about it rather than accepting the 90% framing.
+
+**Posed as a question, not an argument** — this is the whole point of the
+phrasing, and a future revision must preserve it: *"That is a very different bet
+from the one I had in my head. I may be missing something about how often fees
+are actually awarded in these proceedings, or at what fraction of what was
+billed. Am I reading it correctly?"* The genuine unknowns (award frequency,
+award as a fraction of billed) are named so it reads as a client checking his
+understanding rather than out-lawyering counsel.
+
+**⚠ Two live unknowns keep this from being asserted as fact:**
+1. **§ 198-a(l)'s scope is still UNVERIFIED** (checklist § 4). Krukas's casual
+   *"and your attorney fee reimbursed"* implies he believes fees are recoverable
+   here — **that is inference from his phrasing, not a holding.**
+2. **Fee awards are discretionary and often reduced.** The break-even assumes
+   full recovery of the $5,000; a partial award moves it upward.
+
+**The usage question is retained and is now labelled "one more thing,"** since
+the fee arithmetic took the lead position. If usage runs on first-report mileage
+(7,026 or 8,148 — both under 12,000), usage is **zero** and **$6,500 rises**,
+lowering break-even further. **Two independent questions now both point the same
+way: the economics are better than the 7/30 email assumed.**

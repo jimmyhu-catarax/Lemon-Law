@@ -1202,12 +1202,12 @@ Policy #, Claim #, and Insurance Company all blank**, and Addendum 2 recorded th
 Mizzoni repair as self-pay. **Which episode ran through insurance and which was
 self-paid is UNRESOLVED — halt and confirm before either enters a filing.**
 
-**Krukas email updated accordingly** (new draft `r3806568616495414394`, thread
-`19faaa4dcaaeaca8`). It uses only the documented October dates, asserts **no**
-completion date for the bumper work, and closes the section: "the buyback ended
-up gated on body work, and the reason that work had not already been done was
-that the car spent four months disabled at the dealership. I don't know whether
-that matters legally."
+**Krukas email updated accordingly.** ⚠ Draft id superseded — see Addendum 14
+for the send-ready draft. It uses only the documented October dates, asserts
+**no** completion date for the bumper work, and closes the section: "the buyback
+ended up gated on body work, and the reason that work had not already been done
+was that the car spent four months disabled at the dealership. I don't know
+whether that matters legally."
 
 **⚠ GMAIL TOOLING LESSON.** `update_draft` has **no `replyToMessageId`
 parameter** — only `create_draft` does. Editing a reply draft therefore **strips
@@ -1215,3 +1215,111 @@ its threading** and silently moves it to a new thread. This happened here and
 went unnoticed for six revisions. **Any revision to a reply must be a fresh
 `create_draft` with the reply ID.** There is no delete-draft tool in this
 connector, so superseded drafts must be trashed by hand.
+
+---
+
+## SESSION ADDENDUM 14 — 2026-07-30 (state reconciliation before /clear)
+
+**Read this addendum first. It supersedes draft ids and adds analysis that exists
+nowhere else in the repo.**
+
+### THE KRUKAS EMAIL — SEND-READY, NOT SENT
+
+| | |
+|---|---|
+| **SEND THIS** | draft **`r8063655648528527666`**, thread `19faaa4dcaaeaca8` ✓ |
+| Delete by hand | `r3806568616495414394`, `r3248443608735667849` (superseded, same thread) |
+| Delete by hand | `r-7536188808672574741` — **orphaned onto thread `19faf39d09d78f0a`** |
+| Attach by hand | `Ex01_Lease_Agreement.pdf` (**23.0 MB** — Gmail will likely convert to a Drive link), `Ex15_Lease_Extension_Agreement.pdf`, `Ex19_Lease_Payment_History.pdf` |
+
+**Final structure** (restructured 2026-07-30 on user direction — "keep them
+interested and enticed … and ultimately end on the same point"): thanks →
+attachments → registration → **NJ question** → lease wall → numbers → why the
+repurchase didn't close → prior counsel → *"there is a good deal more in the file
+than I have put in front of you … I'll send whatever is useful and won't send
+anything that isn't"* → limited-scope offer folded in → **the closing question
+standing alone** → *"There is no need to answer everything, or quickly."*
+**The multi-question list was deliberately CUT.** Questions read as homework; the
+facts are the hook, and the closing question must be the last thing read.
+
+### ⚠ READ OF COUNSEL'S POSTURE (assessment, not fact)
+
+Krukas's 7/29 email is structured as a **soft decline**: ¶¶1, 3, 6, 7 agree with
+the analysis; ¶¶4 and 5 are why he is unlikely to take it. His ¶3 tell —
+*"If this was your first time contacting me (and the lease wasn't already in
+extension), I would rate this a very strong case"* — is a lawyer explaining why
+the case he wants is not the case in front of him. He proposed no fee, sent no
+engagement letter, and asked for nothing further. **Do not build the plan on a
+yes.** He has not formally declined and may yet engage; treat that as upside.
+
+### ⚠ TWO QUESTIONS HELD BACK FOR THE NEXT EXCHANGE (deliberately not asked)
+
+1. **How is HMA actually served in NY?** Authorized foreign corporation
+   (BCL § 306, Secretary of State) or unauthorized (BCL § 307 + extra mailing +
+   affidavit of compliance)? What address, what agent? **This is still the only
+   open item blocking a filing**; the DOS entity search has been unrunnable for
+   weeks (proxy 403s dos.ny.gov). A NY lemon-law practitioner would know it cold.
+2. **Should anything be preserved before the car goes back on 11/23/2026?**
+   Current dealer inspection, written odometer reading, statement from Paramus.
+   **This has its own clock** — the battery, fault history, and odometer leave
+   with the car, and after November they are gone permanently. Nobody has raised
+   this in fourteen addenda.
+
+A third, lower priority: does **§ 198-a(l)** fee-shifting reach an Article 75
+proceeding? It is the direct answer to his own ¶5 economics objection.
+
+### SETTLEMENT STRATEGY — new analysis, nowhere else in the repo
+
+**Leverage: weaker than Aug 2025, not zero.** The 90-day window is open and a
+filed petition costs HMA outside counsel and motion practice — plausibly more
+than the claim is worth. HMA's own pre-arbitration valuation was **$7,977 with
+the deduction waived**. Against that: an award "FOR THE MANUFACTURER," a lease
+dying 11/23/2026, and no counsel on the letterhead.
+
+**⚠ TWO POINTS NOT PREVIOUSLY IN THE FILE:**
+1. **The "cash and keep the car" option is now meaningless.** Petitioner leases;
+   the car goes back 11/23/2026 regardless. Any cash-keep offer is just cash.
+   Do not let HMA frame it as a choice again.
+2. **⚠ END-OF-LEASE CHARGES ARE UNQUANTIFIED AND ENTIRELY ABSENT FROM THE FILE.**
+   Ex15 expressly preserves **disposition fee, excess wear, and excess mileage**.
+   Any settlement must have HMA *and Hyundai Motor Finance* waive them and
+   confirm no further lease obligation. **The lease's annual mileage allowance
+   was never recorded** — at ~15,000 mi the mileage may be fine, but the
+   disposition fee almost certainly applies. **Request a payoff/termination
+   statement from HMF to quantify the exposure.**
+
+| | |
+|---|---|
+| Ask | sums paid ≈ **$10,500** (payments $7,552.74 + down $2,953) + extension payments since + **$1,793.43** incidentals, **no usage deduction**, lease terminated, all end-of-lease charges waived |
+| Justification | HMA's own Aug-2025 formula and its own waiver of the deduction, updated |
+| Realistic landing | **$6,000–9,000** |
+| Walk-away floor | **≈$5,000** — below that it is worse than the Jan-2026 cash offer already declined |
+
+**Tactics.** (a) **Lead with the release terms, not the number** — the 2025 deal
+died on the §1542 waiver, not price; state up front what will be signed (release
+limited to this vehicle's battery defect, **no unknown-claims waiver**, no
+indemnity, confidentiality narrow enough to permit disclosure to insurer, tax
+advisors, counsel). (b) **Not customer service** — the case-manager tier only
+re-issues templates and the award closed their file; send to HMA legal /
+National Consumer Affairs escalation with the case number. (c) **Send when the
+petition is finished, not before.** (d) A demand letter on counsel's letterhead
+is exactly the narrow paid task the Krukas email already offers to fund.
+(e) **Do not disclose that filing is undecided** — a demand only works if the
+alternative is real.
+
+### HOUSEKEEPING VERIFIED THIS SESSION
+
+Branch `claude/install-orchestration-drjo97` clean and level with origin;
+8 commits this session. All four Word deliverables XSD-valid (Summary v7 22 ¶¶ /
+Petition v2 204 / Notice v2 62 / Memo v5 200). 31 exhibit PDFs. Claude Code
+2.1.220 = latest published. No local settings files exist; no hooks; no MCP
+servers in local config (this session's are harness-injected). Legal-text hosts
+remain **403 by egress policy** — § 198-a(n), (c)(1), (l) and CPLR 306-b are all
+still unread and unusable in a filing.
+
+### ⚠ THIS FILE IS 1.9× THE LARGE-MEMORY WARNING THRESHOLD
+
+76,016 chars ≈ **19,000 est. tokens loaded every session**; the 14 addenda are
+**~72% of it**. A relocation of the addenda to a separate log was proposed
+2026-07-30 — if it has not happened, it is still worth doing, because the
+operative brief is the top ~338 lines and everything else is audit trail.

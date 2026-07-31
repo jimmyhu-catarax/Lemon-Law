@@ -91,8 +91,12 @@ not been confirmed.
 1. **NY DOS entity search on "Hyundai Motor America"** — authorization status,
    state of incorporation, DOS process address. Blocks service. (Hyundai
    *Capital* America is a different entity.)
-2. **GBL § 198-a (a) and (c) (1) official text** — the twelve-thousand-mile
-   question. Now reserved rather than conceded in Memo v5, but unresolved.
+2. **GBL § 198-a (a), (c)(1), (l), and (n) official text.** (a)/(c)(1) = the
+   twelve-thousand-mile question, now reserved rather than conceded in Memo v5.
+   **(l)** = the fee-shifting provision the 7/31/2026 fee ask to counsel rests
+   on. **(n)** = the rights-waiver provision Memo Point VII rests on. **All
+   four are unread** — every legal-text host 403s under the egress policy. See
+   checklist § 2a.
 3. **Five case quotations** against the Official Reports; the *Leonidou* AD3d
    parallel cite is still unconfirmed — cite it by Slip Op number only.
 4. **Pagination** — open all four Word files before sending or filing.

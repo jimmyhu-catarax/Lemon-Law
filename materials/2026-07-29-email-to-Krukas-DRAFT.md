@@ -1,5 +1,20 @@
 # DRAFT — email to Eugene Krukas (ekrukas@lemonfreedom.com)
 
+> # ⚠ SUPERSEDED 2026-07-31 — NEVER SENT AS WRITTEN. DO NOT USE.
+>
+> This was composed **blind**, before the Gmail connector was authorized and
+> before anyone had read the actual Krukas thread. The correspondence has moved
+> well past it: the Petitioner sent his own reply on **7/29/2026 23:13**,
+> Krukas replied twice on **7/30**, and the live question as of **7/31** is the
+> **fee structure**, not the records list. See **Addenda 17–23** in
+> `docs/session-log.md` — Addendum 23 holds the text of record of the message
+> actually sent (Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8`).
+>
+> Retained only to show what was proposed before the thread was read. **Nothing
+> below reflects what counsel asked for.** Two statements in it are known to be
+> stale: the NJ track is **closed** (collateral estoppel), and the checklist
+> below still refers to Summary **v6** where **v7** is current.
+
 **Status:** drafted 2026-07-29 without access to the Krukas thread (Gmail
 connector not authorized in this session). The document list below is the
 Tier-2 record set from `research/2026-07-28-attorney-packet.md`. **Conform it

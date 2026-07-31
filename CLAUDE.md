@@ -8,11 +8,14 @@
 > materials, corrects the systematically-wrong file extensions, extracts text,
 > and prints the roadmap. Then read this file.
 >
-> **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The 14 session
-> addenda were moved there on 2026-07-30. They hold the retractions, the
-> halt-and-confirm flags, the evidentiary status of every undocumented
-> conversation, and the live action items. **Every "see Addendum N" reference
-> below points into that file.** Start with **Addendum 14**.
+> **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
+> addenda — **23 as of 2026-07-31** — were moved there on 2026-07-30. They hold
+> the retractions, the halt-and-confirm flags, the evidentiary status of every
+> undocumented conversation, and the live action items. **Every "see Addendum
+> N" reference below points into that file.** Start with **Addendum 23** (the
+> fee email as sent, and the decision tree that turns on counsel's reply), then
+> read **17** (the retraction of the "soft decline" misread) and **22** (the
+> break-even arithmetic) — those three carry the live posture.
 
 ---
 
@@ -235,20 +238,30 @@ only — export to PDF before it can be annexed.**
 The three original questions (caption, service, return date) are **RESOLVED** —
 see Addendum 4. What remains:
 
-1. **Decide pro se vs. counsel by ~Aug 17, 2026.** The filing deadline is
-   Sept 9. Outreach went out 2026-07-27; if no firm has engaged by mid-August
-   there is no longer time to onboard one, and the petition must be filed
-   pro se or the claim is lost.
+1. **Decide pro se vs. counsel by ~Aug 17, 2026 — LIVE, awaiting counsel's
+   reply.** Krukas has said he would **"be very happy to take the case"** at a
+   **$5,000** retainer. Petitioner declined that number on **7/31/2026** and
+   asked for one of three restructures (reduced retainer against § 198-a(l)
+   fee-shifting; limited scope — review/sign/appear; or appearance-only with
+   Petitioner doing the filing). **The fee number is the whole decision.** See
+   Addendum 23 for the sent text and the decision tree: materially under $5,000
+   → take it; at or near $5,000 → **pro se**. If nothing has arrived by
+   mid-August there is no longer time to onboard counsel.
 2. **NY DOS entity search on "Hyundai Motor America"** — blocks service.
-   (Hyundai *Capital* America is a different entity.)
-3. **Pull official GBL § 198-a (a) and (c)(1)** — the twelve-thousand-mile
-   question.
-4. **⚠ RESEARCH GAP — CPLR 306-b.** Nothing in this repo addresses the
-   service-after-filing window. For a proceeding whose limitations period is
-   four months or less, 306-b is understood to require service within a short
-   fixed window after the period expires — which would bind hard if the
-   petition is filed near Sept 9. **Unverified; confirm before choosing a
-   filing date.**
+   (Hyundai *Capital* America is a different entity.) **This is the only item
+   that hard-blocks a pro se filing.** DOS: **(518) 473-2492**.
+3. **Pull official GBL § 198-a (a), (c)(1), (l), and (n)** — the
+   twelve-thousand-mile question, the fee-shifting provision the fee ask now
+   depends on, and the rights-waiver provision Point VII depends on. **All four
+   texts are UNREAD**; every legal-text host 403s under the egress policy. See
+   checklist § 2a.
+4. **CPLR 306-b — search-sourced only.** The **9/24/2026** service wall in the
+   header derives from the rule that where the limitations period is four
+   months or less, service must be completed within **fifteen days after** the
+   period expires. That reading came from web-search summaries, **not** from
+   McKinney's or the official text (same 403 wall). It is stated to counsel as
+   *Petitioner's understanding*, and must stay phrased that way. **Confirm
+   against the official text before choosing a filing date.**
 5. **Open all four current .docx in Word** — no pagination has ever been
    visually verified (LibreOffice is broken in this sandbox).
 6. Verify the five case quotations against the Official Reports; cite
@@ -262,17 +275,14 @@ see Addendum 4. What remains:
   User to resolve against source before filing.** The Feb-2026 argument is
   anchored on date + odometer + "too dead to complete," which don't depend on
   the RO number.
-- **NJ Lemon Law parallel track** (N.J.S.A. 56:12-29 et seq.) — **preliminary
-  scan done 2026-07-29**, `research/2026-07-29-nj-lemon-law-prelim.md`.
-  **SECONDARY SOURCES ONLY — no primary text read** (proxy 403s every
-  legal-text host by egress policy). Indications: NJ reaches a vehicle
-  **registered** there though leased out of state; the presumption runs on
-  **20 days** out of service, so **RO #358530's 124 days is 6.2× the NJ
-  threshold**; term of protection 24,000 mi / 2 yrs, and every nonconformity
-  was reported inside it. **Two unresolved questions probably decide it:**
-  (a) does losing the NY compulsory arbitration preclude a NJ claim, and
-  (b) what is the limitations period for filing (as opposed to the term of
-  protection). **Nothing here may enter a filing.** Posed to Krukas 7/29.
+- **NJ Lemon Law parallel track — ✅ CLOSED 2026-07-30. DO NOT REOPEN.**
+  Counsel (Krukas, 7/30/26) answered the threshold question against us:
+  **"Having brought the NY arbitration, you would not be able to subsequently
+  bring a NJ case due to collateral estoppel"** and **"NJ isn't an option due
+  to collateral estoppel. The only option is to file the Article 75."** The
+  preliminary scan is retained for the record only at
+  `research/2026-07-29-nj-lemon-law-prelim.md` (banded CLOSED). **No further
+  NJ work.** The Article 75 petition is the only track.
 
 ## DO NOT REOPEN (user has decided)
 
@@ -281,6 +291,8 @@ see Addendum 4. What remains:
 - The **124-day figure is the anchor** — do not swap it for the larger
   198–201-day count that needs extra sourcing.
 - **Current operability is legally irrelevant** (DaimlerChrysler). Settled.
+- **The New Jersey track is closed** — collateral estoppel, per counsel
+  7/30/26. **The Article 75 petition is the only track.** Do not re-research it.
 
 ---
 
@@ -344,15 +356,26 @@ see Addendum 4. What remains:
 
 ## SESSION LOG — read before touching any filing
 
-The 14 session addenda live in **`docs/session-log.md`**. They were moved out of
-this file on 2026-07-30 because they had grown to ~72% of it and were loading
-into every session.
+The session addenda — **23 as of 2026-07-31** — live in
+**`docs/session-log.md`**. They were moved out of this file on 2026-07-30
+because they had grown to ~72% of it and were loading into every session.
+**Append new addenda there, not here.**
 
 **Read `docs/session-log.md` before editing, drafting, or filing anything.** It
 carries the retractions, the halt-and-confirm flags, the evidentiary status of
 every undocumented conversation, and the sourcing behind the facts above.
-**Start with Addendum 14** — it supersedes Gmail draft ids, lists the live action
-items, and holds the settlement analysis and the two questions held back for
-counsel.
+
+| Read first | Why |
+|---|---|
+| **Addendum 23** (7/31) | The fee email **as sent** — text of record, Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8` — and the decision tree keyed to counsel's reply. **This is the live posture.** |
+| **Addendum 17** (7/30) | ⚠ Retracts the earlier reading of Krukas's 7/29 email as a "soft decline." He said he would **"be very happy to take the case."** |
+| **Addendum 22** (7/30) | The break-even correction: win ≈ **+$6,500** with fees reimbursed, lose ≈ **−$5,000** → break-even **≈ 43.5%**, not the 90% figure. |
+| **Addendum 14** (7/29) | Supersedes the Gmail draft ids; the settlement analysis and the questions held back for counsel. |
+
+⚠ **Gmail connector traps, learned the hard way (Addenda 12, 16):**
+`update_draft` has **no `replyToMessageId`** — editing a reply draft silently
+detaches it from its thread. **Any revision to a reply must be a fresh
+`create_draft`.** There is also no delete-draft tool; dead drafts must be
+removed by hand.
 
 Nothing in it was edited in the move; the addenda are verbatim and in order.

@@ -39,6 +39,7 @@
 | 20 | 2026-07-30 | Register: gratitude and counsel's own indignation |
 | 21 | 2026-07-30 | User's revision adopted; "marginally higher" flagged |
 | 22 | 2026-07-30 | **Break-even correction — economics conceded too far** |
+| 23 | 2026-07-31 | ✅ **Fee email SENT — text of record** |
 
 ---
 
@@ -1156,11 +1157,9 @@ unquantified.**
 
 ### The live draft
 
-**SEND `r-6387151239611226988`** — replies to `19fb36be0e7a6e2f`, thread
-`19faaa4dcaaeaca8`. See Addendum 22 — the concession was replaced with the
-fee-recovery arithmetic. Supersedes `r-4992051048113065183`,
-`r8166413635158683041`, `r8206308063604041995`, `r-2968709523769102880`,
-`r2138320854833607067`. Short and businesslike, matching his register now that the
+✅ **SENT 2026-07-31 00:04 UTC** as message `19fb57cac5a84420` — see Addendum 23
+for the text as actually sent. **No draft is pending.** Any remaining drafts in
+this thread are dead and can be binned. Short and businesslike, matching his register now that the
 long-form phase is over. It: accepts his framing; says the user is **inclined to
 proceed** without committing to the $5,000; asks the three structures (reduced
 retainer against § 198-a(l); limited scope — review, sign, appear; appearance
@@ -1367,3 +1366,53 @@ the fee arithmetic took the lead position. If usage runs on first-report mileage
 (7,026 or 8,148 — both under 12,000), usage is **zero** and **$6,500 rises**,
 lowering break-even further. **Two independent questions now both point the same
 way: the economics are better than the 7/30 email assumed.**
+
+---
+
+## SESSION ADDENDUM 23 — 2026-07-31 (the fee email WAS SENT — text of record)
+
+**✅ SENT** 2026-07-31 00:04 UTC, message **`19fb57cac5a84420`**, thread
+`19faaa4dcaaeaca8`, to ekrukas@ cc mvicario@. **No draft is pending; all
+remaining drafts in the thread are dead.**
+
+**The user edited before sending. This is the text of record — not any draft.**
+Four deviations from Addendum 22's draft, all his:
+
+1. **Gratitude narrowed.** *"You have given me a straight analysis, and
+   validation for the frustrations I have had for much of this year."* He **cut**
+   the comparison to the firm that actually represented him, the "none of it
+   billed" line, and the New Jersey credit. Reads as unwillingness to disparage
+   prior counsel to prospective counsel — defensible.
+2. **Break-even paragraph made clearer and softer.** *"the downside is paying
+   $5,000 in attorney fees, and the upside is roughly the $6,500 (and having fees
+   reimbursed) — which would put break-even nearer a 45% chance than a 90% one?"*
+   He turned the assertion into a **question mark**. Better: it cannot read as
+   out-lawyering counsel.
+3. **Added** *"I really appreciate your candor. Would you be willing to explore
+   other fee structure options?"* — restores his own collaborative framing ahead
+   of the three asks.
+4. **⚠ The September 9 reminder was dropped again** (also dropped from the 7/29
+   send). There is now **no urgency prompt anywhere in the thread.** Counsel
+   knows the date, but nothing in the correspondence asks him to answer quickly.
+   **If a reply has not come within ~3 days, that is the reason, and a one-line
+   nudge is warranted.**
+
+**Everything load-bearing survived:** the decline of $5,000; the break-even
+arithmetic; all three fee structures each asking for a number; the § 198-a(l)
+scope caveat; the on-the-record-for-the-duration caveat; the pro se fallback with
+no hard feelings; and the usage question.
+
+### ⏭ WHAT THE NEXT REPLY DECIDES
+
+| Counsel's answer | Meaning |
+|---|---|
+| A number **materially under $5,000** (e.g. $1,500–2,500 for review/sign/appear) | Real offer — take it |
+| A number **at or near $5,000** | Polite no → **pro se** |
+| Confirms break-even ≈45% and stands by "winnable" | The economics argument is won; the fee structure is the only open term |
+| Usage runs on **first-report** mileage | Usage = **$0**, the $6,500 rises, break-even drops further |
+
+**⚠ IF PRO SE: the blocking item is unchanged and still unresolved — how HMA is
+served in NY.** BCL § 306 (authorized) vs § 307 (unauthorized, extra mailing +
+affidavit of compliance). The DOS entity search has never been runnable from this
+environment (proxy 403s dos.ny.gov). **NY DOS: (518) 473-2492.** Filing deadline
+**9/9/2026**; service wall **9/24/2026**; lease dies **11/23/2026**.

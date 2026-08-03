@@ -9,13 +9,12 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **23 as of 2026-07-31** — were moved there on 2026-07-30. They hold
+> addenda — **24 as of 2026-08-03** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 23** (the
-> fee email as sent, and the decision tree that turns on counsel's reply), then
-> read **17** (the retraction of the "soft decline" misread) and **22** (the
-> break-even arithmetic) — those three carry the live posture.
+> N" reference below points into that file.** Start with **Addendum 24**:
+> counsel is retained, the retainer is in hand and **unsigned**, and six
+> questions the firm has not answered are listed there.
 
 ---
 
@@ -47,7 +46,8 @@
 | Statute | GBL § 198-a (New Car Lemon Law) |
 | Award | **June 11, 2026** — Arbitrator **Maneesha Sharma** (NYSDRA / NY Peace Institute CDRC). **Denied; "FOR THE MANUFACTURER."** |
 | Program | Compulsory arb under GBL § 198-a(k); 13 NYCRR Part 300; administered by NYSDRA for the NY Attorney General |
-| Petitioner | Dr. Jimmy Y. Hu — **self-represented** (weighing counsel) |
+| Petitioner | Dr. Jimmy Y. Hu |
+| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer received 8/3/2026, UNSIGNED as of this writing.** |
 | Venue | Supreme Court, **New York County** = **First Department** |
 | Relief sought | Vacatur under **CPLR 7511(b)(1)(iii)** (arbitrator exceeded power) |
 
@@ -87,7 +87,7 @@ user's call.** See Addendum 10.
 | Date | Offer | Note |
 |---|---|---|
 | Aug 18, 2025 | **$7,977.00** full repurchase (or **$4,000** cash-keep) | mileage deduction **waived**. ⚠ "sent to wrong email" **DROPPED — refuted** (Addendum 3). Hu **accepted the $4,000 option in writing 9/25–26/25**; deal died on release terms. |
-| Jan 29, 2026 | **$5,388.51** restitution (or **$5,000** cash-keep) | deduction **$4,326.49 on WRONG 8,148-mi basis** (first report was 7,026). ⚠ Do **not** state $3,727.78 as "the correct deduction" — the 12,000-mile threshold question is unresolved; Memo v5 reserves it. Valid 60 days; **lapsed ≈3/30/26**. |
+| Jan 29, 2026 | **$5,388.51** restitution (or **$5,000** cash-keep) | deduction **$4,326.49 on WRONG 8,148-mi basis** (first report was 7,026). ⚠ Do **not** state $3,727.78 as "the correct deduction" — the 12,000-mile threshold question is unresolved; Memo v5 reserves it. ⚠ **Counsel 7/31: "Usage runs on the current odometer. Not first report."** If that is right the first-report basis dispute may not affect damages at all, though it remains a live inconsistency in a document Petitioner signed (Q16). **Counsel's statement, not verified against § 198-a(c)(1).** Valid 60 days; **lapsed ≈3/30/26**. |
 | May 11, 2026 | repurchase **withdrawn**, **$2,500** counter | conveyed **only through Gorberg** (Laura Wolfe email); no standalone HMA writing (Ex08 cover sheet). |
 
 The Aug-2025 release (Ex09a) required a notarized **§1542 unknown-claims
@@ -238,23 +238,30 @@ only — export to PDF before it can be annexed.**
 The three original questions (caption, service, return date) are **RESOLVED** —
 see Addendum 4. What remains:
 
-1. **Decide pro se vs. counsel by ~Aug 17, 2026 — LIVE, awaiting counsel's
-   reply.** Krukas has said he would **"be very happy to take the case"** at a
-   **$5,000** retainer. Petitioner declined that number on **7/31/2026** and
-   asked for one of three restructures (reduced retainer against § 198-a(l)
-   fee-shifting; limited scope — review/sign/appear; or appearance-only with
-   Petitioner doing the filing). **The fee number is the whole decision.** See
-   Addendum 23 for the sent text and the decision tree: materially under $5,000
-   → take it; at or near $5,000 → **pro se**. If nothing has arrived by
-   mid-August there is no longer time to onboard counsel.
-2. **NY DOS entity search on "Hyundai Motor America"** — blocks service.
-   (Hyundai *Capital* America is a different entity.) **This is the only item
-   that hard-blocks a pro se filing.** DOS: **(518) 473-2492**.
+1. **Pro se vs. counsel — ✅ DECIDED 8/3/2026. COUNSEL RETAINED.** Petitioner
+   accepted **$3,000 up front + $1,000 per court appearance**, with his
+   out-of-pocket **reimbursed first out of any fee award**. Krukas expects
+   there may be **zero** appearances ("the court just decides on the papers").
+   **The retainer arrived 8/3 16:27 from Vicario (`Hu Article 75 Retainer.pdf`)
+   and is UNSIGNED.** Sign by DocuSign or print-and-sign; Krukas invoices the
+   initial charge on signature. See Addendum 24. **⚠ Six questions were put to
+   the firm on 8/3 and NONE were answered in the covering emails** — the five
+   engagement-letter terms and the November 23 question. **Read the retainer
+   against that list before signing.**
+2. **NY DOS entity search on "Hyundai Motor America"** — authorization status
+   decides BCL § 306 vs § 307 service. (Hyundai *Capital* America is a
+   different entity.) **Now counsel's job, not a pro se blocker** — the firm
+   said it wants "every aspect of the Petition." Retained here because the
+   answer still has to exist before service. DOS: **(518) 473-2492**.
 3. **Pull official GBL § 198-a (a), (c)(1), (l), and (n)** — the
-   twelve-thousand-mile question, the fee-shifting provision the fee ask now
-   depends on, and the rights-waiver provision Point VII depends on. **All four
-   texts are UNREAD**; every legal-text host 403s under the egress policy. See
-   checklist § 2a.
+   twelve-thousand-mile question, the fee-shifting provision, and the
+   rights-waiver provision Point VII depends on. **All four texts remain
+   UNREAD by this project**; every legal-text host 403s under the egress
+   policy. ⚠ **Counsel quoted (l) on 7/31** — *"prevails in any judicial action
+   or proceeding arising out of an arbitration proceeding held pursuant to
+   subdivision (k) of this section"* — and read it as reaching an Article 75
+   petition. **That is counsel's quotation, not verified against the official
+   text.** See checklist § 2a.
 4. **CPLR 306-b — search-sourced only.** The **9/24/2026** service wall in the
    header derives from the rule that where the limitations period is four
    months or less, service must be completed within **fifteen days after** the
@@ -286,8 +293,11 @@ see Addendum 4. What remains:
 
 ## DO NOT REOPEN (user has decided)
 
-- **Pro se vs. retain counsel** — pending; **the user's call.** Do not
-  re-litigate. Keep the "DRAFT — FOR ATTORNEY REVIEW" caption honest.
+- **Pro se vs. retain counsel — DECIDED 8/3/2026: counsel retained** (Krukas &
+  Vicario, $3,000 + $1,000/appearance). Do not re-litigate the choice or the
+  fee. The drafts in `materials/` are now **counsel's raw material, not the
+  filing** — the firm said it wants "every aspect of the Petition," so do not
+  polish them for filing. Keep the "DRAFT — FOR ATTORNEY REVIEW" caption.
 - The **124-day figure is the anchor** — do not swap it for the larger
   198–201-day count that needs extra sourcing.
 - **Current operability is legally irrelevant** (DaimlerChrysler). Settled.
@@ -367,7 +377,8 @@ every undocumented conversation, and the sourcing behind the facts above.
 
 | Read first | Why |
 |---|---|
-| **Addendum 23** (7/31) | The fee email **as sent** — text of record, Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8` — and the decision tree keyed to counsel's reply. **This is the live posture.** |
+| **Addendum 24** (8/3) | ✅ **Counsel retained** — $3,000 + $1,000/appearance, Vicario now lead. The retainer is **unsigned** and **six questions the firm has not answered** are listed. **This is the live posture.** |
+| **Addendum 23** (7/31) | The fee email **as sent** — text of record, Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8` — and the decision tree keyed to counsel's reply. Superseded as the live posture by 24. |
 | **Addendum 17** (7/30) | ⚠ Retracts the earlier reading of Krukas's 7/29 email as a "soft decline." He said he would **"be very happy to take the case."** |
 | **Addendum 22** (7/30) | The break-even correction: win ≈ **+$6,500** with fees reimbursed, lose ≈ **−$5,000** → break-even **≈ 43.5%**, not the 90% figure. |
 | **Addendum 14** (7/29) | Supersedes the Gmail draft ids; the settlement analysis and the questions held back for counsel. |

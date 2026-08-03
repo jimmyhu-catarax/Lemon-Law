@@ -10,8 +10,9 @@
 > `CLAUDE.md` carries the corrected versions, but the reasoning and the sourcing
 > are here.
 >
-> **Start with Addendum 14** (the most recent): it supersedes draft ids, records
-> the live action items, and reconciles session state.
+> **Start with Addendum 24** (the most recent): counsel is retained, the
+> retainer is in hand and unsigned, and six questions the firm has not yet
+> answered are listed there.
 
 ## Index
 
@@ -40,6 +41,7 @@
 | 21 | 2026-07-30 | User's revision adopted; "marginally higher" flagged |
 | 22 | 2026-07-30 | **Break-even correction — economics conceded too far** |
 | 23 | 2026-07-31 | ✅ **Fee email SENT — text of record** |
+| 24 | 2026-08-03 | ✅ **COUNSEL RETAINED — $3,000 + $1,000/appearance; retainer received, unsigned** |
 
 ---
 
@@ -1416,3 +1418,152 @@ served in NY.** BCL § 306 (authorized) vs § 307 (unauthorized, extra mailing +
 affidavit of compliance). The DOS entity search has never been runnable from this
 environment (proxy 403s dos.ny.gov). **NY DOS: (518) 473-2492.** Filing deadline
 **9/9/2026**; service wall **9/24/2026**; lease dies **11/23/2026**.
+
+---
+
+## SESSION ADDENDUM 24 — 2026-08-03 (✅ COUNSEL RETAINED — and six questions still unanswered)
+
+**The pro se / counsel question is closed. Krukas & Vicario are engaged**, on
+terms the firm proposed and Petitioner accepted without further negotiation.
+
+### The terms as accepted
+
+| Term | Value |
+|---|---|
+| Retainer up front | **$3,000** |
+| Per court appearance | **$1,000** |
+| Reimbursement | Petitioner **"reimbursed first out of any attorney fee awarded by the court"** |
+| Expected appearances | Possibly **zero** — "the court just decides on the papers" (Krukas 7/31) |
+| Scope | **All or nothing.** "We're not comfortable handling this case collaboratively or being partially involved… if we are involved we would want to handle every aspect of the Petition." |
+
+Break-even at these numbers, with the fee reimbursed on a win:
+**$3,000 → 31.6%; $4,000 → 38.1%; $5,000 → 43.5%.** (`p = C / (R + F)`, R ≈
+$6,500 per counsel's rough count.) The "90% chance" figure Krukas originally
+invoked is not the break-even for this bet under any assumption. He did not
+dispute the arithmetic when it was put to him; he answered by cutting the price
+40% at the floor.
+
+### ⚠ LEAD COUNSEL CHANGED — Vicario, not Krukas
+
+Krukas, 8/3 14:07, to Petitioner alone:
+
+> "I am going to have Michael get back to you on these questions, **as he is
+> going to be handling this matter. He is the litigator between the two of
+> us.**"
+
+**This matters for expectation-setting.** Every merits judgment in the file —
+"the decision is insane," "RO 358530 should be sufficient… 100% of the time,"
+"this arbitrator has no business handling such matters," "it would bother me if
+nothing came of it" — is **Krukas's**, and Krukas is now the intake partner,
+not the litigator. Vicario has said nothing on the merits in writing at any
+point. Do not attribute Krukas's conviction to the firm's litigator.
+
+Firm of record: **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710,
+(516) 780-0760 x702, KVJustice.com. "Attorneys Licensed in New York, New Jersey
+& Pennsylvania."
+
+### The retainer
+
+`Hu Article 75 Retainer.pdf`, attached to Vicario's 8/3 16:27 email
+(msg `19fc87366749cf52`):
+
+> "See attached retainer. Let me know if you have any additional questions
+> after reading. You can either print out and sign, or I can send you on a
+> Docusign… Once signed, Eugene will invoice you for the initial charge."
+
+**UNSIGNED as of this addendum.** Not yet read — Petitioner has reserved the
+review for a later step.
+
+### ⚠ SIX QUESTIONS PUT TO THE FIRM, NONE ANSWERED IN WRITING
+
+Petitioner's 8/3 08:00 acceptance (msg `19fc77ebe292bda9`) asked six things.
+Krukas deferred them to Vicario; Vicario sent the retainer without addressing
+any of them. **Check each against the PDF before signing; whatever the PDF does
+not cover is still open.**
+
+1. **November 23.** "If the petition is still pending when the lease matures and
+   a stay isn't available, where does that leave us — and is there anything
+   worth doing in August to be better positioned for it?" **This is the
+   substantive one, and it is the risk counsel himself called unsolved.**
+2. Whether the **stay motion** falls within the $3,000, and whether it counts as
+   an appearance.
+3. A **ceiling on appearances**, or ones past the first coming out of the fee
+   recovery.
+4. Out-of-pocket **reimbursed first out of any fee recovery — settlement as well
+   as court award.** ⚠ The term as Krukas wrote it says "awarded by the court,"
+   but he separately predicts settlement is the likelier path. **As drafted the
+   protection may not reach the branch he thinks most likely.** The spread is
+   the entire retainer: ~$6,500 net if it reaches settlements, ~$3,500 if not.
+5. **Any settlement stating Petitioner's recovery and the fee separately**
+   rather than as a single number. Guards the classic fee-shifting conflict:
+   a package generous on fees and thin on the repurchase makes the firm whole
+   and not the client.
+6. **Who carries disbursements** — index number, RJI, service through the
+   Department of State. None of the figures discussed to date include these.
+
+### What counsel established on 7/31 (recorded here because it changed the decision)
+
+**§ 198-a(l) — quoted by counsel, still not officially verified.** Krukas pulled
+and highlighted the language:
+
+> "**prevails in any judicial action or proceeding arising out of an arbitration
+> proceeding held pursuant to subdivision (k) of this section.**"
+>
+> "My reading is that prevailing in the Article 75 would justify an award of
+> fees."
+
+But discretionary: *"the statute does indicate… 'a court **may** award' attorney
+fees. It's within the discretion of the judge — who may or may not award what we
+consider to be reasonable… I would expect in most instances a judge would be
+reasonable, but it's **not a certainty**."* **Counsel's quotation is not the
+official text. Checklist § 2a stays open.**
+
+**What winning produces — the question that had never been asked.** Krukas,
+7/31 15:31 and 15:32:
+
+> "I think it's likely to result in a **remand** if you win. Good chance it just
+> settles at that point for a repurchase."
+>
+> "If you won the Art. 75 I think it **likely settles right away at that
+> juncture for attorney fees and the repurchase.** If the arbitrator's decision
+> is found to be irrational then it's **sort of a foregone conclusion what
+> happens on remand.**"
+
+**⚠ And the timing problem, in counsel's own words — this is now the dominant
+risk, not the merits:**
+
+> "The timing is an issue though. I'm not sure if it would be possible to get a
+> court order **staying the bank from taking back possession of the lease.** We
+> would probably have to ask for one. **The timing is a big issue and we're
+> basically making that part up as we go along. There is no clear mechanism for
+> dealing with that.**"
+
+**Settlement before filing is out:** *"As things stand you have no leverage."*
+*"I don't think you have any leverage for a settlement from Hyundai."* Filing is
+what creates leverage.
+
+**Usage:** *"Usage runs on the current odometer. Not first report."* If right,
+the Q16 first-report conflict may not affect damages — though it remains an
+inconsistency in a document Petitioner signed.
+
+### An upside nobody has counted
+
+A § 198-a lessee repurchase terminates the lease. The lease matures 11/23/2026
+and Petitioner is currently exposed to a **disposition fee, excess-wear and
+excess-mileage charges** — **none of which appear anywhere in this file, and
+none of which are in counsel's ~$6,500 estimate.** Pull them from the lease
+documents; they are real money on top of the recovery.
+
+### Live action items
+
+1. **Read `Hu Article 75 Retainer.pdf` against the six questions above.** Next
+   step, at Petitioner's direction.
+2. **Do not sign until item 4 above is resolved** — settlement-branch
+   reimbursement is worth the whole retainer.
+3. Deliverables in `materials/` are now **counsel's raw material, not the
+   filing.** The firm wants "every aspect of the Petition." Stop polishing them
+   for filing; hand them over if asked.
+4. The NY DOS entity search passes to counsel. Retained in the brief because the
+   answer must exist before service. **(518) 473-2492.**
+5. Clocks unchanged: file **9/9/2026**, serve **9/24/2026**, lease dies
+   **11/23/2026**.

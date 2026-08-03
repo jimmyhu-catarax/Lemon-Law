@@ -10,9 +10,8 @@
 > `CLAUDE.md` carries the corrected versions, but the reasoning and the sourcing
 > are here.
 >
-> **Start with Addendum 24** (the most recent): counsel is retained, the
-> retainer is in hand and unsigned, and six questions the firm has not yet
-> answered are listed there.
+> **Start with Addendum 25** (the most recent): the retainer has been read, it
+> is still unsigned, and two clarifications gate the signature.
 
 ## Index
 
@@ -42,6 +41,7 @@
 | 22 | 2026-07-30 | **Break-even correction — economics conceded too far** |
 | 23 | 2026-07-31 | ✅ **Fee email SENT — text of record** |
 | 24 | 2026-08-03 | ✅ **COUNSEL RETAINED — $3,000 + $1,000/appearance; retainer received, unsigned** |
+| 25 | 2026-08-03 | ⚠ **The retainer READ — conditional cap, reordered waterfall; two asks gate signature** |
 
 ---
 
@@ -1566,4 +1566,132 @@ documents; they are real money on top of the recovery.
 4. The NY DOS entity search passes to counsel. Retained in the brief because the
    answer must exist before service. **(518) 473-2492.**
 5. Clocks unchanged: file **9/9/2026**, serve **9/24/2026**, lease dies
+   **11/23/2026**.
+
+---
+
+## SESSION ADDENDUM 25 — 2026-08-03 (the retainer READ; two asks gate the signature)
+
+**`Hu Article 75 Retainer.pdf` — 3 pp., dated August 3, 2026, signed Michael A.
+Vicario, Esq. Read in full.** Preserved at
+**`materials/Hu_Article_75_Retainer.pdf`** — it arrived only in an ephemeral
+uploads directory and would have been lost with the container.
+
+### What the document says (this text governs, not the emails)
+
+Contracting entity: **"Eugene Krukas PLLC d/b/a Krukas & Vicario Attorneys at
+Law."**
+
+| Term | Text |
+|---|---|
+| Fee | `"an attorney fee of $3,000 + $1,000 for each in person court appearance, whether we win or lose the case"` |
+| **Ceiling (granted)** | `"The total out of pocket cost for Dr. Hu is limited to $5,000, even if there are more than 2 court appearances"` |
+| Rates behind any overage | **$500/hr attorneys, $175/hr paralegals** |
+| Scope **includes** | `"preparing and filing pleadings and motions, appearing at court conferences and ultimately conducting a hearing"` |
+| Scope **excludes** | `"The scope of this retainer does not extend to a subsequent arbitration proceeding, should one be ordered… a separate retainer will be needed."` |
+| Withdrawal | `"We may, at our option, withdraw from the case… for any reason"` (unused fees returned) |
+| Settlement | `"You will decide whether to accept or reject the offer"` — but `"you agree to not settle this matter on your own without the written consent of this office"` |
+
+### Three findings
+
+**1. ⚠ THE $5,000 CAP IS CONDITIONAL, NOT A CAP.** It holds only
+`"provided that none of the four (4) circumstances described below arises"`.
+The live trigger: `"(2) you accept a settlement offer that does not include
+compensation for all of the attorney fees incurred by our firm."` If tripped,
+exposure reverts to hourly — **a 30–40 hour petition at $500/hr is
+$15,000–$20,000**, three to four times the stated ceiling. This is **standard**
+in fee-shifting consumer retainers and protects the firm from a client settling
+cheap; the ask is to **bound** it, not remove it. Note the internal tension with
+the same document's `"You will decide whether to accept or reject the offer."`
+
+**2. ⚠ THE REIMBURSEMENT WATERFALL WAS REORDERED — AND STILL MISSES THE LIKELY
+BRANCH.** Krukas's email (7/31): *"**You** get reimbursed first out of any
+attorney fee awarded by the court."* The retainer:
+
+> `"If attorney fees and costs are awarded by the Court, actual costs or
+> disbursements, will be reimbursed to the firm first, and then the attorney fee
+> award will be used to reimburse you for attorney fees personally paid…, before
+> then going to the firm for any 'additional attorney fees'."`
+
+Petitioner moved from **first** to **second**, behind the firm's disbursements
+(practically small — index number, RJI, service — so it bites only if the award
+itself is small). **The larger half: it is still keyed to fees "awarded by the
+Court," while counsel expects a settlement**, where no such award exists.
+Spread ≈ the entire retainer (~$6,500 net if it reaches settlements, ~$3,500 if
+not).
+
+**3. THE REMAND EXCLUSION SITS EXACTLY WHERE THE MONEY ARRIVES.** Counsel's
+predicted path is vacatur → **remand** → settle. If Hyundai forces a
+re-arbitration instead, that is a **new engagement at an unquoted price**. The
+$5,000 buys the vacatur only.
+
+### Scoring Addendum 24's six questions against the document
+
+| # | Question | Status |
+|---|---|---|
+| 2 | Stay motion inside the fee? | ✅ **Yes** — "motions" are in scope |
+| 3 | Ceiling on appearances | ✅ **Granted — $5,000** (better than the email) |
+| 6 | Disbursements | ◐ Firm advances and recovers first. **Silent on who bears them on a loss** |
+| 4 | Reimbursement on **settlement** | ❌ Not addressed — now ask (b) |
+| 5 | Settlement stating recovery and fee separately | ❌ Not addressed; the four-trigger clause cuts the other way |
+| 1 | **November 23** | ❌ **Still unanswered by anyone** |
+
+Note: the "$1,000 per **in person** court appearance" wording favors Petitioner
+— NY does many conferences virtually. **Do not ask them to clarify it.**
+
+### The email as sent — msg `19fc929af4f05976`, 8/3 19:46 UTC, to Vicario cc Krukas
+
+Two asks framed as gating signature: **(a)** bound the four triggers — *"limit
+the settlement trigger to instances where I accept a settlement over your
+written objection, or establish a stated ceiling on additional fees"*; **(b)**
+*"Can the same order apply to fees recovered by settlement?"* Closing: *"Happy
+to sign as soon as the first two are settled."* Four non-blocking questions:
+remand retainer cost, November 23 + whether lease maturity implicates the
+vehicle provision, disbursements on a loss, and — see below — the incidentals.
+
+**Petitioner's three edits to the draft:**
+1. Trimmed the thanks for the ceiling.
+2. **Dropped the request for periodic time records.** That was the monitoring
+   mechanism for the very exposure ask (a) addresses. **If ask (a) is refused,
+   re-raise it** — otherwise the hourly meter runs unseen.
+3. **Added:** *"Should I try to contact Hyundai customer service separately
+   regarding the $1800 of incidental expenses…"* (verified figure:
+   **$1,793.43**).
+
+### ⚠ HALT-AND-CONFIRM — do not contact HMA before counsel answers
+
+Three independent reasons, all from documents already in this file:
+
+1. The retainer: *"you agree to not settle this matter on your own without the
+   written consent of this office."*
+2. Trigger **(4)**, refusal to cooperate, is one of the four that lifts the
+   $5,000 cap.
+3. **The incidentals are part of the § 198-a(c)(1) recovery, not a side claim.**
+   Settling them separately could undercut the repurchase.
+
+Krukas has already said *"As things stand you have no leverage"* and *"I don't
+think you have any leverage for a settlement from Hyundai."* **Asking counsel
+first was the correct move; wait for the answer.**
+
+### Not asserted
+
+The engagement letter carries **no notice of the right to arbitrate a fee
+dispute** (22 NYCRR Part 137). Believed applicable to a NY engagement letter of
+this size — **medium confidence, UNVERIFIED**; the rule text is unreachable
+under the egress policy. **Deliberately left out of the email**: the right
+exists independent of the notice, so raising it buys nothing and reads as
+auditing the firm's compliance.
+
+### Live action items
+
+1. **DO NOT SIGN** until asks (a) and (b) return in writing.
+2. **DO NOT CONTACT HYUNDAI** about the incidentals until counsel answers.
+3. **November 23 remains unanswered by anyone** — Krukas deferred it to Vicario,
+   Vicario sent the retainer without addressing it, and it was re-asked 8/3.
+   It is the risk counsel himself called unsolved.
+4. If ask (a) is refused, re-raise the time-records request.
+5. Still uncounted anywhere: **end-of-lease disposition fee, excess-wear and
+   excess-mileage charges**, which a § 198-a repurchase would extinguish. Pull
+   them from the lease documents.
+6. Clocks unchanged: file **9/9/2026**, serve **9/24/2026**, lease dies
    **11/23/2026**.

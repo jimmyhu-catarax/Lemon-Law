@@ -9,12 +9,12 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **24 as of 2026-08-03** — were moved there on 2026-07-30. They hold
+> addenda — **25 as of 2026-08-03** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 24**:
-> counsel is retained, the retainer is in hand and **unsigned**, and six
-> questions the firm has not answered are listed there.
+> N" reference below points into that file.** Start with **Addendum 25**: the
+> retainer has been read, it is **still unsigned**, and **two clarifications
+> gate the signature**.
 
 ---
 
@@ -47,7 +47,7 @@
 | Award | **June 11, 2026** — Arbitrator **Maneesha Sharma** (NYSDRA / NY Peace Institute CDRC). **Denied; "FOR THE MANUFACTURER."** |
 | Program | Compulsory arb under GBL § 198-a(k); 13 NYCRR Part 300; administered by NYSDRA for the NY Attorney General |
 | Petitioner | Dr. Jimmy Y. Hu |
-| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer received 8/3/2026, UNSIGNED as of this writing.** |
+| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer received 8/3/2026 — read, reviewed, and STILL UNSIGNED.** Terms: $3,000 + $1,000 per **in-person** appearance, **out-of-pocket capped at $5,000** — but that cap is **conditional** (see Addendum 25). Contracting entity is **"Eugene Krukas PLLC d/b/a Krukas & Vicario."** Local copy: `materials/Hu_Article_75_Retainer.pdf`. **⚠ Two clarifications gate the signature.** |
 | Venue | Supreme Court, **New York County** = **First Department** |
 | Relief sought | Vacatur under **CPLR 7511(b)(1)(iii)** (arbitrator exceeded power) |
 
@@ -242,12 +242,18 @@ see Addendum 4. What remains:
    accepted **$3,000 up front + $1,000 per court appearance**, with his
    out-of-pocket **reimbursed first out of any fee award**. Krukas expects
    there may be **zero** appearances ("the court just decides on the papers").
-   **The retainer arrived 8/3 16:27 from Vicario (`Hu Article 75 Retainer.pdf`)
-   and is UNSIGNED.** Sign by DocuSign or print-and-sign; Krukas invoices the
-   initial charge on signature. See Addendum 24. **⚠ Six questions were put to
-   the firm on 8/3 and NONE were answered in the covering emails** — the five
-   engagement-letter terms and the November 23 question. **Read the retainer
-   against that list before signing.**
+   **The retainer arrived 8/3 16:27 from Vicario, has been READ, and is STILL
+   UNSIGNED** (`materials/Hu_Article_75_Retainer.pdf`). DocuSign or
+   print-and-sign; Krukas invoices the initial charge on signature.
+   **⚠ DO NOT SIGN until two clarifications come back in writing** — asked
+   8/3 19:46 (msg `19fc929af4f05976`), see **Addendum 25**:
+   **(a)** bound the four "cooperation" triggers, which as drafted convert the
+   $5,000 cap into **$500/hr** exposure; **(b)** extend the reimbursement
+   waterfall to fees recovered by **settlement**, not just fees "awarded by the
+   Court" — counsel expects a settlement, so as written the protection may not
+   reach the likelier branch. The document **did** answer three of the six
+   questions (motions in scope; **$5,000 ceiling granted**; disbursements
+   advanced by the firm) and **left November 23 unanswered by anyone.**
 2. **NY DOS entity search on "Hyundai Motor America"** — authorization status
    decides BCL § 306 vs § 307 service. (Hyundai *Capital* America is a
    different entity.) **Now counsel's job, not a pro se blocker** — the firm
@@ -377,7 +383,8 @@ every undocumented conversation, and the sourcing behind the facts above.
 
 | Read first | Why |
 |---|---|
-| **Addendum 24** (8/3) | ✅ **Counsel retained** — $3,000 + $1,000/appearance, Vicario now lead. The retainer is **unsigned** and **six questions the firm has not answered** are listed. **This is the live posture.** |
+| **Addendum 25** (8/3) | ⚠ **The retainer read.** The $5,000 cap is **conditional**; the reimbursement waterfall was **reordered** and still keys to a court award, not the settlement counsel expects. **Two asks gate the signature. This is the live posture.** |
+| **Addendum 24** (8/3) | ✅ **Counsel retained** — $3,000 + $1,000/appearance, Vicario now lead. Superseded as the live posture by 25. |
 | **Addendum 23** (7/31) | The fee email **as sent** — text of record, Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8` — and the decision tree keyed to counsel's reply. Superseded as the live posture by 24. |
 | **Addendum 17** (7/30) | ⚠ Retracts the earlier reading of Krukas's 7/29 email as a "soft decline." He said he would **"be very happy to take the case."** |
 | **Addendum 22** (7/30) | The break-even correction: win ≈ **+$6,500** with fees reimbursed, lose ≈ **−$5,000** → break-even **≈ 43.5%**, not the 90% figure. |

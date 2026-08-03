@@ -227,9 +227,9 @@ Brooklyn**" (actually Koeppel LIC); controlling RO mistyped "**RO 258530**"
 | Filing mechanics | `research/2026-07-25-filing-mechanics.md` | caption / venue / service |
 | Verification checklist | `research/prefiling-verification-checklist.md` | what is still unverified |
 
-Superseded but retained for diff: Summary v3/v4/v5, Memo v2/v3/v4, Petition v1,
-Notice v1. **Arbitration Exhibit 11 (Days Out of Service) is still a Google Doc
-only — export to PDF before it can be annexed.**
+**Arbitration Exhibit 11 (Days Out of Service) is still a Google Doc only —
+export to PDF before it can be annexed.** (Superseded versions are retained in
+`materials/`; `ls` shows them.)
 
 ---
 
@@ -320,6 +320,9 @@ see Addendum 4. What remains:
   markdown/text.** `reboot.py` detects true types by magic bytes and routes
   extraction accordingly — **always run it first** and trust its manifest, not
   the extension.
+  ⚠ **This describes the claude.ai mirror, not this repo.** The PDFs committed
+  under `materials/` are **genuine PDFs** — verified 2026-08-03 on the decision,
+  Ex01, and the retainer. Don't redo extraction work on them.
 - **Authentic PDFs exist only in Google Drive.** The mirror bundles are OCR
   renderings — fine for reading, **not** authoritative for verbatim filing text.
   For any quotation going into a filing, confirm against the Drive original.
@@ -329,29 +332,12 @@ see Addendum 4. What remains:
   double-spaced) — **not** the navy/Arial/zebra exhibit styling (that's for
   exhibits only).
 
-## SOURCE MAP (Google Drive — prior session's IDs)
+## SOURCE MAP (Google Drive)
 
-> These came from the prior claude.ai Google Drive connector. In Claude Code you
-> may need to wire up a Drive MCP, or just export these to the local project
-> folder and let `reboot.py` handle them.
-
-| Item | Drive file ID |
-|---|---|
-| Root case folder | `12EDElpykKL0MLjD1mMD-LTYZ53zPc5Dy` |
-| Submission exhibits folder | `1_H0rVAA6uVJMmoYnbkSVKz18ebP90_dw` |
-| Claude outputs folder | `1v-5FvSLdImgKxcZox42XpaUe8hyM2ftl` |
-| **Authentic decision PDF** | `19HUhwBFjW8YiA--0qwx4HzoEKHuC1y8T` (folder `148Ka9Ze0868tU46-RtPObV7vgpHrHgXy`) |
-| Decision cover letter PDF | `1vfONVyiSHADgr0mb-HO2dzo4wB1yakkE` |
-| Memo of Law v1 (DOCX) | `1NbMy1ay-HWaimv-4RByfAK-Y2np8KSdI` |
-| Memo of Law v1 (PDF) | `1XtiyJ5GJThzmrPLQ2kK45rhkRaDdaJOk` |
-| Ex01 Lease (PDF) | `1CrSyH4NuP4xRYif-EPTVPjYg1ZarIU3l` |
-| Ex04 Repair Orders (PDF) | `1boIj5mlheuI4NVw8NAdzJP1xzlLuvtu-` |
-| Ex05 HMA Offer 1 (PDF) | `1mzHRCjG6t7yB8vR68Zc_R6mKFKDzDy1F` |
-| Ex06 HMA Offer 2 (PDF) | `1WxfsejWSwuTJ7Ytc3rTpgURgnUK3CItu` |
-| Settlement Agreement & Release (PDF) | `14vM37zTXWKyUD6vZg_pd6XOXqGXC0Juk` |
-| Ex11 Days Out of Service (Google Doc) | `15okCHDSDrKdbppmFbCi9yzIh41pXPaU2fz2vGkO4JdM` |
-
----
+Drive file IDs for the originals live in **[`docs/drive-source-map.md`](docs/drive-source-map.md)** —
+a lookup table, not a constraint, so it loads on demand rather than every session.
+Read it when you need to re-fetch an original or confirm a quotation against the
+authentic PDF.
 
 ## WORKING PROTOCOLS (the user's standing rules)
 

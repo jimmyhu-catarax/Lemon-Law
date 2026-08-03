@@ -339,6 +339,40 @@ a lookup table, not a constraint, so it loads on demand rather than every sessio
 Read it when you need to re-fetch an original or confirm a quotation against the
 authentic PDF.
 
+## TOOLING — the `legal` plugin (enabled; use it where it fits)
+
+**Check it is loaded at session start** and reach for it whenever the task is
+contract-shaped. Enabled from the claude.ai catalog (`knowledge-work-plugins`);
+it does not appear in local `enabledPlugins`, so absence there is not evidence
+it is off.
+
+Surfaces: `/legal:review-contract`, `/legal:triage-nda`, `/legal:brief`,
+`/legal:vendor-check`, and the `legal:legal-risk-assessment` skill.
+
+**Where it genuinely fits this matter:**
+- **`/legal:review-contract`** on `materials/Hu_Article_75_Retainer.pdf`, on any
+  revised retainer counsel sends, and on any HMA settlement release (Ex09a and
+  whatever replaces it). Clause-level review of a contract is exactly its job.
+- **`legal:legal-risk-assessment`** when weighing a settlement term or a fee
+  structure — e.g. the four "cooperation" triggers, the reimbursement waterfall.
+
+**Where it does NOT fit — do not force it.** This plugin is built for in-house
+and transactional counsel: contracts, NDAs, vendor diligence. It carries **no
+NY lemon-law, GBL § 198-a, or CPLR Article 75 knowledge.** Do not use it for the
+petition, the memorandum of law, case law, or statutory text. For those, the
+project's own `case-researcher` / `doc-drafter` / `doc-reviewer` agents and the
+`case-research` / `doc-review` workflows are the right tools.
+
+⚠ **The PRIME DIRECTIVE outranks the plugin.** Nothing it outputs is a source.
+No figure, date, quotation, clause reading, or citation it produces enters a
+filing — or a message to counsel — without verification against the underlying
+document. Treat its output exactly as you would a draft from a colleague who
+has not seen the file.
+
+**Not enabled, but on point if litigation support is ever wanted:**
+`litigation-legal` and `cocounsel-legal`, both in the `claude-for-legal`
+marketplace. Neither is installed; enabling is the user's call.
+
 ## WORKING PROTOCOLS (the user's standing rules)
 
 - Direct; red-team the user; name the strongest counterargument and most likely

@@ -342,10 +342,12 @@ authentic PDF.
 ## TOOLING — legal plugins
 
 The `legal` plugin (claude.ai catalog) is **enabled**; `litigation-legal` and
-`cocounsel-legal` are installed, **off**, and **pre-authorized to enable when a
-task calls for it**. Which to reach for, what each is and is not for, and the
-conditions on the standing permission: **[`docs/tooling.md`](docs/tooling.md)** —
-read it before invoking a legal surface or enabling a plugin.
+`cocounsel-legal` are **NOT installed** but are **pre-authorized to enable once
+they are**. Which to reach for, what each is and is not for, and the conditions
+on the standing permission: **[`docs/tooling.md`](docs/tooling.md)** — read it
+before invoking a legal surface or enabling a plugin. ⚠ **Local config lies
+about plugins** — `enabledPlugins` reads `{}` while seven are enabled; use
+`ListPlugins`/`SearchPlugins`, not `~/.claude.json`.
 
 ⚠ **This part does not lazy-load: the PRIME DIRECTIVE outranks every one of
 them.** Nothing any legal plugin outputs is a source. No figure, date,

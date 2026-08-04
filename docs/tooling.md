@@ -5,8 +5,18 @@
 > stayed in the brief is the Prime Directive guardrail** — a "never do X" rule
 > must not live behind a lazy load, or it may not be present when it matters.
 
-**Read this before invoking any legal plugin surface**, and before enabling
-either `claude-for-legal` plugin under the standing permission.
+**Read this before invoking any legal plugin surface**, and before installing
+or enabling a `claude-for-legal` plugin under the standing permission.
+
+⚠ **Local config is NOT the source of truth for plugins.** claude.ai-catalog
+plugins do not write to `enabledPlugins` or `pluginUsage` in `~/.claude.json` —
+both read `{}` while seven plugins are enabled. Use the `ListPlugins` /
+`SearchPlugins` tools, never the local files. (A `/doctor` pass on 2026-08-03
+reported "no plugins installed" off local config and was **wrong**.)
+
+**Enabled as of 2026-08-04** (claude.ai catalog): `legal`, `pdf-viewer`,
+`brand-voice`, `design`, `finance`, `enterprise-search`,
+`cowork-plugin-management`.
 
 ## TOOLING — the `legal` plugin (enabled; use it where it fits)
 
@@ -38,14 +48,23 @@ filing — or a message to counsel — without verification against the underlyi
 document. Treat its output exactly as you would a draft from a colleague who
 has not seen the file.
 
-### The `claude-for-legal` marketplace — available, OFF, pre-authorized
+### The `claude-for-legal` marketplace — NOT INSTALLED
 
-**`litigation-legal`** and **`cocounsel-legal`** are the two that match this
-matter (the enabled `legal` plugin does not — see above). They are **installed
-but not enabled**.
+⚠ **Corrected 2026-08-04.** An earlier version of this file said these were
+"installed but not enabled." **They are not installed.** `litigation-legal` and
+`cocounsel-legal` exist in the `claude-for-legal` marketplace and both read
+`enabled: false`. An install card was rendered 2026-08-03 and again 2026-08-04;
+installation happens **only when the user clicks it** — no tool available to
+this project can install a plugin directly.
 
-✅ **STANDING PERMISSION (granted 2026-08-03): enable either one yourself when
-the task calls for it.** No need to stop and ask. Conditions:
+**Confirm current state with `SearchPlugins` before relying on either.**
+
+Of the two, **`litigation-legal` is the one worth having**; `cocounsel-legal` is
+speculative (the catalog exposes no description or skill list for it, and the
+co-counsel role is now filled by actual retained counsel).
+
+✅ **STANDING PERMISSION (granted 2026-08-03): once installed, enable either one
+yourself when the task calls for it.** No need to stop and ask. Conditions:
 1. **Say so in the same turn** — name which one and why, so the user can turn it
    back off. Enabling is reversible via `/plugin`.
 2. **Enable only what the task needs.** Do not switch both on by reflex; the

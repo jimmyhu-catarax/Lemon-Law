@@ -369,9 +369,26 @@ filing — or a message to counsel — without verification against the underlyi
 document. Treat its output exactly as you would a draft from a colleague who
 has not seen the file.
 
-**Not enabled, but on point if litigation support is ever wanted:**
-`litigation-legal` and `cocounsel-legal`, both in the `claude-for-legal`
-marketplace. Neither is installed; enabling is the user's call.
+### The `claude-for-legal` marketplace — available, OFF, pre-authorized
+
+**`litigation-legal`** and **`cocounsel-legal`** are the two that match this
+matter (the enabled `legal` plugin does not — see above). They are **installed
+but not enabled**.
+
+✅ **STANDING PERMISSION (granted 2026-08-03): enable either one yourself when
+the task calls for it.** No need to stop and ask. Conditions:
+1. **Say so in the same turn** — name which one and why, so the user can turn it
+   back off. Enabling is reversible via `/plugin`.
+2. **Enable only what the task needs.** Do not switch both on by reflex; the
+   marketplace also carries `product-legal`, `ip-legal`, `employment-legal`,
+   `regulatory-legal`, `commercial-legal`, `legal-clinic`, and
+   `legal-builder-hub` — **none of which touch this matter.** Leave them off.
+3. ⚠ **The PRIME DIRECTIVE still governs.** These are litigation-shaped tools,
+   which makes them *more* dangerous to this project than the transactional
+   `legal` plugin, not less: output that looks like a case cite or a pinpoint is
+   exactly what must never reach a filing unverified. **Nothing either plugin
+   produces is a source.** Verify against the Official Reports, the statute, or
+   the exhibit — every time.
 
 ## WORKING PROTOCOLS (the user's standing rules)
 

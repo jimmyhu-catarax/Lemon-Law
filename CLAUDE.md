@@ -339,56 +339,23 @@ a lookup table, not a constraint, so it loads on demand rather than every sessio
 Read it when you need to re-fetch an original or confirm a quotation against the
 authentic PDF.
 
-## TOOLING — the `legal` plugin (enabled; use it where it fits)
+## TOOLING — legal plugins
 
-**Check it is loaded at session start** and reach for it whenever the task is
-contract-shaped. Enabled from the claude.ai catalog (`knowledge-work-plugins`);
-it does not appear in local `enabledPlugins`, so absence there is not evidence
-it is off.
+The `legal` plugin (claude.ai catalog) is **enabled**; `litigation-legal` and
+`cocounsel-legal` are installed, **off**, and **pre-authorized to enable when a
+task calls for it**. Which to reach for, what each is and is not for, and the
+conditions on the standing permission: **[`docs/tooling.md`](docs/tooling.md)** —
+read it before invoking a legal surface or enabling a plugin.
 
-Surfaces: `/legal:review-contract`, `/legal:triage-nda`, `/legal:brief`,
-`/legal:vendor-check`, and the `legal:legal-risk-assessment` skill.
-
-**Where it genuinely fits this matter:**
-- **`/legal:review-contract`** on `materials/Hu_Article_75_Retainer.pdf`, on any
-  revised retainer counsel sends, and on any HMA settlement release (Ex09a and
-  whatever replaces it). Clause-level review of a contract is exactly its job.
-- **`legal:legal-risk-assessment`** when weighing a settlement term or a fee
-  structure — e.g. the four "cooperation" triggers, the reimbursement waterfall.
-
-**Where it does NOT fit — do not force it.** This plugin is built for in-house
-and transactional counsel: contracts, NDAs, vendor diligence. It carries **no
-NY lemon-law, GBL § 198-a, or CPLR Article 75 knowledge.** Do not use it for the
-petition, the memorandum of law, case law, or statutory text. For those, the
-project's own `case-researcher` / `doc-drafter` / `doc-reviewer` agents and the
-`case-research` / `doc-review` workflows are the right tools.
-
-⚠ **The PRIME DIRECTIVE outranks the plugin.** Nothing it outputs is a source.
-No figure, date, quotation, clause reading, or citation it produces enters a
-filing — or a message to counsel — without verification against the underlying
-document. Treat its output exactly as you would a draft from a colleague who
-has not seen the file.
-
-### The `claude-for-legal` marketplace — available, OFF, pre-authorized
-
-**`litigation-legal`** and **`cocounsel-legal`** are the two that match this
-matter (the enabled `legal` plugin does not — see above). They are **installed
-but not enabled**.
-
-✅ **STANDING PERMISSION (granted 2026-08-03): enable either one yourself when
-the task calls for it.** No need to stop and ask. Conditions:
-1. **Say so in the same turn** — name which one and why, so the user can turn it
-   back off. Enabling is reversible via `/plugin`.
-2. **Enable only what the task needs.** Do not switch both on by reflex; the
-   marketplace also carries `product-legal`, `ip-legal`, `employment-legal`,
-   `regulatory-legal`, `commercial-legal`, `legal-clinic`, and
-   `legal-builder-hub` — **none of which touch this matter.** Leave them off.
-3. ⚠ **The PRIME DIRECTIVE still governs.** These are litigation-shaped tools,
-   which makes them *more* dangerous to this project than the transactional
-   `legal` plugin, not less: output that looks like a case cite or a pinpoint is
-   exactly what must never reach a filing unverified. **Nothing either plugin
-   produces is a source.** Verify against the Official Reports, the statute, or
-   the exhibit — every time.
+⚠ **This part does not lazy-load: the PRIME DIRECTIVE outranks every one of
+them.** Nothing any legal plugin outputs is a source. No figure, date,
+quotation, clause reading, or citation it produces enters a filing — or a
+message to counsel — without verification against the underlying document.
+Litigation-shaped tools are the *more* dangerous case, not the less: output that
+looks like a case cite or a pinpoint is exactly what must never be taken on
+faith. And none of them carry NY lemon-law, GBL § 198-a, or CPLR Article 75
+knowledge — for those, use the project's own `case-researcher` / `doc-drafter` /
+`doc-reviewer` agents.
 
 ## WORKING PROTOCOLS (the user's standing rules)
 

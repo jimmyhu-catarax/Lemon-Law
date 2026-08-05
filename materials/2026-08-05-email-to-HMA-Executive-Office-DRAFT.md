@@ -9,7 +9,7 @@
 | **Cc** | **NONE.** Do not copy counsel — see "Handling notes" below. |
 | **From** | jimmy.hu@gmail.com |
 | **Subject** | Request for Executive Review — Incidental Expense Reimbursement, Case #42053079 (VIN KM8KNDDF9RU253237) |
-| **Attach** | Receipts only (Ex21 Tabs A, B, D). **Do NOT attach Exhibit 17.** |
+| **Attach** | `2026-08-05-HMA-Executive-Office-receipts-attachment.pdf` (56 pp, 6.3 MB). **Do NOT attach Exhibit 17, and do not attach the full Exhibit 21 packet.** |
 
 ---
 
@@ -40,8 +40,12 @@ manufacturer warranty.
 | Towing — unreimbursed balance, Raineri's, Feb 12 (total $406.90; $391.25 approved under RA Case #76530936) | $15.65 |
 | **Total** | **$1,793.43** |
 
-Receipts for every item except public transit are attached. The transit fares are
-standard NJ Transit and MTA rates for the dates shown; no receipts were retained.
+Receipts are attached, organized by category. One line is documented differently
+and I want to flag it rather than have you find it: the **$35.20** in NJ Transit
+and MTA fares has no retained receipts. Those are standard published fares for
+the dates shown, and I have listed them for completeness rather than omit costs I
+actually incurred. If Hyundai declines that line for lack of documentation, I
+understand — it has no bearing on the receipted items, which stand on their own.
 
 ### Why the daily allowance does not fit this claim
 
@@ -162,6 +166,25 @@ Acknowledge, and say you will respond separately.
 daily summary by $195.82 and its ride dates do not match the receipts); any
 characterization of the arbitration or the award; any statutory argument under
 GBL § 198-a; the vehicle's current condition.
+
+### The attachment — what was cut and why
+
+`2026-08-05-HMA-Executive-Office-receipts-attachment.pdf` is Exhibit 21 pages
+**3–58** (56 pp): Tab A rentals and tolls, Tab B ride-share, the Tab C transit
+divider, Tab D towing. Verified to contain **zero** references to the arbitrator,
+the hearing, NYSDRA, or the repurchase offer.
+
+Three parts of the packet were removed:
+
+| Cut | Why |
+|---|---|
+| p. 1 — packet cover | Captioned "NEW YORK NEW CAR LEMON LAW ARBITRATION," naming Arbitrator Maneesha Sharma and the June 9 hearing. Sending it frames a reimbursement request as litigation. |
+| p. 2 — index | Cross-references Exhibits 16 and 17; the email's own table serves the same purpose without pointing at the exhibit whose total is wrong. |
+| pp. 59–66 — Tab E | HMA's own case-management emails, including the repurchase-offer discussion. No reason to send Hyundai its own correspondence, and every reason not to foreground the offer. |
+
+The three tab dividers (pp. 3, 20, 53) were kept — they organize the receipts and
+carry only the neutral "Exhibit 21" label. The Tab C divider is retained
+deliberately: it documents the $35.20 transit line that has no receipts.
 
 **Unverified in the underlying exhibit, so stated only as the record states it:**
 the "wrong callback number," the unauthorized tow, and the three failed dispatches

@@ -37,7 +37,7 @@ manufacturer warranty.
 | EZ-Pass toll surcharge — 5 toll-usage days × $4.95 (underlying tolls not claimed) | $24.75 |
 | Ride-share (Lyft) — Jan 6, Jan 7, Feb 9, Feb 20 | $504.77 |
 | Public transit (NJ Transit / MTA) | $35.20 |
-| Towing — unreimbursed balance, Raineri's, Feb 12 (total $406.90; $391.25 approved under Hyundai Reimbursement Request 2026-6680) | $15.65 |
+| Towing — unreimbursed balance, Raineri's, Feb 12 (total $406.90; $391.25 reimbursed under Hyundai Reimbursement Request 2026-6680) | $15.65 |
 | **Total** | **$1,793.43** |
 
 Receipts are attached, organized by category. One line is documented differently
@@ -86,9 +86,10 @@ Assistance records:
   5:40 PM, after the lot had closed at 5:00.
 - The vehicle finally reached Paramus Hyundai on February 13.
 
-Hyundai approved reimbursement of the $391.25 impound release fee
-(Reimbursement Request 2026-6680). That approval is itself an acknowledgment
-that this episode should not have happened. I am not asking for it again. I am asking that the same reasoning be
+Hyundai has already reimbursed the $391.25 impound release fee
+(Reimbursement Request 2026-6680). That reimbursement is itself an
+acknowledgment that this episode should not have happened. I am not asking for
+it again. I am asking that the same reasoning be
 applied to the transportation costs the same episode generated — at least four
 days of rental and ride-share that had nothing to do with repairing the vehicle,
 plus the $15.65 towing balance that remains unpaid solely because of a Hyundai
@@ -159,7 +160,7 @@ Acknowledge, and say you will respond separately.
 | "fixed at $60 per day … $30 per day" | css@hmausa.com, Fri, Feb 27, 2026, 9:17 AM (same) |
 | "fixed and cannot be adjusted" | css@hmausa.com, Mon, Mar 2, 2026, 4:35 PM (same) |
 | Roadside chronology, reference numbers, names | Ex21 Loss of Use Record, §I |
-| $391.25 **approved** / $15.65 balance | Ex21 RAP Response (Reimbursement Request 2026-6680): "Your reimbursement has been approved in the amount of $391.25, unfortunately, the non cash adj charge of $15.65 is an item outside the policy of reimbursement." ⚠ Actual **receipt** of the $391.25 payment is not documented in the record — only the approval and the promise of a secure payment link. If the payment arrived, "approved" may be upgraded to "reimbursed"; the user must confirm. Note HMA has already **declined the $15.65 once, in writing** — this email asks the executive office to review that decision. |
+| $391.25 **reimbursed** / $15.65 balance | Ex21 RAP Response (Reimbursement Request 2026-6680): "Your reimbursement has been approved in the amount of $391.25, unfortunately, the non cash adj charge of $15.65 is an item outside the policy of reimbursement." The documentary record shows approval + a promised secure payment link; **actual receipt of the $391.25 payment was confirmed by the user 2026-08-06** (user testimony — HMA can verify against its own payment records). Note HMA has already **declined the $15.65 once, in writing** — this email asks the executive office to review that decision. |
 | Gorberg withdrawal | laura@mylemon.com, May 12, 2026 (Gmail msg `19e1c42edda0c6b4`) |
 
 **Deliberately excluded:** Exhibit 17 (its $1,989.25 total double-counts a Lyft

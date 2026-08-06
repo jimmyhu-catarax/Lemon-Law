@@ -1796,9 +1796,11 @@ Ex21 Tab E / Gmail. Two corrections made on review:
 1. **Attribution fixed:** the $391.25 approval came under **Hyundai
    Reimbursement Request 2026-6680**, not RA Case #76530936 (that is the Feb 9
    tow reference).
-2. **"Reimbursed" → "approved":** the record documents approval and a promised
-   secure payment link — **not actual receipt of the $391.25**. Only the user
-   knows whether the payment arrived; if it did, the wording may be upgraded.
+2. **"Reimbursed" → "approved" → back to "reimbursed":** the record documents
+   approval and a promised secure payment link, not actual receipt — but the
+   **user confirmed 2026-08-06 that the $391.25 payment landed** (user
+   testimony; HMA can verify against its own payment records), so the stronger
+   wording was restored.
    Also noted: HMA already **declined the $15.65 once in writing** (*"outside
    the policy of reimbursement"*) — the email is an executive review of that
    decision, and expectations on that line should be tempered accordingly.

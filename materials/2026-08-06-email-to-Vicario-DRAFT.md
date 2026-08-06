@@ -17,9 +17,10 @@
 Hi Mike,
 
 Thank you — both changes are in the revised retainer and they read exactly as I
-hoped. I'm ready to sign; please send the DocuSign whenever convenient.
+hoped. I've signed the DocuSign, so please have Eugene send the invoice
+whenever ready.
 
-Four short items, none of which needs to hold up the signature:
+Four short items, none urgent:
 
 1. **The $7,500 contingency option for a remand arbitration** — when the time
    comes, I'd want to understand what "on contingency" means in that quote: is
@@ -68,10 +69,11 @@ jimmy.hu@gmail.com | 215-307-5492
 
 ## Handling notes
 
-- **Send AFTER the HMA escalation email goes out** — item 3 is written in the
-  past tense. If the HMA email hasn't been sent yet, hold this one.
-- **Then sign the DocuSign.** Do not let this exchange delay signing more than
-  a day; 9/9 is fixed and Krukas invoices the $3,000 on signature.
+- **Both preconditions are met** (updated 2026-08-06): the HMA escalation was
+  sent 8/6 (msg `19fd59f767605548`, receipts attached — verified) and the
+  DocuSign is signed (user-confirmed). Send this now, and separately
+  **forward the sent HMA email to Vicario** so his file copy carries the
+  attachment.
 - Item 2 deliberately does not ask Vicario to *amend* the retainer — the two
   $5,000 ceilings already bound the exposure; this is a written-record
   confirmation, not a renegotiation.

@@ -1809,3 +1809,56 @@ Ex21 Tab E / Gmail. Two corrections made on review:
 
 File **9/9/2026** · serve **9/24/2026** (understanding — CPLR 306-b still
 unverified) · lease dies **11/23/2026**.
+
+---
+
+## SESSION ADDENDUM 27 — 2026-08-06 (HMA escalation SENT — verified; retainer SIGNED — user-confirmed; the no-settle clause is now LIVE)
+
+### The two events
+
+1. **HMA escalation SENT and verified in the record.** Sent **8/6/2026
+   05:50Z** from jimmy.hu@gmail.com to customercare@hmausa.com (msg
+   `19fd59f767605548`, thread `19fd5952e8cdabc1`). Full content pulled and
+   checked: body matches the reviewed draft **word-for-word** (including the
+   corrected "reimbursed under Hyundai Reimbursement Request 2026-6680"
+   attribution), and the 56-page receipts PDF **is attached**
+   (`20260805HMAExecutiveOfficereceiptsattachment.pdf`, application/pdf).
+   Benchmark from July 2025: the executive office answered in ~21 hours.
+   Realistic recovery: **$1,200–$1,400** of the $1,793.43 asked.
+2. **Retainer SIGNED — user testimony, 8/6/2026.** The user reports signing
+   the DocuSign. ⚠ **No DocuSign completion certificate is in the inbox yet**
+   (searched 8/6). When it arrives: save the executed PDF + certificate to
+   `materials/` as the operative contract (the executed copy, not v2,
+   governs). Sequence integrity confirmed: the HMA email (05:50Z) predates
+   the signature.
+
+### Consequences — now binding
+
+- **The no-independent-settlement clause is LIVE**: *"you agree to not settle
+  this matter on your own without the written consent of this office."* From
+  now on, **any substantive money response to HMA goes through Vicario
+  first** — including acceptance of the incidentals reimbursement itself.
+  A straight reimbursement with no release is arguably not "settling the
+  matter," but the clause is broad and a one-line written OK from Vicario
+  costs nothing. **If HMA sends any document to sign or any settlement
+  number: forward to Vicario, do not respond substantively.**
+- **Krukas invoices $3,000 on signature** — expect it; pay promptly.
+- The firm is now counsel of record in fact; the pro-se posture of the HMA
+  email was accurate **when sent** and is preserved in the record.
+
+### Next actions (live queue)
+
+1. Send the Vicario follow-up note (`materials/2026-08-06-email-to-Vicario-DRAFT.md`,
+   updated to post-signature tense) and **forward the sent HMA email** to
+   Vicario for his file.
+2. **Send counsel the case packet** per
+   `research/2026-07-28-attorney-packet.md` — Tier 1 + Tier 2 (Ex17 stays on
+   the do-NOT-send list; the Ex17 disclosure is item 4 of the follow-up
+   note). The firm asked for "every aspect of the Petition."
+3. Preserve the executed retainer + DocuSign certificate when the email
+   arrives.
+4. Watch for the HMA response; route per the rule above.
+5. Ask Vicario for the expected **filing timeline** — 9/9 is 34 days out and
+   is now counsel's deadline to hit; service wall 9/24 (Petitioner's
+   understanding). The buyout-vs-return call (11/23) remains open — item 2 of
+   the follow-up note asks Vicario's recommendation.

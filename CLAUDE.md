@@ -9,12 +9,14 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **26 as of 2026-08-06** — were moved there on 2026-07-30. They hold
+> addenda — **27 as of 2026-08-06** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 26**: both
-> retainer asks were granted **in the document**, the retainer is **clear to
-> sign** — sequence: **send the HMA escalation first, then sign.**
+> N" reference below points into that file.** Start with **Addendum 27**: the
+> HMA escalation was **SENT 8/6 (verified, receipts attached)** and the
+> retainer is **SIGNED** (user-confirmed; completion certificate not yet in
+> inbox) — **the no-independent-settlement clause is now LIVE**: any money
+> response from HMA routes through Vicario.
 
 ---
 
@@ -47,7 +49,7 @@
 | Award | **June 11, 2026** — Arbitrator **Maneesha Sharma** (NYSDRA / NY Peace Institute CDRC). **Denied; "FOR THE MANUFACTURER."** |
 | Program | Compulsory arb under GBL § 198-a(k); 13 NYCRR Part 300; administered by NYSDRA for the NY Attorney General |
 | Petitioner | Dr. Jimmy Y. Hu |
-| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer v2 received 8/5, verified, CLEAR TO SIGN — still unsigned.** Both asks granted **in the document** (Addendum 26): $3,000 + $1,000 per **in-person** appearance, personal exposure bounded by **two independent $5,000 ceilings**. Remand would be a **separate retainer** — quoted $6,000 flat / $7,500 "on contingency" (undefined). Contracting entity is **"Eugene Krukas PLLC d/b/a Krukas & Vicario."** Local copy: `materials/Hu_Article_75_Retainer_v2.pdf` (8/3 baseline retained). **Sequence: send the HMA incidentals escalation, then sign** — the no-independent-settlement clause binds on execution. |
+| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer SIGNED 8/6/2026** (user-confirmed; ⚠ DocuSign completion certificate not yet in inbox — preserve executed copy to `materials/` when it arrives). Both asks granted **in the document** (Addendum 26): $3,000 + $1,000 per **in-person** appearance, personal exposure bounded by **two independent $5,000 ceilings**. Remand would be a **separate retainer** — quoted $6,000 flat / $7,500 "on contingency" (undefined). Contracting entity is **"Eugene Krukas PLLC d/b/a Krukas & Vicario."** Local copy: `materials/Hu_Article_75_Retainer_v2.pdf` (8/3 baseline retained). **The no-independent-settlement clause is BINDING** — any HMA money response goes through Vicario (Addendum 27). Expect the $3,000 invoice. |
 | Venue | Supreme Court, **New York County** = **First Department** |
 | Relief sought | Vacatur under **CPLR 7511(b)(1)(iii)** (arbitrator exceeded power) |
 
@@ -133,21 +135,18 @@ export to PDF before it can be annexed.**
 The three original questions (caption, service, return date) are **RESOLVED** —
 see Addendum 4. What remains:
 
-1. **Sign the retainer — ✅ CLEAR TO SIGN as of 8/5/2026 (Addendum 26).** Both
-   gating asks were granted **in the document**: v2
-   (`materials/Hu_Article_75_Retainer_v2.pdf`, verified 8/6 against the 8/3
-   baseline) adds *"Notwithstanding, recovery from you personally will be
-   limited to $5,000"* after the four cooperation triggers, and *"The same
-   order would apply to attorney fees recovered by settlement."* Personal
-   exposure is bounded by **two independent $5,000 ceilings**. Vicario also
-   answered all four non-blocking questions (remand $6,000 / $7,500
-   "contingency" — undefined; Nov 23 = *"uncharted territory… I will write a
-   letter to the Court"*; no disbursements on a loss — email only, not in the
-   document; incidentals excluded from the petition, *"free to contact Hyundai
-   separately"*). **Sequence: send the HMA escalation email FIRST, then sign
-   the DocuSign** — the no-independent-settlement clause binds on execution.
-   Krukas invoices $3,000 on signature. Do not let the email delay signing
-   more than a day; 9/9 is fixed.
+1. **✅ Retainer SIGNED and HMA escalation SENT — both 8/6/2026 (Addendum
+   27).** The sequence held: email out 05:50Z (msg `19fd59f767605548`,
+   receipts attached, verified), signature after. **Now live:**
+   **(a)** send the Vicario follow-up note
+   (`materials/2026-08-06-email-to-Vicario-DRAFT.md`) and **forward the sent
+   HMA email** to Vicario for his file; **(b)** send counsel the case packet
+   per `research/2026-07-28-attorney-packet.md` (Ex17 stays excluded — its
+   disclosure is item 4 of the note); **(c)** pay the $3,000 invoice when it
+   arrives; **(d)** preserve the executed retainer + DocuSign certificate to
+   `materials/`; **(e)** any HMA response: forward to Vicario, do not respond
+   substantively; **(f)** get Vicario's filing timeline — 9/9 is now
+   counsel's deadline to hit.
 2. **⚠ UNVERIFIED TEXT GATES FOUR ARGUMENTS — see
    [`docs/open-items.md`](docs/open-items.md).** GBL § 198-a **(a), (c)(1),
    (l), (n)** are **all still UNREAD** (every legal-text host 403s under the
@@ -233,15 +232,16 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 26 addenda as of 2026-08-06.
+**[`docs/session-log.md`](docs/session-log.md) — 27 addenda as of 2026-08-06.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum
-26** (retainer clear to sign; send HMA escalation first; the Ex17 $195.82
-double-count — the live posture); then **25** (the retainer read), **24**
-(counsel retained), **22** (break-even ≈ 43.5%, not 90%), and **17** (retracts
-the "soft decline" reading of Krukas's 7/29 email — he said he'd **"be very
-happy to take the case"**).
+27** (HMA escalation sent + retainer signed; the no-settle clause is live;
+the action queue — the live posture); then **26** (retainer v2 verified; the
+Ex17 $195.82 double-count), **25** (the retainer read), **24** (counsel
+retained), **22** (break-even ≈ 43.5%, not 90%), and **17** (retracts the
+"soft decline" reading of Krukas's 7/29 email — he said he'd **"be very happy
+to take the case"**).
 
 ⚠ **Gmail connector trap, learned the hard way (Addenda 12, 16):**
 `update_draft` has **no `replyToMessageId`** — editing a reply draft silently

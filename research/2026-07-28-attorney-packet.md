@@ -1,5 +1,16 @@
 # Attorney Packet — the consolidated send to counsel (rev. 2026-08-06)
 
+> **✅ BUILT: `materials/Hu_v_HMA_Counsel_Packet_2026-08-06.pdf`** — 182 pp,
+> 38 MB, per the user's direction that counsel get **everything in one shot**
+> (which supersedes the leaner Part-A list below): 7 pp of front matter
+> (overview, six disclosed record flags, page-ranged index, two-page lemon-law
+> summary, full chronological narrative) + all 26 documents in five parts,
+> bookmarked, continuously page-numbered. Byte-identical duplicates excluded
+> and disclosed on the cover. **Too large for a Gmail attachment (25 MB
+> limit): upload to the case Google Drive folder and send counsel the link**,
+> together with the six Word/markdown draft files (Part B below), which stay
+> separate so the firm can edit them.
+
 > **Rewritten 2026-08-06.** The original (7/28) was built for outreach — tiers,
 > drip-feed, "don't look like a difficult client." That world ended: the
 > retainer was **signed 8/6** and the firm asked for **"every aspect of the

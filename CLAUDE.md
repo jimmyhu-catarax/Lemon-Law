@@ -82,154 +82,46 @@ user's call.** See Addendum 10.
 | ⏰ **LEASE EXTENSION HARD WALL** | **November 23, 2026** — "Maximum Months Extended: **6**; Maximum Maturity Date: **11/23/2026**." Month-to-month at $314 due the 23rd; extension letter dated **May 22, 2026**. **The lease CANNOT be extended past 11/23/2026.** | **Ex15 Lease Term Extension Agreement**, acct #2415627694 ✓ read 2026-07-29 (Addendum 10). Sits **10 weeks after** the 9/9/2026 filing deadline. |
 | Sums paid on the lease | **$7,552.74** applied through the 5/23/2026 due date (25 payments × $314.00 = $297.26 base + $16.74 sales tax) **+ $2,953.00** cap-cost reduction ≈ **$10,505.74**, plus extension payments since | **Ex19 Lease Payment History** (Hyundai Motor Finance, stmt. dated 6/2/2026) ✓ computed 2026-07-29. "Amount Funded 39,958.70" — **not reconciled** to the $7,500 federal credit; do not assert how the credit was handled. |
 
-### Settlement-offer trajectory (a strategic asset — shows bad faith / no rational basis)
+### Settlement-offer trajectory → [`docs/settlement-history.md`](docs/settlement-history.md)
 
-| Date | Offer | Note |
+Three offers, declining: **$7,977** repurchase (8/18/25) → **$5,388.51**
+(1/29/26, lapsed ≈3/30/26) → repurchase **withdrawn, $2,500** counter (5/11/26).
+A strategic asset — shows bad faith / no rational basis.
+
+**Read the file before drafting Point 7, before any money communication with
+HMA, and before characterizing any release.** It carries three retractions you
+must not restate: the "wrong email" theory is **dropped**; there is **no
+California choice-of-law clause** (the award's "clause related to the state of
+CA" IS the §1542 waiver); and $3,727.78 is **reserved, not conceded**. It also
+holds how the deals actually died — the notarized §1542 waiver, the "not
+negotiable" phone call, and the body-repair precondition.
+
+---
+
+## THE DRAFTING SET (three files — read the relevant one before you draft)
+
+**⚠ These pointers are the constraint; the files are the payload. Do not draft
+from memory.**
+
+| Read before | File | What it holds |
 |---|---|---|
-| Aug 18, 2025 | **$7,977.00** full repurchase (or **$4,000** cash-keep) | mileage deduction **waived**. ⚠ "sent to wrong email" **DROPPED — refuted** (Addendum 3). Hu **accepted the $4,000 option in writing 9/25–26/25**; deal died on release terms. |
-| Jan 29, 2026 | **$5,388.51** restitution (or **$5,000** cash-keep) | deduction **$4,326.49 on WRONG 8,148-mi basis** (first report was 7,026). ⚠ Do **not** state $3,727.78 as "the correct deduction" — the 12,000-mile threshold question is unresolved; Memo v5 reserves it. ⚠ **Counsel 7/31: "Usage runs on the current odometer. Not first report."** If that is right the first-report basis dispute may not affect damages at all, though it remains a live inconsistency in a document Petitioner signed (Q16). **Counsel's statement, not verified against § 198-a(c)(1).** Valid 60 days; **lapsed ≈3/30/26**. |
-| May 11, 2026 | repurchase **withdrawn**, **$2,500** counter | conveyed **only through Gorberg** (Laura Wolfe email); no standalone HMA writing (Ex08 cover sheet). |
-
-The Aug-2025 release (Ex09a) required a notarized **§1542 unknown-claims
-waiver** ("as well as any similar law of any state or territory of the United
-States"), confidentiality, and indemnity. ⚠ **There is NO California
-choice-of-law clause** — that reading is refuted; see Addendum 3. The award's
-"clause related to the state of CA" IS the §1542 waiver. Petitioner's objection
-is recorded in the award and was **to that clause, not the dollar amount**.
-**How the deal actually died (user-confirmed 2026-07-29):** Hu sent three
-requested edits **9/30/2025**; HMA's css replied **the same day asking for a
-good time to call** (email record line 17) and **never responded substantively
-in writing**; **on that call Hu was told the buyback terms were "not
-negotiable."** The call itself is **Hu's testimony — undocumented**; the email
-requesting it is in the record and corroborates that the refusal moved to the
-phone. Do not state HMA's position as non-negotiable as fact; state what Hu was
-told.
-**⚠ AND THE BODY-REPAIR PRECONDITION — documented; see Addendum 13.** By October
-the deal had moved toward the **repurchase**, and HMA gated it on repairing
-unrelated collision damage: **10/14/2025** "status of vehicle body repairs"
-(Ex22 — "the first appearance of the body-repair condition tied to closing the
-deal"); **10/24/2025** Hu reports "completing **rear bumper** body repairs" and
-will return the car when done; **11/05/2025** "Offer #1 was **never executed**
-before the second failure event." **There is no executed repurchase in the file
-because HMA conditioned it on body work whose delay traced back to the 124 days
-HMA had the car.**
-(The Jan-2026 release's contents are **not in the record** — Ex09b is a
-duplicate of Ex06 — so never describe "each" release's terms.) 10% statutory cap =
-**$5,336.08** (deduction fits under cap either way). Cash price $53,360.77;
-gross cap cost $54,597.70; $314/mo; $2,953 cap-cost reduction.
+| **any citation enters a filing** | [`docs/verified-citations.md`](docs/verified-citations.md) | 8 cites with confirmed pinpoints — MVMA 75 NY2d 175, 186; Gurau; **Leonidou (Slip Op number ONLY — AD3d parallel unconfirmed)**; Riina; DaimlerChrysler 7 NY3d 653, 658; Sheikh; Catherwood; Caso |
+| **quoting the award** | [`docs/award-anchors.md`](docs/award-anchors.md) | Verbatim language incl. the dispositive "no allegation … impaired" sentence; the checkbox findings; **the ND-4 numbering swap — cite findings by language, never by bare number**; the carelessness markers |
+| **drafting/revising the memo or petition** | [`docs/argument-architecture.md`](docs/argument-architecture.md) | The 8 points. Point 2 (the award refutes itself within its four corners) is the strongest opening and needs no external evidence. ⚠ Point 7 depends on § 198-a(n), whose text is **UNVERIFIED** |
 
 ---
 
-## VERIFIED CITATIONS (use these; pinpoints confirmed)
+## DELIVERABLES
 
-| Cite | Point | Status |
-|---|---|---|
-| **Motor Veh. Mfrs. Assn. of U.S. v State of New York**, 75 NY2d 175, **186** (1990) [551 NYS2d 470] | Compulsory-arb review is **broad**: award must accord with due process + be supported by adequate record evidence | ✔ verified |
-| **Matter of General Motors Corp. [Gurau]**, 33 AD3d 1149, **1151** (3d Dept 2006) [824 NYS2d 180] | Tri-partite standard: due process / adequate record evidence / rational, not arbitrary | ✔ verified |
-| **Matter of BMW of N. Am., LLC v Leonidou**, **2020 NY Slip Op 02858** (1st Dept 2020) | **First Dept vacated** a lemon-law award: arbitrator must "abide by the statutory standards, or an award will be vacated for exceeding the legislative grant of authority"; award "lacks a rational basis" | ✔ verified **by Slip Op number**. **AD3d parallel NOT confirmed — do NOT assert a reporter page.** Cuts our way on facts (there the *consumer* had no evidence; here 124 days sit on Hyundai's own RO). |
-| **Matter of BMW of N. Am., LLC v Riina**, 149 AD3d 420 (1st Dept 2017) | Companion First Dept vacatur | ✔ verified full cite |
-| **Matter of DaimlerChrysler Corp. v Spitzer**, 7 NY3d 653, **658** (2006) | Forecloses condition-at-hearing standard; "continues to exist" applies only to (d)(1) after the 4th attempt; (d)(2) has **no** such element | ✔ verified |
-| **Matter of General Motors Corp. [Sheikh]**, 2007 NY Slip Op 05186 (3d Dept 2007) | Restates the standard | ✔ verified |
-| **Mount St. Mary's Hosp. v Catherwood**, 26 NY2d 493, **508** (1970) | Compulsory-arb review premised on adequate record evidence | ✔ verified |
-| **Caso v Coffey**, 41 NY2d 153, **156** (1976) | Cited within MVMA | ✔ verified |
-
----
-
-## THE AWARD — verbatim anchors & errors
-
-**Use the award's exact words in filings.** Confirmed against the authentic
-decision PDF (Acrobat PDFMaker; checkbox pages rasterized and read visually).
-
-**Dispositive sentence (the whole ballgame):**
-> "Based on testimony that the vehicle is currently operating and no allegation
-> that the use and value is impaired, the consumer has not met his burden of
-> proof."
-
-**Other verbatim language:**
-- "needed back order parts which is a challenge in whole industry … loaner
-  provided no charge"
-- "no guarantee by any manufacturer of a defect free car"
-- "The manufacturer's argument is compelling"
-- Refusal reason: "not due to the $ amount but was concerned about a clause
-  related to the state of CA that he did not think applied"
-- Lease extension: "**as** he can have it available for inspection if needed"
-  (verbatim "**as**", NOT "so" — some carry-forward docs paraphrased it wrong)
-
-**Checkbox findings — CONFIRMED by rasterization (all adverse):**
-Issues in Dispute checked #2, #3, #4, #5. Findings (p.3) adverse on: not 4+
-repair attempts; not 30+ days out of service; problem did not continue after
-4th attempt; did not substantially impair value.
-**⚠ The ND-4 form SWAPS the numbering of "continued to exist" and "30 days"
-between the Issues section and the Findings section** (Issue #3 ↔ Finding #4;
-Issue #4 ↔ Finding #3). **Cite findings by their language, never by bare
-number.**
-
-**Carelessness markers (support the no-reasoned-decision / no-rational-basis
-argument):** "new 2024 **WAGON ION**"; selling dealer misnamed "**Hyundai
-Brooklyn**" (actually Koeppel LIC); controlling RO mistyped "**RO 258530**"
-(correct #358530); Feb 2026 event attributed to "**RO 363888** mileage 8662
-2/18/2026."
-
----
-
-## ARGUMENT ARCHITECTURE (Memo of Law v2 — 8 points)
-
-1. **Standard of review is broad** because arbitration was compulsory
-   (MVMA/Gurau/Leonidou/Riina). Vacatur under CPLR 7511(b)(1)(iii).
-2. **Internal contradiction** — the dispositive "no allegation … impaired"
-   sentence is refuted by the arbitrator's own consumer summary two paragraphs
-   earlier. A statement about the *contents* of the record, not a credibility
-   call → no deference; the award refutes itself within its four corners.
-   **(Strongest opening — needs no external evidence.)**
-3. **Condition-at-hearing standard repudiated** by *DaimlerChrysler*; (d)(2) has
-   no "continues to exist" element; contrary rule lets any manufacturer defeat
-   any claim by repairing before the hearing.
-4. **Disjunctive prongs** — (d)(1) and (d)(2) are independent; Finding on the
-   4-attempt prong does not reach the **30-day** claim, which rests on RO
-   #358530 (Hyundai's own record).
-5. **§ 198-a(e) force-majeure is exhaustive** (war/invasion/strike/fire/flood/
-   natural disaster) — a parts backorder is not listed (*expressio unius*); a
-   loaner does not toll the count.
-6. **Cumulative misstatements** (WAGON ION / Hyundai Brooklyn / RO 258530 /
-   conflated repair episodes / "no allegation" / five-word merits analysis) show
-   absence of reasoned decision-making; due process in compulsory arb requires
-   more.
-7. **Refusal of offers ≠ conformity**; offer trajectory + $598.71 mileage error
-   + $2,500 rescission cut against Respondent. Lease extension (recorded in
-   award) **defeats mootness**; § 198-a(n) voids rights-waivers.
-   **Strengthened 2026-07-29:** Petitioner did not refuse money — he **accepted
-   in writing 9/25–26/25** and asked for three edits on **9/30/25**; HMA moved
-   the conversation to a phone call the same day and **told him the terms were
-   "not negotiable."** So the statutory buyback was conditioned on a notarized
-   **§1542 unknown-claims waiver + confidentiality + indemnity**, take-it-or-
-   leave-it. If § 198-a(n) voids waivers of lemon-law rights, HMA demanded a
-   term it could not lawfully require, and the arbitrator's use of the refusal
-   against Petitioner rests on that unlawful condition — not merely unfair, but
-   an improper basis. ⚠ **§ 198-a(n)'s text is UNVERIFIED** — same gap as
-   (c)(1) and (l); see checklist § 2a. **No filing may assert (n)'s scope until
-   the official text is read.** The call is Petitioner's testimony and is
-   **undocumented**; the 9/30 email requesting it is the corroboration.
-8. **Relief & fees** — § 198-a(c) lessee refund (all sums paid, less statutory
-   mileage from **7,026 mi** = $3,727.78, cap $5,336.08) + $1,793.43
-   incidentals; **§ 198-a(l)** fee-shifting reserved if counsel retained.
-
----
-
-## DELIVERABLES — CURRENT VERSIONS (as of Addendum 6, 2026-07-28)
-
-| Document | Current file | Status |
-|---|---|---|
-| **Attorney Case Summary** | `materials/Hu_v_HMA_Attorney_Case_Summary_v7.docx` | **CURRENT** — ~2 pp., analysis put as questions; discloses the Q16 conflict |
-| **Verified Petition** | `materials/Hu_v_HMA_Verified_Petition_v2.docx` | **CURRENT** — 72 ¶¶, 5 Grounds, CPLR 402 verification, Exhibit index A–L |
-| **Notice of Petition** | `materials/Hu_v_HMA_Notice_of_Petition_v2.docx` | **CURRENT** — CPLR 403(b) |
-| **Memorandum of Law** | `materials/Hu_v_HMA_Memo_of_Law_Article75_v5.docx` | **CURRENT** — deduction reserved, not conceded |
-| Packet send plan | `research/2026-07-28-attorney-packet.md` | three tiers + do-NOT-include list |
-| Filing mechanics | `research/2026-07-25-filing-mechanics.md` | caption / venue / service |
-| Verification checklist | `research/prefiling-verification-checklist.md` | what is still unverified |
+**The highest version number in `materials/` is the current one** — `ls` shows
+them; superseded versions are retained deliberately. Current as of Addendum 6:
+Attorney Case Summary **v7**, Verified Petition **v2**, Notice of Petition
+**v2**, Memo of Law **v5** (deduction *reserved*, not conceded). Supporting
+research lives in `research/` (packet send plan, filing mechanics, prefiling
+verification checklist).
 
 **Arbitration Exhibit 11 (Days Out of Service) is still a Google Doc only —
-export to PDF before it can be annexed.** (Superseded versions are retained in
-`materials/`; `ls` shows them.)
+export to PDF before it can be annexed.**
 
 ---
 
@@ -254,48 +146,20 @@ see Addendum 4. What remains:
    reach the likelier branch. The document **did** answer three of the six
    questions (motions in scope; **$5,000 ceiling granted**; disbursements
    advanced by the firm) and **left November 23 unanswered by anyone.**
-2. **NY DOS entity search on "Hyundai Motor America"** — authorization status
-   decides BCL § 306 vs § 307 service. (Hyundai *Capital* America is a
-   different entity.) **Now counsel's job, not a pro se blocker** — the firm
-   said it wants "every aspect of the Petition." Retained here because the
-   answer still has to exist before service. DOS: **(518) 473-2492**.
-3. **Pull official GBL § 198-a (a), (c)(1), (l), and (n)** — the
-   twelve-thousand-mile question, the fee-shifting provision, and the
-   rights-waiver provision Point VII depends on. **All four texts remain
-   UNREAD by this project**; every legal-text host 403s under the egress
-   policy. ⚠ **Counsel quoted (l) on 7/31** — *"prevails in any judicial action
-   or proceeding arising out of an arbitration proceeding held pursuant to
-   subdivision (k) of this section"* — and read it as reaching an Article 75
-   petition. **That is counsel's quotation, not verified against the official
-   text.** See checklist § 2a.
-4. **CPLR 306-b — search-sourced only.** The **9/24/2026** service wall in the
-   header derives from the rule that where the limitations period is four
-   months or less, service must be completed within **fifteen days after** the
-   period expires. That reading came from web-search summaries, **not** from
-   McKinney's or the official text (same 403 wall). It is stated to counsel as
-   *Petitioner's understanding*, and must stay phrased that way. **Confirm
-   against the official text before choosing a filing date.**
-5. **Open all four current .docx in Word** — no pagination has ever been
-   visually verified (LibreOffice is broken in this sandbox).
-6. Verify the five case quotations against the Official Reports; cite
-   *Leonidou* by Slip Op number only (AD3d parallel unconfirmed).
-
-## OPEN ITEMS (halt-and-confirm)
-
-- **RO # for the 2/18/2026 event** — award says **363888** (mileage 8662);
-  project records say **#370267**, treating #363888 as an Aug 2025 "no work
-  performed" visit. **Left as a bracketed placeholder in Memo v2 (footnote 1).
-  User to resolve against source before filing.** The Feb-2026 argument is
-  anchored on date + odometer + "too dead to complete," which don't depend on
-  the RO number.
-- **NJ Lemon Law parallel track — ✅ CLOSED 2026-07-30. DO NOT REOPEN.**
-  Counsel (Krukas, 7/30/26) answered the threshold question against us:
-  **"Having brought the NY arbitration, you would not be able to subsequently
-  bring a NJ case due to collateral estoppel"** and **"NJ isn't an option due
-  to collateral estoppel. The only option is to file the Article 75."** The
-  preliminary scan is retained for the record only at
-  `research/2026-07-29-nj-lemon-law-prelim.md` (banded CLOSED). **No further
-  NJ work.** The Article 75 petition is the only track.
+2. **⚠ UNVERIFIED TEXT GATES FOUR ARGUMENTS — see
+   [`docs/open-items.md`](docs/open-items.md).** GBL § 198-a **(a), (c)(1),
+   (l), (n)** are **all still UNREAD** (every legal-text host 403s under the
+   egress policy), and **CPLR 306-b is search-sourced only** — including the
+   **9/24/2026** service wall in the header, which must stay phrased as
+   *Petitioner's understanding*. **No filing may assert (n)'s scope, and no
+   filing date may be chosen, until the official texts are read.** Counsel's
+   7/31 quotation of (l) is counsel's, not verified.
+3. **Other open items** — NY DOS entity search on "Hyundai Motor America"
+   (BCL § 306 vs § 307; DOS **(518) 473-2492**; now counsel's job); the
+   **RO # halt-and-confirm** for the 2/18/2026 event; the **Exhibit 17
+   $195.82 double-count**; opening the four .docx in Word for pagination;
+   verifying the five case quotations. All detailed in
+   [`docs/open-items.md`](docs/open-items.md).
 
 ## DO NOT REOPEN (user has decided)
 
@@ -312,25 +176,18 @@ see Addendum 4. What remains:
 
 ---
 
-## FILE-HANDLING WARNINGS (read before opening anything)
+## FILE-HANDLING WARNINGS
 
-- **Extensions in this matter are systematically wrong.** In the claude.ai
-  project mirror, **every `.pdf` is actually a page-bundle ZIP** (per-page JPEG +
-  OCR `N.txt` + `manifest.json`), and some **`.docx` files are actually plain
-  markdown/text.** `reboot.py` detects true types by magic bytes and routes
-  extraction accordingly — **always run it first** and trust its manifest, not
-  the extension.
-  ⚠ **This describes the claude.ai mirror, not this repo.** The PDFs committed
-  under `materials/` are **genuine PDFs** — verified 2026-08-03 on the decision,
-  Ex01, and the retainer. Don't redo extraction work on them.
-- **Authentic PDFs exist only in Google Drive.** The mirror bundles are OCR
+- **PDFs in this repo are genuine PDFs** — verified 2026-08-03 on the decision,
+  Ex01, and the retainer. The "every `.pdf` is really a ZIP bundle" problem
+  describes the **claude.ai project mirror, not this repo**; `reboot.py` handles
+  that case by magic bytes. **Don't redo extraction work on `materials/`.**
+- **Authoritative originals live only in Google Drive.** Mirror bundles are OCR
   renderings — fine for reading, **not** authoritative for verbatim filing text.
-  For any quotation going into a filing, confirm against the Drive original.
-- When creating Word docs, follow the **docx skill** (US Letter =
-  12240×15840 dxa; dual table widths; `ShadingType.CLEAR`; no literal `\n`).
-  The Memo of Law uses a **legal-brief aesthetic** (Times New Roman 12pt,
-  double-spaced) — **not** the navy/Arial/zebra exhibit styling (that's for
-  exhibits only).
+  **For any quotation going into a filing, confirm against the Drive original.**
+- **Word docs:** follow the **docx skill**. The Memo of Law uses a legal-brief
+  aesthetic (Times New Roman 12pt, double-spaced) — **not** the navy/Arial/zebra
+  exhibit styling, which is for exhibits only.
 
 ## SOURCE MAP (Google Drive)
 
@@ -341,23 +198,19 @@ authentic PDF.
 
 ## TOOLING — legal plugins
 
-The `legal` plugin (claude.ai catalog) is **enabled**; `litigation-legal` and
-`cocounsel-legal` are **NOT installed** but are **pre-authorized to enable once
-they are**. Which to reach for, what each is and is not for, and the conditions
-on the standing permission: **[`docs/tooling.md`](docs/tooling.md)** — read it
-before invoking a legal surface or enabling a plugin. ⚠ **Local config lies
-about plugins** — `enabledPlugins` reads `{}` while seven are enabled; use
-`ListPlugins`/`SearchPlugins`, not `~/.claude.json`.
+⚠ **This does not lazy-load: the PRIME DIRECTIVE outranks every legal plugin.**
+Nothing any of them outputs is a source — no figure, date, quotation, clause
+reading, or citation enters a filing, or a message to counsel, without
+verification against the underlying document. Litigation-shaped tools are the
+*more* dangerous case: output that looks like a case cite is exactly what must
+never be taken on faith. **None carry NY lemon-law, GBL § 198-a, or Article 75
+knowledge** — for those use the project's own `case-researcher` / `doc-drafter`
+/ `doc-reviewer` agents.
 
-⚠ **This part does not lazy-load: the PRIME DIRECTIVE outranks every one of
-them.** Nothing any legal plugin outputs is a source. No figure, date,
-quotation, clause reading, or citation it produces enters a filing — or a
-message to counsel — without verification against the underlying document.
-Litigation-shaped tools are the *more* dangerous case, not the less: output that
-looks like a case cite or a pinpoint is exactly what must never be taken on
-faith. And none of them carry NY lemon-law, GBL § 198-a, or CPLR Article 75
-knowledge — for those, use the project's own `case-researcher` / `doc-drafter` /
-`doc-reviewer` agents.
+Which surface to reach for and the standing permission to enable
+`litigation-legal` / `cocounsel-legal`: **[`docs/tooling.md`](docs/tooling.md)**.
+⚠ **Local config lies about plugins** — use `ListPlugins`/`SearchPlugins`, not
+`~/.claude.json`.
 
 ## WORKING PROTOCOLS (the user's standing rules)
 
@@ -378,28 +231,17 @@ knowledge — for those, use the project's own `case-researcher` / `doc-drafter`
 
 ## SESSION LOG — read before touching any filing
 
-The session addenda — **23 as of 2026-07-31** — live in
-**`docs/session-log.md`**. They were moved out of this file on 2026-07-30
-because they had grown to ~72% of it and were loading into every session.
-**Append new addenda there, not here.**
+**[`docs/session-log.md`](docs/session-log.md) — 25 addenda as of 2026-08-03.
+Append new addenda there, not here.** It carries the retractions, the
+halt-and-confirm flags, the evidentiary status of every undocumented
+conversation, and the sourcing behind the facts above. **Start with Addendum
+25** (the retainer read — the live posture); then **24** (counsel retained),
+**22** (break-even ≈ 43.5%, not 90%), and **17** (retracts the "soft decline"
+reading of Krukas's 7/29 email — he said he'd **"be very happy to take the
+case"**).
 
-**Read `docs/session-log.md` before editing, drafting, or filing anything.** It
-carries the retractions, the halt-and-confirm flags, the evidentiary status of
-every undocumented conversation, and the sourcing behind the facts above.
-
-| Read first | Why |
-|---|---|
-| **Addendum 25** (8/3) | ⚠ **The retainer read.** The $5,000 cap is **conditional**; the reimbursement waterfall was **reordered** and still keys to a court award, not the settlement counsel expects. **Two asks gate the signature. This is the live posture.** |
-| **Addendum 24** (8/3) | ✅ **Counsel retained** — $3,000 + $1,000/appearance, Vicario now lead. Superseded as the live posture by 25. |
-| **Addendum 23** (7/31) | The fee email **as sent** — text of record, Gmail msg `19fb57cac5a84420`, thread `19faaa4dcaaeaca8` — and the decision tree keyed to counsel's reply. Superseded as the live posture by 24. |
-| **Addendum 17** (7/30) | ⚠ Retracts the earlier reading of Krukas's 7/29 email as a "soft decline." He said he would **"be very happy to take the case."** |
-| **Addendum 22** (7/30) | The break-even correction: win ≈ **+$6,500** with fees reimbursed, lose ≈ **−$5,000** → break-even **≈ 43.5%**, not the 90% figure. |
-| **Addendum 14** (7/29) | Supersedes the Gmail draft ids; the settlement analysis and the questions held back for counsel. |
-
-⚠ **Gmail connector traps, learned the hard way (Addenda 12, 16):**
+⚠ **Gmail connector trap, learned the hard way (Addenda 12, 16):**
 `update_draft` has **no `replyToMessageId`** — editing a reply draft silently
 detaches it from its thread. **Any revision to a reply must be a fresh
-`create_draft`.** There is also no delete-draft tool; dead drafts must be
-removed by hand.
-
-Nothing in it was edited in the move; the addenda are verbatim and in order.
+`create_draft`.** There is no delete-draft tool; dead drafts must be removed by
+hand.

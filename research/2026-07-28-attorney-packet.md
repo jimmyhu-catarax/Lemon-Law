@@ -39,11 +39,21 @@ Send as a single PDF bundle, in this order, with a one-page index.
 | 9 | Settlement Agreement and Release (Aug 2025) | `materials/exhibits/Hu_v_HMA_Ex09a_Settlement_Agreement_Aug2025.pdf` |
 | 10 | $2,500 conveyance via counsel | `materials/exhibits/Hu_v_HMA_Ex08_Gorberg_Email_HMA_Offer_2500.pdf` |
 | 11 | Communication log | `materials/exhibits/Hu_v_HMA_Ex22_Communication_Log.pdf` |
-| 12 | Expense packet (66 pp.) + itemized ledger | `Hu_v_HMA_Ex21_Expense Packet.pdf`, `..._Ex17_Itemized_Expense_Ledger.pdf` |
+| 12 | Expense packet (66 pp.) | `Hu_v_HMA_Ex21_Expense Packet.pdf` — the receipted subtotals reconcile to **$1,793.43** |
 | 13 | Lease extension agreement | `materials/exhibits/Hu_v_HMA_Ex15_Lease_Extension_Agreement.pdf` |
 
 **Do NOT include** (and why):
 
+- `Ex17_Itemized_Expense_Ledger` — **⚠ moved here 2026-08-06 (was item 12); send
+  only with the error disclosed.** Its total **$1,989.25 is $195.82 overstated**
+  against the receipt packet: the ride-share block claims $700.59 vs. the
+  receipted $504.77 (a Lyft daily summary counted on top of the individual rides
+  it summarizes — $216.87 claimed on 01/09 vs. $131.91 receipted Jan 7; $86.93
+  (01/21) and $23.93 (01/23) in no receipt), and its ride dates do not match the
+  receipts. **Ex17 was served on the arbitrator under a penalty-of-perjury
+  certification and cannot be unserved — counsel must be told it is out there**
+  (it is in the Vicario draft; see Addendum 26). The correct, receipt-supported
+  figure is **$1,793.43**, carried by the expense packet (item 12).
 - `Ex07_Repurchase_Calculated_Offer` — byte-identical to Ex05. A duplicate in
   a numbered set invites "what am I missing?"
 - `Ex09b_Settlement_Agreement_Jan2026` — byte-identical to Ex06. Same reason.

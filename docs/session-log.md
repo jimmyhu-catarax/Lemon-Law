@@ -1695,3 +1695,115 @@ auditing the firm's compliance.
    them from the lease documents.
 6. Clocks unchanged: file **9/9/2026**, serve **9/24/2026**, lease dies
    **11/23/2026**.
+
+---
+
+## SESSION ADDENDUM 26 — 2026-08-05/06 (both asks granted IN THE DOCUMENT; retainer clear to sign; Ex17 double-count; HMA draft verified)
+
+### The revised retainer — verified against the document, not the email
+
+Vicario replied **8/5/2026 15:30Z** (msg `19fd28bc83e49c54`): *"I have no issue
+who [sic] the 2 proposed changes. See attached updated retainer. I will also
+send a Docusign."* The revised PDF is preserved at
+**`materials/Hu_Article_75_Retainer_v2.pdf`** (sha256 `7b3be227…`, 3 pp.); the
+8/3 baseline (`5d16ba7a…`) is retained. **Both asks are in the DOCUMENT** —
+verified 2026-08-06 by text extraction against both PDFs; each sentence present
+in v2, absent from the baseline:
+
+| Ask | Inserted language (verbatim) | Location |
+|---|---|---|
+| **(b)** settlement waterfall | *"The same order would apply to attorney fees recovered by settlement."* | end of fee-shifting ¶, p. 2 |
+| **(a)** bound the triggers | *"Notwithstanding, recovery from you personally will be limited to $5,000."* | immediately after the four cooperation triggers, p. 2 |
+
+This mattered because the last time an email promised a term, the document said
+the opposite (Krukas 7/31 *"**You** get reimbursed first"* vs. retainer 8/3
+*"reimbursed to **the firm** first"* — Addendum 25). This time the document
+delivers. Ask (a) landed in the **stronger** of the two forms offered — a
+ceiling placed after *all four* triggers, so the $500/hr overage is bounded at
+$5,000 whichever trigger fires. Combined with the untouched *"total out of
+pocket cost… limited to $5,000,"* there are now **two independent $5,000
+ceilings**. Soft spot, recorded: the new sentence sits inside the COOPERATION
+section, so a narrow reading confines it there — immaterial, because the fee
+section caps total out-of-pocket independently.
+
+Unchanged in v2 (verified): the no-independent-settlement clause (*"you agree
+to not settle this matter on your own without the written consent of this
+office"*), trigger (3) *"sell or trade-in,"* the remand scope exclusion, and
+the date — still **August 3, 2026** (DocuSign execution date governs).
+
+### Vicario's four answers (same email, verbatim)
+
+1. **Remand pricing:** *"Our general rates for an arbitration are $6,000 win or
+   lose or $7,500 on contingency. If we win the article 75 petition and you
+   want us to represent you in the arbitration, that would be a new negotiated
+   retainer, and we can re-address the cost then. You would also be free to
+   represent yourself."*
+2. **November 23:** *"If the lease matures and you give back the vehicle, then
+   I'm not sure what will legally happen to the petition. We will be in
+   uncharted territory for these cases. Our position will be that the case
+   survives and that you would be entitled to full reimbursement and then
+   Hyundai has to figure out how to take the car (their problem, not ours).
+   However, I'm sure their attorney will argue the opposite. I will write a
+   letter to the Court explaining the situation."*
+3. **Disbursements on a loss:** *"If we lose the fee is flat, you will not owe
+   disbursements. Disbursements will only come into play if there is an
+   attorney fee award after winning the case."*
+4. **Incidentals:** *"Your incidental expenses will not be part of the
+   petition. You are free to contact Hyundai separately, though I'm not sure
+   they will deal with you once you are represented by counsel."*
+
+### Analysis (must survive any compact)
+
+1. **Maximum personal exposure is now $5,000**, from two independent clauses.
+   **The retainer is clear to sign.**
+2. **The remand branch is the live economic risk** — petition $3,000–5,000 +
+   remand $6,000 = $9,000–11,000 against a ~$6,500 case. Underwater *if* HMA
+   forces re-arbitration; Krukas predicts it won't (*"likely settles right
+   away"*). Outs: self-represent on remand (now in writing), or the $7,500
+   contingency variant — **"contingency" is undefined**; ask Vicario what it
+   means.
+3. **Disbursements-on-a-loss is in the email, not the document.** Practically
+   moot (inside the $5,000 ceiling), but the document is silent.
+4. **The incidentals permission is in the email, not the document.** The
+   no-independent-settlement clause binds **on execution** — hence the
+   sequence: **send the HMA escalation first, then sign.** Vicario's own
+   caveat (*"I'm not sure they will deal with you once you are represented"*)
+   is itself the argument for sending now.
+5. **November 23 finally has an answer on the record** — counsel's position,
+   a letter to the Court, *"uncharted territory."* It resolves nothing; the
+   **buyout remains the user's call** (Addendum 10).
+
+### ⚠ Exhibit 17 — the $195.82 double-count (found 2026-08-05)
+
+Localized: Ex17's ride-share block claims **$700.59** vs. the receipt packet's
+**$504.77** — exactly **$195.82** high. Ex17 claims $216.87 on 01/09 (receipts:
+$131.91, Jan 7), plus $86.93 (01/21) and $23.93 (01/23) that appear in no
+receipt; its ride dates do not match the receipts. Ex21 Tab B expressly states
+individual rides were counted once and summaries not double-counted — **Ex17
+appears to have counted a Lyft daily summary on top of the rides it
+summarizes.** So Ex17's total **$1,989.25** is wrong; the receipt-supported
+figure is **$1,793.43**. **Ex17 carries a certification under penalty of
+perjury and was served on the arbitrator — it cannot be unserved.** Moved to
+the do-NOT-send list in `research/2026-07-28-attorney-packet.md`; counsel must
+be told (it is in the Vicario draft). Full detail: `docs/open-items.md`.
+
+### HMA escalation draft — reviewed and corrected 2026-08-06
+
+`materials/2026-08-05-email-to-HMA-Executive-Office-DRAFT.md` (+ 56-pp receipts
+attachment, sha `ff257b8f…`). All five quoted HMA statements verified against
+Ex21 Tab E / Gmail. Two corrections made on review:
+
+1. **Attribution fixed:** the $391.25 approval came under **Hyundai
+   Reimbursement Request 2026-6680**, not RA Case #76530936 (that is the Feb 9
+   tow reference).
+2. **"Reimbursed" → "approved":** the record documents approval and a promised
+   secure payment link — **not actual receipt of the $391.25**. Only the user
+   knows whether the payment arrived; if it did, the wording may be upgraded.
+   Also noted: HMA already **declined the $15.65 once in writing** (*"outside
+   the policy of reimbursement"*) — the email is an executive review of that
+   decision, and expectations on that line should be tempered accordingly.
+
+### Clocks (unchanged)
+
+File **9/9/2026** · serve **9/24/2026** (understanding — CPLR 306-b still
+unverified) · lease dies **11/23/2026**.

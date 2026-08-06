@@ -9,12 +9,12 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **25 as of 2026-08-03** — were moved there on 2026-07-30. They hold
+> addenda — **26 as of 2026-08-06** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 25**: the
-> retainer has been read, it is **still unsigned**, and **two clarifications
-> gate the signature**.
+> N" reference below points into that file.** Start with **Addendum 26**: both
+> retainer asks were granted **in the document**, the retainer is **clear to
+> sign** — sequence: **send the HMA escalation first, then sign.**
 
 ---
 
@@ -47,7 +47,7 @@
 | Award | **June 11, 2026** — Arbitrator **Maneesha Sharma** (NYSDRA / NY Peace Institute CDRC). **Denied; "FOR THE MANUFACTURER."** |
 | Program | Compulsory arb under GBL § 198-a(k); 13 NYCRR Part 300; administered by NYSDRA for the NY Attorney General |
 | Petitioner | Dr. Jimmy Y. Hu |
-| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer received 8/3/2026 — read, reviewed, and STILL UNSIGNED.** Terms: $3,000 + $1,000 per **in-person** appearance, **out-of-pocket capped at $5,000** — but that cap is **conditional** (see Addendum 25). Contracting entity is **"Eugene Krukas PLLC d/b/a Krukas & Vicario."** Local copy: `materials/Hu_Article_75_Retainer.pdf`. **⚠ Two clarifications gate the signature.** |
+| **Counsel** | **Krukas & Vicario**, 2704 Grand Ave, Ste 4, Bellmore NY 11710 — (516) 780-0760, KVJustice.com. **Michael Vicario is lead** ("he is going to be handling this matter … the litigator between the two of us," Krukas 8/3). Eugene Krukas (516) 203-4001 did the intake and the merits analysis. **Retainer v2 received 8/5, verified, CLEAR TO SIGN — still unsigned.** Both asks granted **in the document** (Addendum 26): $3,000 + $1,000 per **in-person** appearance, personal exposure bounded by **two independent $5,000 ceilings**. Remand would be a **separate retainer** — quoted $6,000 flat / $7,500 "on contingency" (undefined). Contracting entity is **"Eugene Krukas PLLC d/b/a Krukas & Vicario."** Local copy: `materials/Hu_Article_75_Retainer_v2.pdf` (8/3 baseline retained). **Sequence: send the HMA incidentals escalation, then sign** — the no-independent-settlement clause binds on execution. |
 | Venue | Supreme Court, **New York County** = **First Department** |
 | Relief sought | Vacatur under **CPLR 7511(b)(1)(iii)** (arbitrator exceeded power) |
 
@@ -61,8 +61,11 @@ and sets a **Maximum Maturity Date of 11/23/2026**. The lease **cannot** be
 extended beyond it. Service must be complete by **9/24/2026** (CPLR 306-b), so
 the sequence is **file → serve → then ~8 weeks of vehicle possession left.**
 Counsel (Krukas, 7/29/26) flags post-return standing as *"far from settled law."*
-Buying the vehicle out is the identified preservation option — **undecided; the
-user's call.** See Addendum 10.
+Vicario (8/5/26, Addendum 26): *"uncharted territory"* — the firm's position
+will be that **the case survives** lease maturity and he **"will write a letter
+to the Court"**; he expects HMA's attorney to argue the opposite. Resolves
+nothing. Buying the vehicle out is the identified preservation option —
+**undecided; the user's call.** See Addenda 10, 26.
 
 ---
 
@@ -77,7 +80,7 @@ user's call.** See Addendum 10.
 | Defect | HV battery; fault codes **P1BAD92, C110213** | **ONE** HV pack replacement (RO #358530, part 37501-GI351-RM). ⚠ CORRECTED — the old "two full HV battery replacements" reading is **refuted by the record**; see Addendum 2. |
 | Feb 2026 recurrence | **Feb 18, 2026 @ 11,230 mi** — "VERIFIED NEEDS JUMP TO START. TOO DEAD TO COMPLETE GDS"; **12-volt** battery replaced under warranty | **RO #370267** ✓ RESOLVED (Addendum 1). The award's "RO 363888 / 8,662 mi" is a separate Aug 2025 no-work visit. |
 | Statutory threshold | 30 days | GBL § 198-a(d)(2) |
-| Incidental expenses | **$1,793.43** (rental/rideshare/transit/towing, net) | GBL § 198-a(c)(1) |
+| Incidental expenses | **$1,793.43** (rental/rideshare/transit/towing, net) — the receipt-supported figure. ⚠ **Ex17's $1,989.25 is WRONG**: it double-counts a Lyft daily summary by **$195.82** and its ride dates don't match the receipts; it was served under penalty of perjury (Addendum 26, `docs/open-items.md`). Use $1,793.43; do not send Ex17 without disclosure. | GBL § 198-a(c)(1); Ex21 receipted subtotals |
 | Total days (all four repair periods) | ~198–201 | secondary; **do not rely on — 124 alone suffices** |
 | ⏰ **LEASE EXTENSION HARD WALL** | **November 23, 2026** — "Maximum Months Extended: **6**; Maximum Maturity Date: **11/23/2026**." Month-to-month at $314 due the 23rd; extension letter dated **May 22, 2026**. **The lease CANNOT be extended past 11/23/2026.** | **Ex15 Lease Term Extension Agreement**, acct #2415627694 ✓ read 2026-07-29 (Addendum 10). Sits **10 weeks after** the 9/9/2026 filing deadline. |
 | Sums paid on the lease | **$7,552.74** applied through the 5/23/2026 due date (25 payments × $314.00 = $297.26 base + $16.74 sales tax) **+ $2,953.00** cap-cost reduction ≈ **$10,505.74**, plus extension payments since | **Ex19 Lease Payment History** (Hyundai Motor Finance, stmt. dated 6/2/2026) ✓ computed 2026-07-29. "Amount Funded 39,958.70" — **not reconciled** to the $7,500 federal credit; do not assert how the credit was handled. |
@@ -130,22 +133,21 @@ export to PDF before it can be annexed.**
 The three original questions (caption, service, return date) are **RESOLVED** —
 see Addendum 4. What remains:
 
-1. **Pro se vs. counsel — ✅ DECIDED 8/3/2026. COUNSEL RETAINED.** Petitioner
-   accepted **$3,000 up front + $1,000 per court appearance**, with his
-   out-of-pocket **reimbursed first out of any fee award**. Krukas expects
-   there may be **zero** appearances ("the court just decides on the papers").
-   **The retainer arrived 8/3 16:27 from Vicario, has been READ, and is STILL
-   UNSIGNED** (`materials/Hu_Article_75_Retainer.pdf`). DocuSign or
-   print-and-sign; Krukas invoices the initial charge on signature.
-   **⚠ DO NOT SIGN until two clarifications come back in writing** — asked
-   8/3 19:46 (msg `19fc929af4f05976`), see **Addendum 25**:
-   **(a)** bound the four "cooperation" triggers, which as drafted convert the
-   $5,000 cap into **$500/hr** exposure; **(b)** extend the reimbursement
-   waterfall to fees recovered by **settlement**, not just fees "awarded by the
-   Court" — counsel expects a settlement, so as written the protection may not
-   reach the likelier branch. The document **did** answer three of the six
-   questions (motions in scope; **$5,000 ceiling granted**; disbursements
-   advanced by the firm) and **left November 23 unanswered by anyone.**
+1. **Sign the retainer — ✅ CLEAR TO SIGN as of 8/5/2026 (Addendum 26).** Both
+   gating asks were granted **in the document**: v2
+   (`materials/Hu_Article_75_Retainer_v2.pdf`, verified 8/6 against the 8/3
+   baseline) adds *"Notwithstanding, recovery from you personally will be
+   limited to $5,000"* after the four cooperation triggers, and *"The same
+   order would apply to attorney fees recovered by settlement."* Personal
+   exposure is bounded by **two independent $5,000 ceilings**. Vicario also
+   answered all four non-blocking questions (remand $6,000 / $7,500
+   "contingency" — undefined; Nov 23 = *"uncharted territory… I will write a
+   letter to the Court"*; no disbursements on a loss — email only, not in the
+   document; incidentals excluded from the petition, *"free to contact Hyundai
+   separately"*). **Sequence: send the HMA escalation email FIRST, then sign
+   the DocuSign** — the no-independent-settlement clause binds on execution.
+   Krukas invoices $3,000 on signature. Do not let the email delay signing
+   more than a day; 9/9 is fixed.
 2. **⚠ UNVERIFIED TEXT GATES FOUR ARGUMENTS — see
    [`docs/open-items.md`](docs/open-items.md).** GBL § 198-a **(a), (c)(1),
    (l), (n)** are **all still UNREAD** (every legal-text host 403s under the
@@ -231,14 +233,15 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 25 addenda as of 2026-08-03.
+**[`docs/session-log.md`](docs/session-log.md) — 26 addenda as of 2026-08-06.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum
-25** (the retainer read — the live posture); then **24** (counsel retained),
-**22** (break-even ≈ 43.5%, not 90%), and **17** (retracts the "soft decline"
-reading of Krukas's 7/29 email — he said he'd **"be very happy to take the
-case"**).
+26** (retainer clear to sign; send HMA escalation first; the Ex17 $195.82
+double-count — the live posture); then **25** (the retainer read), **24**
+(counsel retained), **22** (break-even ≈ 43.5%, not 90%), and **17** (retracts
+the "soft decline" reading of Krukas's 7/29 email — he said he'd **"be very
+happy to take the case"**).
 
 ⚠ **Gmail connector trap, learned the hard way (Addenda 12, 16):**
 `update_draft` has **no `replyToMessageId`** — editing a reply draft silently

@@ -1,12 +1,14 @@
-# DRAFT — Reply to Vicario's 8/9 questions (evidence packets + who appeared)
+# DRAFT — Reply to Vicario (evidence packets, Danielle Alvarez, arbitrator directive)
 
-**Status:** DRAFT — for Petitioner's review. Reply on the existing thread to
-Vicario's 8/9 email (msg `19fe752cd2259c7b`), cc Krukas.
+**Status:** DRAFT v2 — for Petitioner's review. Reply on the existing thread to
+Vicario's 8/9 email (msg `19fe752cd2259c7b`), cc Krukas. Rewritten 8/10 after
+Vicario's phone call asking for (1) forwards of all emails submitted to the
+arbitrator with a summary, and (2) anything on an arbitrator directive to the
+manufacturer.
 
-**⚠ One blank only the user can fill: the NAME of Hyundai's counsel at the
-hearing (marked `[NAME]` below). The written record says only "Counsel for
-manufacturer." If the name is not remembered, delete that sentence and keep
-the fallback sentence that follows it.**
+**⚠ One item rests on Petitioner's memory (marked below): whether the
+arbitrator said anything directive to Hyundai orally at the hearing. The
+written record contains none.**
 
 ---
 
@@ -14,65 +16,82 @@ the fallback sentence that follows it.**
 
 Hi Mike,
 
-Great news that it will be filed this week. Answers to both questions:
+Per your call — I'm forwarding you, in a moment, the complete set of emails
+that went to NYSDRA and the New York Peace Institute (the CDRC), which is
+everything the arbitrator received from me. NY Peace confirmed on June 5 that
+the documents were "received and sent to the Arbitrator." Here is the map:
 
-**1. Evidence packets.**
+**The submission emails (all to sparchment@nypeace.org, don@nysdra.org,
+lemonlaw@nysdra.org):**
 
-**Mine: yes.** I served a pre-hearing submission by email on June 3–5, 2026
-to NYSDRA (Don Raiano) and the New York Peace Institute (Shana-Kay
-Parchment, the CDRC), who confirmed on June 5 that the documents were
-"received and sent to the Arbitrator." It comprised a cover letter, the
-Notice of Hearing, the arbitration forms, and 22 numbered exhibits — the
-repair orders, lease and payment history, Hyundai's offer letters and the
-August 2025 release, the expense documentation, and a personal impact
-statement. I am forwarding you the submission emails themselves so you have
-exactly what the arbitrator received, and I've also put the entire
-documentary record into a single indexed, bookmarked PDF (182 pages, with a
-document map and a two-page case summary up front) — link below. [ATTACH:
-forward the June 3–5 submission emails; INSERT Drive link to
-Hu_v_HMA_Counsel_Packet_2026-08-06.pdf]
+1. **June 3, 12:05 PM — the cover email.** No attachments; the master index
+   of the whole submission (22 exhibits plus procedural documents), case
+   identification, confirmation the vehicle would be available, and the
+   self-representation statement.
+2. **June 3, 12:06 PM** — Exhibit 1 (lease agreement).
+3. **June 3, 12:07 PM** — Exhibits 2–7 (bill of sale; registration; the
+   repair orders; Hyundai's August 2025 offer letter; the January 2026 offer
+   letter; the August 2025 repurchase calculation).
+4. **June 3, 6:36 PM** — Exhibits 8–10 (the $2,500 third offer / Gorberg
+   disengagement emails; both unsigned settlement agreements; the Smart
+   Diagnosis fault-code report and its source emails).
+5. **June 3, 7:25 PM** — Exhibits 12–20 (my roadside-events declaration; the
+   loaner declaration; diagnostic-fee demands; the lease extension agreement;
+   the Mizzoni's body-shop invoice; the expense ledger; the filing-fee proof;
+   the lease payment history; dashboard photographs).
+6. **June 5, 12:54 AM** — the Exhibit 21 expense receipt packet (66 pages of
+   receipts) and a signed, edited version of Exhibit 17.
+7. **June 5, 11:47 AM** — Exhibit 22 (the communication log) and the Exhibit
+   21 "Loss of Use Record" (my narrative of the February 2026 tow events).
 
-One disclosure that matters for the petition: my served Exhibit 17, an
-itemized expense ledger I certified and submitted, states a total of
-$1,989.25. While assembling receipts last week I found that figure is
-overstated by $195.82 against the underlying receipts — it appears a Lyft
-daily-summary email was counted on top of the individual rides it
-summarizes, and some of its ride dates don't match the receipts. The
-correct, receipt-supported total is $1,793.43, which is what the receipt
-packet (Exhibit 21) reconciles to and the figure I have used with Hyundai.
-I wanted you to know it is in the served record before opposing counsel
-points it out. The bundle's cover page flags this and five other known
-record issues up front.
+Three candor notes on that record, so you hear them from me first:
 
-**Hyundai's: I never received one.** NYSDRA's May 12 acceptance letter set
-Hyundai's response deadline of May 27, 2026, due at NYSDRA — if Hyundai
-filed anything, it went to NYSDRA and was never shared with me. Nothing was
-exchanged at the hearing either (it was held by Zoom on June 9 at 10:00 AM).
-Their case went in through counsel's oral presentation. If you want to
-confirm whether a written manufacturer response exists, the complete case
-file would be with NYSDRA: Don Raiano, Lemon Law Program Manager,
-don@nysdra.org, (518) 687-2240 ext. 104.
+- **Exhibit 17, the itemized expense ledger, overstates the total.** It says
+  $1,989.25; the receipt-supported total is $1,793.43 — a $195.82 error,
+  which I found last week while assembling receipts. It appears a Lyft
+  daily-summary email was counted on top of the individual rides it
+  summarizes, and some of its ride dates don't match the receipts. It was
+  served twice (June 3, and a signed version June 5), both at the wrong
+  figure. The receipt packet (Exhibit 21) reconciles to the correct
+  $1,793.43 three times.
+- **Two items on my index appear never to have been attached.** "Exhibit 11 —
+  Days Out of Service Summary" is listed in the June 5 email's body, but that
+  email's actual attachments were Exhibit 21 and the revised Exhibit 17; and
+  the "Consumer Personal Impact Statement" on the master index is not among
+  any email's attachments. So the arbitrator likely never received either —
+  consistent with the award's line that I "summarized the days out of
+  service as listed in his form." The days-out case never depended on
+  Exhibit 11: the 124 days sit on Hyundai's own repair order #358530.
+- The consolidated record bundle I sent [Drive link] flags these and several
+  other known record issues on its cover page.
 
-**2. Who appeared for Hyundai.** The hearing was virtual (Zoom). Hyundai
-appeared through outside counsel — [NAME / FIRM, from memory]. [Fallback if
-the name is not recalled: The award identifies them only as "counsel for
-manufacturer" and I did not retain the name; the appearance record would be
-in NYSDRA's case file at the contact above.] No witness from the dealership
-or Hyundai corporate testified — counsel argued that the vehicle was
+**Hyundai's packet: I never received one.** NYSDRA's May 12 acceptance letter
+set Hyundai's response deadline of May 27, 2026, due at NYSDRA — if Hyundai
+filed anything, it went to NYSDRA and was never shared with me, and nothing
+was exchanged at the hearing. Their case went in through counsel's oral
+presentation. The complete case file, including any manufacturer response,
+would be with NYSDRA: Don Raiano, Lemon Law Program Manager, don@nysdra.org,
+(518) 687-2240 ext. 104.
+
+**Who appeared for Hyundai:** the hearing was by Zoom (June 9, 10:00 AM).
+Hyundai appeared through counsel, **Danielle Alvarez**. No witness from the
+dealership or Hyundai corporate testified — counsel argued the vehicle was
 "currently driving as intended so the case should be dismissed," that the
-124-day repair was a parts-backorder issue with a free loaner, and that
-there were not four repair attempts.
+124-day repair was a parts backorder with a free loaner, and that there were
+not four repair attempts.
 
-Two small items riding along, neither urgent: (a) when the time comes for
-any remand-arbitration retainer, I'd want to understand what the $7,500 "on
-contingency" option means in practice; (b) per your earlier note, I sent
-Hyundai's executive customer-care office a reimbursement request for the
-$1,793.43 in documented incidentals on August 6, before signing — no
-statutory argument, all rights reserved, nothing about the petition. I'll
-forward you a copy, and anything they send back goes straight to you
-unanswered.
+**On an arbitrator directive to the manufacturer:** there is none in the
+written record. No document-production order, no subpoena, no written
+directive of any kind — the only adjacent item is the CDRC's May 27 note that
+*if* the vehicle needed inspection, the arbitrator would arrange it at the
+hearing, and no inspection was ordered (the award notes I keep the vehicle
+available "as he can have it available for inspection if needed").
+[PETITIONER TO CONFIRM FROM MEMORY: whether Arbitrator Sharma said anything
+directive to Ms. Alvarez orally during the hearing — e.g., about producing
+documents or records. If yes, describe it here; it would exist nowhere but
+the parties' recollections and NYSDRA's file.]
 
-Thank you both — glad this is moving.
+Anything else you need before filing, call or email — glad this is moving.
 
 -Jimmy Y. Hu
 jimmy.hu@gmail.com | 215-307-5492
@@ -81,27 +100,26 @@ jimmy.hu@gmail.com | 215-307-5492
 
 ## Handling notes
 
-- **Forward the served-submission emails** (the seven sent June 3 16:05,
-  16:06, 16:07, 22:36, 23:25 and June 5 04:54, 15:47 to
-  sparchment@nypeace.org / don@nysdra.org / lemonlaw@nysdra.org) so counsel
-  holds the authentic as-served packet — the bundle is the organized
-  companion, not a substitute: the served set includes Exhibit 11 (Days Out
-  of Service Summary) and the Personal Impact Statement, which exist only in
-  those emails/Drive, not in the repo bundle.
-- **Upload `materials/Hu_v_HMA_Counsel_Packet_2026-08-06.pdf` (38 MB) to the
-  case Drive folder** and paste the link — too big to attach.
-- This supersedes the unsent `2026-08-06-email-to-Vicario-DRAFT.md`; its
-  live items (contingency question, Ex17 disclosure, HMA heads-up) are
-  folded in above. The lease-maturity/trigger-(3) question can wait for the
-  filed petition; raise it when Vicario reports filing.
+- **Forward the seven submission emails** (June 3: 12:05, 12:06, 12:07, 6:36
+  PM, 7:25 PM; June 5: 12:54 AM, 11:47 AM ET) plus, for completeness, NY
+  Peace's June 5 confirmation ("received and sent to the Arbitrator") —
+  thread `19e416e69f35788f`.
+- **Upload `materials/Hu_v_HMA_Counsel_Packet_2026-08-06.pdf` (183 pp, 38 MB)
+  to the case Drive folder** and replace [Drive link].
+- The bracketed hearing-memory item must be resolved by Petitioner before
+  sending — fill it in or delete it.
+- Superseded: `2026-08-06-email-to-Vicario-DRAFT.md`. The contingency-
+  definition question and the HMA-escalation heads-up can ride in a later
+  email; this one stays focused on what Vicario asked for.
 
 ## Verification record
 
 | Assertion | Source |
 |---|---|
-| Served June 3–5; "received and sent to the Arbitrator" June 5 | Sent emails in thread `19e416e69f35788f`; NY Peace confirmation msg `19e99ec23fe63739` |
-| Ex11 sent June 5 | msg `19e9621af0e1ced6` ("Exhibit 11 — Days Out of…") |
-| HMA response due May 27 at NYSDRA; never shared with consumer | NYSDRA letter May 12, 2026 (msg `19e1c68ae13e0666`); no forwarding email exists in the record |
-| Zoom hearing June 9, 10:00 AM | Pre-hearing submission cover (msg `19e8e3b3c533f116`); Zoom link msg `19ea839306d336eb` |
-| "Counsel for manufacturer" / "currently driving as intended" | Award, Summary of Evidence (Manufacturer) — materials/_extracted/Hu Decision.txt |
+| Per-email contents and attachment lists | Messages `19e8e3b3c533f116` (12:05, no attachments), `19e8e3cd1be7329f` (Ex01), `19e8e3d82f0c7eda` (Ex02–07), `19e8fa1c70bbb844` (Ex08 ×2, Ex09a, Ex09b, Ex10 ×2), `19e8fcebb310dc01` (Ex12–20), `19e9621af0e1ced6` (Ex21 packet + revised Ex17; **Ex11 listed in body but NOT attached**), `19e98782fe7d54cf` (Ex22 + Ex21 Loss of Use) — attachment filenames read from the messages 2026-08-10 |
+| "received and sent to the Arbitrator" | NY Peace confirmation June 5 (msg `19e99ec23fe63739`) |
+| HMA response due May 27 at NYSDRA; never shared | NYSDRA letter May 12 (msg `19e1c68ae13e0666`) |
+| Danielle Alvarez | **Petitioner's recollection, supplied 2026-08-10** — the award says only "Counsel for manufacturer" |
+| Counsel's hearing arguments | Award, Summary of Evidence (Manufacturer), verbatim |
+| No written arbitrator directive | Full thread `19e416e69f35788f` + award text reviewed 2026-08-10; none found |
 | $1,989.25 / $195.82 / $1,793.43 | Ex17 vs Ex21 receipted subtotals (Addendum 26) |

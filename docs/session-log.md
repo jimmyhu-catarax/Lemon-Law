@@ -1862,3 +1862,55 @@ unverified) · lease dies **11/23/2026**.
    is now counsel's deadline to hit; service wall 9/24 (Petitioner's
    understanding). The buyout-vs-return call (11/23) remains open — item 2 of
    the follow-up note asks Vicario's recommendation.
+
+---
+
+## SESSION ADDENDUM 28 — 2026-08-10 (⚠ Ex11 and the Impact Statement were never attached; Alvarez identified; no written arbitrator directive)
+
+**Trigger:** Vicario's 8/9 email (filed "this week"; wants both evidence
+packets + who appeared) and his 8/10 phone call (forward all emails submitted
+to the arbitrator, with a summary; asked about an arbitrator directive to the
+manufacturer).
+
+**⚠ FINDING — the served record is short two listed documents.** Attachment
+lists of all seven submission emails (June 3–5, thread `19e416e69f35788f`)
+were read 2026-08-10:
+
+- **Exhibit 11 (Days Out of Service Summary) was never attached.** The 6/5
+  00:54 email *lists* it in the body but attaches only the Ex21 Expense
+  Packet and a **signed, edited version of Ex17** (same wrong $1,989.25).
+  Consistent with the award's "He summarized the days out of service as
+  listed in his form" — the arbitrator worked from the RFA form, not Ex11.
+  The 124-day anchor is unaffected (RO #358530). Ex11 also remains a Google
+  Doc only.
+- **The Consumer Personal Impact Statement** is on the 6/3 master index but
+  in no email's attachments.
+- The 6/3 12:05 cover email itself carried **no attachments** (the four
+  "procedural documents" on its index — cover letter PDF, NOH, arbitration
+  form, RFA — were already in the program's hands via the AG/NYSDRA, except
+  the cover letter PDF, which appears never to have been sent).
+- Ex17 was therefore **served twice**, both times at $1,989.25.
+
+**Who appeared for HMA: Danielle Alvarez** — *user's recollection, supplied
+8/10*; the award says only "Counsel for manufacturer," and no document in the
+record names her. Treat as testimony until NYSDRA's file confirms.
+
+**Arbitrator directive to the manufacturer: none in the written record.** No
+production order, no subpoena, nothing directive — only the CDRC's
+conditional 5/27 note that the arbitrator would arrange a vehicle inspection
+at the hearing if needed (none was ordered). Anything oral at the hearing
+exists only in the parties' memories and NYSDRA's file — bracketed for the
+user in the reply draft.
+
+**Deliverable:** `materials/2026-08-10-reply-to-Vicario-DRAFT.md` (v2) — the
+per-email forwarding map, the three candor notes (Ex17 error, Ex11/Impact
+Statement gap, bundle flags), the HMA-packet answer (NYSDRA file, Don
+Raiano), Alvarez, and the directive answer. User fills one bracket (oral
+directive memory) and the Drive link, forwards the seven emails + NY Peace
+confirmation, sends.
+
+**Packet status:** rebuilt 8/10 after adversarial verification (4 blockers
+fixed — the retracted "wrong 8,148 basis" framing, the unverified (c)(1)
+scope assertion, the MVMA/Gurau attribution, and two new flags: Q16/Q15 and
+the HV-vs-12-volt mischaracterization in served exhibits; now EIGHT flags,
+183 pp). `Hu_v_HMA_Counsel_Packet_2026-08-06.pdf`.

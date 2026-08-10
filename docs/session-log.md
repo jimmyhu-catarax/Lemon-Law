@@ -1895,12 +1895,12 @@ were read 2026-08-10:
 8/10*; the award says only "Counsel for manufacturer," and no document in the
 record names her. Treat as testimony until NYSDRA's file confirms.
 
-**Arbitrator directive to the manufacturer: none in the written record.** No
-production order, no subpoena, nothing directive — only the CDRC's
-conditional 5/27 note that the arbitrator would arrange a vehicle inspection
-at the hearing if needed (none was ordered). Anything oral at the hearing
-exists only in the parties' memories and NYSDRA's file — bracketed for the
-user in the reply draft.
+**Arbitrator directive to the manufacturer: NONE — written or oral.** Nothing
+in the written record (no production order, no subpoena; only the CDRC's
+conditional 5/27 vehicle-inspection note, and no inspection was ordered), and
+the **user confirmed 2026-08-10 there was no oral directive at the hearing**
+(testimony — he attended). The bracket in the reply draft is resolved and
+removed.
 
 **Deliverable:** `materials/2026-08-10-reply-to-Vicario-DRAFT.md` (v2) — the
 per-email forwarding map, the three candor notes (Ex17 error, Ex11/Impact

@@ -6,9 +6,8 @@ Vicario's phone call asking for (1) forwards of all emails submitted to the
 arbitrator with a summary, and (2) anything on an arbitrator directive to the
 manufacturer.
 
-**⚠ One item rests on Petitioner's memory (marked below): whether the
-arbitrator said anything directive to Hyundai orally at the hearing. The
-written record contains none.**
+**Ready to send** — no blanks remain. Fill the [Drive link], forward the
+seven submission emails + the NY Peace confirmation, send.
 
 ---
 
@@ -80,16 +79,13 @@ dealership or Hyundai corporate testified — counsel argued the vehicle was
 124-day repair was a parts backorder with a free loaner, and that there were
 not four repair attempts.
 
-**On an arbitrator directive to the manufacturer:** there is none in the
-written record. No document-production order, no subpoena, no written
-directive of any kind — the only adjacent item is the CDRC's May 27 note that
+**On an arbitrator directive to the manufacturer:** there was none. Nothing
+in the written record — no document-production order, no subpoena, no written
+directive of any kind — and the arbitrator gave no oral directive to Hyundai
+at the hearing either. The only adjacent item is the CDRC's May 27 note that
 *if* the vehicle needed inspection, the arbitrator would arrange it at the
 hearing, and no inspection was ordered (the award notes I keep the vehicle
 available "as he can have it available for inspection if needed").
-[PETITIONER TO CONFIRM FROM MEMORY: whether Arbitrator Sharma said anything
-directive to Ms. Alvarez orally during the hearing — e.g., about producing
-documents or records. If yes, describe it here; it would exist nowhere but
-the parties' recollections and NYSDRA's file.]
 
 Anything else you need before filing, call or email — glad this is moving.
 
@@ -106,8 +102,9 @@ jimmy.hu@gmail.com | 215-307-5492
   thread `19e416e69f35788f`.
 - **Upload `materials/Hu_v_HMA_Counsel_Packet_2026-08-06.pdf` (183 pp, 38 MB)
   to the case Drive folder** and replace [Drive link].
-- The bracketed hearing-memory item must be resolved by Petitioner before
-  sending — fill it in or delete it.
+- The hearing-memory item is resolved: **user confirmed 2026-08-10 there was
+  no oral directive at the hearing** (testimony — he attended; nothing in the
+  written record contradicts it).
 - Superseded: `2026-08-06-email-to-Vicario-DRAFT.md`. The contingency-
   definition question and the HMA-escalation heads-up can ride in a later
   email; this one stays focused on what Vicario asked for.
@@ -122,4 +119,5 @@ jimmy.hu@gmail.com | 215-307-5492
 | Danielle Alvarez | **Petitioner's recollection, supplied 2026-08-10** — the award says only "Counsel for manufacturer" |
 | Counsel's hearing arguments | Award, Summary of Evidence (Manufacturer), verbatim |
 | No written arbitrator directive | Full thread `19e416e69f35788f` + award text reviewed 2026-08-10; none found |
+| No **oral** directive at the hearing | **Petitioner's confirmation, 2026-08-10** (he attended; consistent with the written record) |
 | $1,989.25 / $195.82 / $1,793.43 | Ex17 vs Ex21 receipted subtotals (Addendum 26) |

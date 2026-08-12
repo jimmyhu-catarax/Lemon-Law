@@ -1914,3 +1914,42 @@ fixed — the retracted "wrong 8,148 basis" framing, the unverified (c)(1)
 scope assertion, the MVMA/Gurau attribution, and two new flags: Q16/Q15 and
 the HV-vs-12-volt mischaracterization in served exhibits; now EIGHT flags,
 183 pp). `Hu_v_HMA_Counsel_Packet_2026-08-06.pdf`.
+
+---
+
+## SESSION ADDENDUM 29 — 2026-08-12 (Ex11 read from Drive and exported; five errata; transmittal drafted)
+
+**Trigger:** Vicario asked for Exhibit 11. The reply disclosing its
+never-served status (Addendum 28) had already gone out — user sent it to
+Krukas/Vicario.
+
+**Ex11 read in full from the Drive original**
+(`15okCHDSDrKdbppmFbCi9yzIh41pXPaU2fz2vGkO4JdM`) and exported to
+**`materials/exhibits/Hu_v_HMA_Ex11_Days_Out_of_Service_UNSERVED.pdf`**
+(5 pp., fidelity verified via text layer). Drafted ~early May 2026,
+pre-arbitration, **before the project's corrections — five errata against
+the verified record:**
+
+1. **"NY GBL §198-a Threshold: 15 days" (citing "(b)(2)"), "13.4× minimum"**
+   — the presumption threshold is **30 days** (verified-facts;
+   § 198-a(d)(2); the ND-4 form's own issue language). All multiplier math
+   in the document is wrong.
+2. **"second HV battery replacement" for RO #370267** — refuted (Addendum
+   2): 12-volt battery; ONE HV pack replacement (2025). Same
+   mischaracterization as served Ex12/Ex22/Loss-of-Use (packet Flag 8).
+3. **Lease date "May 22, 2024"** — verified: May 23, 2024 (Ex01; same slip
+   as the RFA form, Addendum 8 reconcile list).
+4. **Leads with 201/198 total days** — the standing rule: 124 days on RO
+   #358530 is the anchor; the aggregate is secondary.
+5. **"Filing Date: May 4, 2026"** — NYSDRA file date is May 12, 2026 (fee
+   May 11, Ex18).
+
+Accurate and possibly useful: Ex11's note that ROs #358530 and #363888
+carry customer email "jimmy.hu25@gmail.com" (not Petitioner's address) —
+**Ex11's own assertion; not re-verified against the RO images this session**
+(the extraction carries no email text).
+
+**Deliverable:** `materials/2026-08-12-Ex11-to-Vicario-DRAFT.md` — short
+transmittal attaching the PDF with the five errata stated plainly, the
+124-day pointer, and the do-not-cite handling note. **No corrected Ex11
+variant was or should be created.**

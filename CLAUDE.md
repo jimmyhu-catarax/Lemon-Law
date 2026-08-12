@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **28 as of 2026-08-10** — were moved there on 2026-07-30. They hold
+> addenda — **29 as of 2026-08-12** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 27**: the
@@ -125,10 +125,12 @@ Attorney Case Summary **v7**, Verified Petition **v2**, Notice of Petition
 research lives in `research/` (packet send plan, filing mechanics, prefiling
 verification checklist).
 
-**Arbitration Exhibit 11 (Days Out of Service) is still a Google Doc only —
-export to PDF before it can be annexed. ⚠ And it was NEVER SERVED: the 6/5
-submission email lists it but did not attach it (Addendum 28). The Personal
-Impact Statement was likewise listed but never attached.**
+**Arbitration Exhibit 11: NEVER SERVED (Addendum 28) and now exported —
+`materials/exhibits/Hu_v_HMA_Ex11_Days_Out_of_Service_UNSERVED.pdf`. ⚠ It
+carries FIVE ERRATA (Addendum 29): wrong 15-day threshold, refuted
+"second HV battery" claim, 5/22 lease date, leads with 201/198 days, wrong
+filing date. Do not cite it; transmittal-with-errata drafted for counsel.
+The Personal Impact Statement was likewise listed but never attached.**
 
 ---
 
@@ -234,7 +236,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 28 addenda as of 2026-08-10.
+**[`docs/session-log.md`](docs/session-log.md) — 29 addenda as of 2026-08-12.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

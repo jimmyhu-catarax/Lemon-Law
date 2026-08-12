@@ -1953,3 +1953,68 @@ carry customer email "jimmy.hu25@gmail.com" (not Petitioner's address) —
 transmittal attaching the PDF with the five errata stated plainly, the
 124-day pointer, and the do-not-cite handling note. **No corrected Ex11
 variant was or should be created.**
+
+---
+
+## SESSION ADDENDUM 30 — 2026-08-12 (petition + client affirmation reviewed; VIN typo and five other catches; sign only after fixes)
+
+**Received:** Vicario's petition (14 pp — Notice of Petition, Verified
+Petition ¶¶1–39, attorney Verification under CPLR Rule 2106) and the client
+affirmation (Exhibit F, 20 ¶¶) for the user's signature. Reviewed in full
+against the verified record. **The petition is verified by VICARIO, not the
+user — the user signs only Exhibit F** (perjury affirmation).
+
+### Affirmation (Exhibit F) — signature-blocking
+
+1. **¶1 VIN wrong: "KM8KNDDF9U253237" (16 chars, missing R).** Correct:
+   KM8KNDDF9RU253237.
+2. **¶15 "Hyundai did not present any evidence or provide any documents"**
+   — unqualified, sweeps beyond user's knowledge (HMA's written response was
+   due at NYSDRA 5/27; never shared with user; existence unknown). Fix:
+   "At the hearing, …" Petition ¶¶14, 28 lean on this sentence.
+3. **¶8 typo** "200 hundred days"; the ~200-day aggregate is acceptable as
+   testimony (matches hearing testimony; includes non-facility downtime) but
+   the case rests on the 125-day RO.
+4. **¶18** "did not prove or attempt to prove any affirmative defenses" —
+   HMA counsel argued "operating as intended"; safer: "offered no evidence
+   in support of any affirmative defense."
+5. **¶12 Exhibit E check** — "all evidence provided to the arbitrator is
+   attached" is accurate only if Exhibit E = the actually-served set
+   (Addendum 28: Ex11 + Impact Statement never attached).
+6. **¶11 May 4 AG application date** — plausible (referred to NYSDRA 5/5);
+   user to confirm from his receipt or soften.
+7. Clean: lease date 5/23 ✓ (correct where the petition is not), Apr 3–Aug 5
+   ✓, 8,151 mi ✓, hearing facts ✓; ¶¶16–17 are the user's own testimony
+   memory (the load-bearing rebuttal to "no allegation") — he must be
+   comfortable he said it.
+
+### Petition — comments relayed (Vicario's pen)
+
+1. **Captions (Notice + Petition) name "HYUNDAI OF AMERICA"** — wrong
+   entity; body ¶4 and affirmation say Hyundai Motor America.
+2. **¶12 "May 22, 2024" delivery** contradicts its own Ex C (lease: 5/23)
+   and Exhibit F ¶1.
+3. **125-day convention** used throughout (inclusive count Apr 3–Aug 5) —
+   defensible alternative to the project's 124 (elapsed); the only real
+   problem is ¶17's "125 consecutive calendar days LATER" (arithmetically
+   124). Suggested inclusive phrasing.
+4. ¶13 "filed with NYSDRA on or about May 4" — application went to the AG;
+   NYSDRA file date 5/12.
+5. ¶16 RO quotes not machine-verifiable (image scans) — counsel to eyeball
+   vs. his Exhibit D.
+6. **Strategy positives:** claim submitted solely on (d)(2), four-attempts
+   prong expressly not invoked → sidesteps the Q16 conflict (April 3 @
+   8,148 as operative visit); Feb 2026 correctly a 12-volt replacement;
+   Ground III uses Q15 + the four-corners contradiction; Ground V uses the
+   award's carelessness; Ground VI (loaner) adds Wenqing He v BMW (2025 NY
+   Slip Op 34739(U)) + the § 198-b(c)(2)(b) parts-delay contrast (Kepenis);
+   Ground VII + Wherefore ¶D pre-litigate lease maturity (Kucher; Diaz v
+   Audi). Service via CSC, 80 State St, Albany — the BCL 306/307 question
+   is resolved. New citations are counsel's own (outside the project's
+   verified set — his reporters, his responsibility); DaimlerChrysler
+   pinpoint given as 659–60 (project verified 658 — same discussion).
+
+**Deliverable:**
+`materials/2026-08-12-petition-comments-to-Vicario-DRAFT.md` — items 1–4
+blocking signature, 5–6 confirmations, petition items 7–11, sign-same-day
+close. **Do not sign Exhibit F until the VIN and ¶15 are fixed.**

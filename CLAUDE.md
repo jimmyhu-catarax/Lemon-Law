@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **29 as of 2026-08-12** — were moved there on 2026-07-30. They hold
+> addenda — **30 as of 2026-08-12** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 27**: the
@@ -149,8 +149,10 @@ see Addendum 4. What remains:
    disclosure is item 4 of the note); **(c)** pay the $3,000 invoice when it
    arrives; **(d)** preserve the executed retainer + DocuSign certificate to
    `materials/`; **(e)** any HMA response: forward to Vicario, do not respond
-   substantively; **(f)** get Vicario's filing timeline — 9/9 is now
-   counsel's deadline to hit.
+   substantively; **(f)** ✅ petition IS drafted — received 8/12, reviewed (Addendum 30):
+   **do not sign the Exhibit F affirmation until the VIN typo and the
+   unqualified ¶15 ("Hyundai did not present any evidence") are fixed**;
+   comments draft: `materials/2026-08-12-petition-comments-to-Vicario-DRAFT.md`.
 2. **⚠ UNVERIFIED TEXT GATES FOUR ARGUMENTS — see
    [`docs/open-items.md`](docs/open-items.md).** GBL § 198-a **(a), (c)(1),
    (l), (n)** are **all still UNREAD** (every legal-text host 403s under the
@@ -236,7 +238,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 29 addenda as of 2026-08-12.
+**[`docs/session-log.md`](docs/session-log.md) — 30 addenda as of 2026-08-12.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

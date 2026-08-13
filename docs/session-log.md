@@ -2018,3 +2018,26 @@ user — the user signs only Exhibit F** (perjury affirmation).
 `materials/2026-08-12-petition-comments-to-Vicario-DRAFT.md` — items 1–4
 blocking signature, 5–6 confirmations, petition items 7–11, sign-same-day
 close. **Do not sign Exhibit F until the VIN and ¶15 are fixed.**
+
+---
+
+## SESSION ADDENDUM 31 — 2026-08-13 (queue status: missing-docs resolved; no video email exists; HMA silent 6 days)
+
+1. **Vicario's 8/10 missing-documents request is RESOLVED** — the user's 8/11
+   02:43Z forward (msg `19feeb43afafcdc6`) carried all three attachments:
+   `Contract 1-59225931599.pdf` (lease), `Hyundai Bill of Sale.pdf`,
+   `Car Registration.jpg`. Verified from the message's attachment list.
+2. **The "email where you sent pictures and videos of the problems" does not
+   exist.** Sent-mail searches (filename:mp4/mov/jpg, all case
+   correspondents) surface no such email. The photographs in the record are
+   **Exhibit 20 (dashboard photos)**, served June 3 and in the counsel
+   packet; any videos were never emailed — presumably on the user's phone.
+   Counsel should be told this plainly so he stops waiting for it.
+3. **The comments email on the petition/affirmation was SENT** 8/12 23:47Z
+   (msg `19ff85f712b869fe`) — the tightened v2. Also confirmed: Vicario's
+   8/12 cover (msg `19ff739ddab106d2`) asks for a signed, scanned
+   affirmation back.
+4. **HMA: six days of silence** on the 8/6 incidentals escalation (July 2025
+   benchmark: ~21 hours). The executive-office channel is not repeating its
+   speed. Any nudge is one line on the same thread; any substantive response
+   still routes through Vicario. No DocuSign completion certificate yet.

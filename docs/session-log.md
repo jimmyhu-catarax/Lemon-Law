@@ -2041,3 +2041,40 @@ close. **Do not sign Exhibit F until the VIN and ¶15 are fixed.**
    benchmark: ~21 hours). The executive-office channel is not repeating its
    speed. Any nudge is one line on the same thread; any substantive response
    still routes through Vicario. No DocuSign completion certificate yet.
+
+---
+
+## SESSION ADDENDUM 32 — 2026-08-26 (affirmation SIGNED 8/13; Ex11 removed from Exhibit E; ⚠ FILING STATUS UNKNOWN; Vicario OOO)
+
+**The 8/13 sequence (all verified from the thread):**
+
+1. Vicario 19:08Z: *"I made the changes and sent you the affirmation to sign
+   by zohosign. The only discrepancy is the arbitration exhibits. I compiled
+   everything you sent me as 1 exhibit. Should exhibit 11 be taken out?"* —
+   counsel independently caught the Ex11 problem.
+2. User 23:30Z: yes, remove it — *"listed on my original index but never
+   actually sent to the arbitrator."* **Exhibit E is now the served set
+   without Ex11** (msg `19ffd7650bcee950`).
+3. **User signed the corrected affirmation via Zoho Sign 23:32Z.** Signed
+   copy: msg `19ffd78085ee0b41` / `19ffd77e59b10675` (attachment not
+   independently inspected — the Gmail connector has no attachment download;
+   Vicario's "I made the changes" is the basis for believing the VIN/¶15/
+   ¶8/¶18 fixes landed. If verification is wanted, the user must upload the
+   signed PDF).
+4. Vicario 23:33Z: *"Thank You. I will try to file the petition tomorrow"*
+   (= 8/14).
+
+**⚠ OPEN AND TIME-SENSITIVE — no filing confirmation exists.** Searches for
+NYSCEF/index-number/court emails 8/14–8/26: nothing. Thirteen days since
+"file tomorrow." **Today (8/26 14:10Z) an out-of-office auto-reply arrived
+from Vicario** ("limited access to email... call 516-780-0760") on a "Re: Hu
+v Hyundai" subject — with no triggering email in this mailbox after 8/14
+(user may have written from another account). Eugene has NOT bounced.
+**9/9 filing deadline is 14 days out; service wall 9/24.** Next action:
+confirm filing status and get the index number — call the office or email
+Eugene (ek@lemonfreedom.com / (516) 203-4001). A filed special proceeding
+would have an index number and a return date; the user should also ask for
+the as-filed papers.
+
+Other: still no HMA response to the 8/6 incidentals escalation (20 days);
+still no retainer completion certificate.

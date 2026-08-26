@@ -9,14 +9,14 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **31 as of 2026-08-13** — were moved there on 2026-07-30. They hold
+> addenda — **32 as of 2026-08-26** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 27**: the
-> HMA escalation was **SENT 8/6 (verified, receipts attached)** and the
-> retainer is **SIGNED** (user-confirmed; completion certificate not yet in
-> inbox) — **the no-independent-settlement clause is now LIVE**: any money
-> response from HMA routes through Vicario.
+> N" reference below points into that file.** Start with **Addendum 32**: the
+> affirmation is **SIGNED (8/13, via Zoho)** and Ex11 was removed from
+> Exhibit E — but **FILING STATUS IS UNKNOWN** (no confirmation since
+> Vicario's 8/13 "file tomorrow"; he is OOO as of 8/26; **9/9 is 14 days
+> out**). The no-independent-settlement clause remains LIVE (Addendum 27).
 
 ---
 
@@ -238,7 +238,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 31 addenda as of 2026-08-13.
+**[`docs/session-log.md`](docs/session-log.md) — 32 addenda as of 2026-08-26.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

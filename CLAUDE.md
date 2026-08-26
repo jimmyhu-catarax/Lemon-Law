@@ -9,14 +9,16 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **32 as of 2026-08-26** — were moved there on 2026-07-30. They hold
+> addenda — **33 as of 2026-08-26** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 32**: the
-> affirmation is **SIGNED (8/13, via Zoho)** and Ex11 was removed from
-> Exhibit E — but **FILING STATUS IS UNKNOWN** (no confirmation since
-> Vicario's 8/13 "file tomorrow"; he is OOO as of 8/26; **9/9 is 14 days
-> out**). The no-independent-settlement clause remains LIVE (Addendum 27).
+> N" reference below points into that file.** Start with **Addendum 33**: the
+> petition is **FILED AND SERVED**; Hyundai's internal counsel (Jane Rigby)
+> has revived the **$5k offer, "take it or leave it"** — otherwise outside
+> counsel opposes; the user will accept IF the boilerplate is fixed and
+> Eugene has asked **exactly which clauses to strike** (answer drafted:
+> Ex09a ¶¶ (j) §1542, (i) gag, (h) indemnity). Addendum 32's
+> "filing unknown" was WRONG — superseded. All talks through counsel.
 
 ---
 
@@ -238,7 +240,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 32 addenda as of 2026-08-26.
+**[`docs/session-log.md`](docs/session-log.md) — 33 addenda as of 2026-08-26.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

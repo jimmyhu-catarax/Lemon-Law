@@ -2078,3 +2078,72 @@ the as-filed papers.
 
 Other: still no HMA response to the 8/6 incidentals escalation (20 days);
 still no retainer completion certificate.
+
+---
+
+## SESSION ADDENDUM 33 — 2026-08-26 (⚠ CORRECTION of Addendum 32 + THE LIVE EVENT: petition FILED AND SERVED; Rigby revives the $5k offer; Eugene asks which clauses to strike)
+
+**Correction first:** Addendum 32's "filing status unknown / firm silent"
+was WRONG — an artifact of Gmail thread-preview truncation (search previews
+show only the ~5 oldest messages per thread; the 8/26 messages sat at the
+end of the "Hu v Hyundai" thread and were missed). The full thread was
+pulled 8/26; the record below supersedes.
+
+### The 8/26 exchange (all verified, full texts read)
+
+1. **Eugene 13:23Z** (msg `1a03e3d6b7e269a7`): Michael is on vacation this
+   week. **"The Petition was filed and served."** They were contacted by
+   **Jane Rigby, Hyundai's internal counsel**: *"the prior $5k offer is
+   still on the table … If that offer isn't accepted, her intention is to
+   send the case to outside counsel to oppose the Petition."* Eugene's
+   framing: *"either be up $2k after attorney fees and give back the car
+   now that the lease is over, or down $3k with a chance to recover the
+   full LL refund and reimbursement of your attorney fees if you win."*
+2. **User 14:09Z:** "What is your advice in this situation?"
+3. **Eugene 14:15Z** (msg `1a03e6d36e5fc4e2`): *"It comes down to your risk
+   tolerance … winning the petition … involves essentially putting $5k on
+   the table (the $3k you already paid plus the $2k you are walking away
+   from) and rolling the dice. Also the additional risk of more attorney
+   fees if we have to appear in court."*
+4. **User 14:43Z** (msg `1a03e86f02c23e17`): willing to accept IF (1) the
+   boilerplate is fixed — he cited "the waiver of my rights in California
+   and the gag order" — and (2) ~$2,000 incidentals reimbursed.
+5. **Eugene 14:59Z** (msg `1a03e952f14b6110`): *"1. I can ask about the
+   changes to their boilerplate agreement. **Please specify exactly what
+   you want taken out.** 2. I can request the reimbursement but it's likely
+   to be a dealbreaker … The indication from the rep seemed to be $5k, take
+   it or leave it."*
+6. (Separately, Vicario's OOO auto-reply 14:10Z — matches "on vacation.")
+
+### Open facts / cautions
+
+- **Index number and as-filed papers still not in hand** — get them.
+- **Which "$5k offer"?** The Jan 2026 letter had two variants: $5,388.51
+  with surrender vs $5,000 cash-and-keep. Eugene's "give back the car"
+  suggests the surrender variant, but this is UNCONFIRMED — the
+  clarification is in the reply draft. Lease mechanics (month-to-month to
+  11/23 hard wall) interact with any surrender.
+- The user's "waiver of my rights in California" phrasing is imprecise —
+  the clause is Ex09a ¶(j), the §1542 UNKNOWN-CLAIMS waiver reaching "any
+  similar law of any state." The reply draft corrects this silently.
+- Filing-fee refund on settlement ($250) is invited by NYSDRA's own 5/11
+  letter — added as a low-cost ask.
+- All communication is running through counsel — consistent with the
+  no-independent-settlement clause. **Do not contact Rigby or HMA.**
+
+### Deliverable
+
+`materials/2026-08-26-settlement-clauses-to-Krukas-DRAFT.md` — answers
+Eugene's "specify exactly" with Ex09a's own paragraph letters: strike
+**(j)** (§1542 waiver — the clause refused in Sept 2025), **(i)**
+(confidentiality/gag — removed or mutual+amount-only), **(h)** (third-party
+indemnity); notarization indifferent once (j) is out; plus the $250 fee
+refund, the corrected $1,793.43 figure with the Feb 20 "will not affect"
+quote, and the which-variant clarification.
+
+### Process lesson (recorded so it is not repeated)
+
+**Gmail `search_threads` previews only the ~5 oldest messages of a thread.**
+For any thread that may have new activity, `get_thread` (or a dated
+`get_message`) is MANDATORY before reporting "no response" — Addendum 32's
+false "filing unknown" conclusion came from skipping this.

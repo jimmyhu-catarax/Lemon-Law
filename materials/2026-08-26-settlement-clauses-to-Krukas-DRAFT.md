@@ -1,66 +1,83 @@
-# DRAFT — Reply to Eugene: the exact clauses to strike (settlement round, 8/26)
+# DRAFT v2 — To Eugene & Michael: contract amendments for the $5k surrender deal
 
-**Status:** DRAFT — for Petitioner's review. Reply on the "Hu v Hyundai"
-thread to Eugene's 8/26 14:59Z message ("Please specify exactly what you
-want taken out"), cc Michael.
+**Status:** DRAFT v2 (supersedes v1) — for Petitioner's review. Reply on the
+"Hu v Hyundai" thread to Eugene's 8/26 14:59Z ("Please specify exactly what
+you want taken out"), cc Michael.
 
-**Basis:** the clause letters below are from the August 2025 Settlement
-Agreement and Release (Ex09a) — the only Hyundai release whose terms are in
-the record. Rigby's new agreement will presumably follow the same form; the
-specification is written so Eugene can map it onto whatever she sends.
+**Basis:** clause letters from the August 2025 Settlement Agreement and
+Release (Ex09a) — the only Hyundai contract in the record (the January 2026
+release was never received; "Ex09b" is a duplicate of the January offer
+letter). The as-is and lease-closure terms are new additions per the user's
+8/26 instruction. Incidentals hook: the January offer letter's own ¶3.
 
 ---
 
 ## Email body
 
-Hi Eugene,
+Hi Eugene, Mike,
 
-Happy to specify. Referring to the paragraph letters in the August 2025
-"Settlement Agreement and Release" they sent me (the only version I have —
-assuming the new one follows the same form):
+Here are the specifics, keyed to the paragraph letters of the August 2025
+"Settlement Agreement and Release" they sent me last year — the only
+contract of theirs I have. I assume the new one follows the same form; if
+not, these map by subject.
 
-**Must be removed or changed:**
+**Remove:**
 
-1. **Paragraph (j)** — the waiver of California Civil Code §1542 "as well as
-   any similar law of any state or territory of the United States." This is
-   the clause I refused last September (it's the one the arbitrator's
-   decision refers to as the "clause related to the state of CA"). I will
-   release the claims in this case; I won't sign a waiver of unknown claims
-   under the law of every state. A standard release of the claims asserted
-   in this matter is fine.
-2. **Paragraph (i)** — the confidentiality/non-disclosure clause. Removed
-   entirely, or made mutual and limited to the settlement amount only. I am
-   not agreeing to a gag on the facts of my own experience.
-3. **Paragraph (h)** — the third-party indemnification clause. I'm an
-   individual consumer; indemnifying Hyundai against third-party claims has
-   nothing to do with this case.
-4. The **notarization requirement** for the release can stay or go — but if
-   the §1542 waiver is out, I have no objection to notarizing an ordinary
-   release.
+1. **¶(j)** — the waiver of California Civil Code §1542 "as well as any
+   similar law of any state or territory of the United States." I'll release
+   the claims in this case; I won't sign a waiver of unknown claims under
+   every state's law. This is the clause I refused in September 2025.
+2. **¶(i)** — the confidentiality clause. Removed entirely, or made mutual
+   and limited to the settlement amount only.
+3. **¶(h)** — the indemnification of Hyundai against third-party claims. I'm
+   an individual consumer; this has no place in this deal.
 
-**Two smaller asks to include (neither should be a dealbreaker):**
+**Add — vehicle condition and lease closure (important to me):**
 
-5. The **$250 NYSDRA administrative fee** refunded as part of the
-   settlement — NYSDRA's own acceptance letter says the consumer should
-   request exactly this on settlement.
-6. On the reimbursement: the documented figure is **$1,793.43** (I have the
-   receipt packet; their own roadside program already reimbursed the $391.25
-   impound fee from the same episode). If it's truly a dealbreaker, I hear
-   you — but please present it once; their case manager wrote in February
-   that reimbursement "will not affect the existing settlement or repurchase
-   offer," so by their own words it's a separate track.
+4. **HMA accepts the vehicle AS-IS at surrender** — an express clause that
+   no charges, deductions, setoffs, or claims will be made for wear and
+   tear, minor cosmetic damage, paint scratches, dents, or interior wear,
+   and that the vehicle's current condition is accepted for all purposes.
+   Context you can use: the 2025 repurchase died in part because HMA
+   conditioned closing on body repairs — I completed the rear-bumper
+   repairs in October 2025 and paid $2,100.30 out of pocket for the
+   headlamp in January 2026. I won't do a second round of condition
+   disputes at the finish line.
+5. **The agreement must close out the Hyundai Motor Finance lease
+   completely:** HMA responsible for the lease payoff and all lease-end
+   charges — disposition fee, excess wear and use, excess mileage — with
+   written confirmation that account #2415627694 is closed, that no
+   deficiency will be billed to me, and that nothing negative is reported
+   to credit bureaus. Their own January offer letter (¶5) warns that
+   "excessive lease mileage penalties may not be included" — that is
+   exactly the surprise charge I want excluded in writing.
+6. **Mechanics:** settlement funds delivered at or before vehicle
+   surrender; surrender at a New York–area location; a signed condition
+   acknowledgment / receipt at hand-off.
 
-**One clarification I need before agreeing to anything:** which "prior $5k
-offer" is Ms. Rigby reviving? The January letter had two variants —
-$5,388.51 with surrender of the vehicle, or $5,000 with me keeping it. With
-the lease running month-to-month to a hard maturity of November 23, which
-variant it is (and how the surrender mechanics work against the lease)
-changes what I'm agreeing to. And obviously I'd like to review the actual
-agreement before anything is signed.
+**Money (please present once, then close either way):**
 
-If they'll do the above, I'm prepared to accept.
+7. **Incidentals, $1,793.43** — note this is inside their own offer: ¶3 of
+   the January 29 letter says HMA "may reimburse, subject to proof, any
+   related incidental damages/expenses, including but not limited to
+   reasonable repair, towing, and car rental costs actually incurred." I
+   have every receipt, and their roadside program already reimbursed the
+   $391.25 impound fee from the same episode.
+8. **The $250 NYSDRA administrative fee** refunded — NYSDRA's acceptance
+   letter says the consumer should request exactly this on settlement.
 
-Thanks for handling this while Michael is out.
+**One clarification before anything is signed:** is Ms. Rigby's "$5k" the
+keep-the-vehicle $5,000 (option 1 of the January letter), or the
+repurchase/surrender option? Your note said "give back the car," which
+sounds like the repurchase — but their own January calculation for the
+repurchase was **$5,388.51**. If I'm surrendering the vehicle, the number
+should be theirs.
+
+I'd like to review the final agreement before signing. If they hold at the
+money but give the clause removals and the as-is / lease-closure terms, I'm
+prepared to accept and close this out.
+
+Thanks both.
 
 -Jimmy Y. Hu
 jimmy.hu@gmail.com | 215-307-5492
@@ -69,24 +86,26 @@ jimmy.hu@gmail.com | 215-307-5492
 
 ## Handling notes
 
-- Item 1 quietly corrects the earlier "waiver of my rights in California"
-  phrasing — the clause is an unknown-claims waiver reaching every state,
-  which is the stronger reason to strike it.
-- Item 2 preserves the user's stated interest in keeping the right to tell
-  this story (no confidentiality = no gag).
-- The $1,793.43 figure replaces "approximately $2,000" — the receipted
-  number, defensible line by line.
-- Everything goes through counsel — consistent with the retainer's
-  no-independent-settlement clause. Do not contact Rigby or HMA directly.
+- Items 4–6 are the new as-is / lease-closure package (user's 8/26
+  instruction). Item 5 matters because the lease is with HMF, a separate
+  entity — a release signed with HMA alone would not stop HMF from billing
+  disposition/wear/mileage charges later unless the agreement makes HMA
+  responsible and confirms account closure.
+- Item 7 deliberately cites Hyundai's own offer language rather than the
+  statute — no unverified § 198-a(c)(1) assertion needed.
+- The $5,388.51 clarification is worth up to $388.51 and costs nothing.
+- Everything through counsel; no direct contact with Rigby or HMA.
 
 ## Verification record
 
 | Assertion | Source |
 |---|---|
-| Clause letters (h) indemnity, (i) confidentiality, (j) §1542 | Ex09a extraction, lines 51–69 — read 2026-08-26 |
-| "clause related to the state of CA" = the §1542 waiver | Award (Summary of Evidence); Addendum 3 retraction — there is NO California choice-of-law clause |
-| Refusal history (accepted $4,000 in writing 9/25–26/25; objection was to the clause, not the amount) | docs/settlement-history.md |
-| $250 refund-on-settlement language | NYSDRA acceptance letter, May 11, 2026 (msg `19e182a76fa1d49f`) |
-| $1,793.43 / $391.25 reimbursed | Ex21 receipted subtotals; RAP Response (Req. 2026-6680) |
-| Jan 2026 offer variants ($5,388.51 surrender / $5,000 keep) | Ex06; docs/settlement-history.md |
-| "will not affect the existing settlement or repurchase offer" | css@hmausa.com, Feb 20, 2026 (Ex21 Tab E, verbatim) |
+| Clause letters (h)(i)(j) | Ex09a extraction, lines 51–69, read 2026-08-26 |
+| Refusal history (clause, not amount) | Award; docs/settlement-history.md |
+| Body-repair precondition on the 2025 repurchase | Ex22: 10/14/25 "status of vehicle body repairs"; 10/24/25 rear-bumper completion (Addendum 13) |
+| $2,100.30 headlamp, self-paid Jan 2026 | Ex16 Mizzoni invoice; served June 3 index ("$2,100.30, cosmetic headlamp repair") |
+| Jan offer ¶3 (incidentals "may reimburse… subject to proof") and ¶5 (excess-mileage warning) | Ex06 extraction, read 2026-08-26, verbatim |
+| $5,388.51 repurchase / $5,000 keep variants | Ex06; docs/settlement-history.md |
+| $1,793.43 / $391.25 | Ex21 receipted subtotals; RAP Response (Req. 2026-6680) |
+| $250 refund-on-settlement | NYSDRA letter May 11, 2026 (msg `19e182a76fa1d49f`) |
+| HMF account #2415627694 | Ex15 / Ex19 |

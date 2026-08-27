@@ -2147,3 +2147,33 @@ quote, and the which-variant clarification.
 For any thread that may have new activity, `get_thread` (or a dated
 `get_message`) is MANDATORY before reporting "no response" — Addendum 32's
 false "filing unknown" conclusion came from skipping this.
+
+---
+
+## SESSION ADDENDUM 34 — 2026-08-26 (v2 of the clause-strike reply: as-is surrender + HMF lease closure added; Ex06's own ¶3 is the incidentals hook)
+
+Per the user's instruction, the reply to Eugene/Michael was rewritten as v2
+(same file, `materials/2026-08-26-settlement-clauses-to-Krukas-DRAFT.md`):
+
+1. Strikes unchanged: Ex09a ¶¶ (j) §1542 all-states waiver, (i)
+   confidentiality, (h) indemnity.
+2. **NEW — as-is surrender package:** express no-charge clause for wear and
+   tear / cosmetic damage / paint; **HMA responsible for ALL HMF lease-end
+   charges** (disposition, excess wear, excess mileage) with written
+   account-closure, no-deficiency, and no-negative-credit-reporting
+   confirmations. Rationale on the record: the 2025 repurchase died partly
+   on the body-repair precondition (Ex22, Addendum 13), and HMF is a
+   separate entity — an HMA-only release would not stop later HMF billing.
+3. **Ex06 read 2026-08-26 (verbatim):** its ¶3 — HMA "may reimburse,
+   subject to proof, any related incidental damages/expenses, including but
+   not limited to reasonable repair, towing, and car rental costs actually
+   incurred" — makes the $1,793.43 an item inside Hyundai's own repurchase
+   formula, no statutory assertion needed. Its ¶5 warns excess-mileage
+   penalties "may not be included" — the exact surprise-charge category the
+   as-is package excludes.
+4. Variant clarification retained: Rigby's "$5k" vs the January letter's
+   own $5,388.51 repurchase calculation.
+5. **Record honesty, restated:** the January 2026 release contract was
+   never received (Ex09b = duplicate of Ex06). The user was told this when
+   he asked for "the second contract" — Ex06 (offer letter) + Ex09a (Aug
+   2025 release, the amendment target) were delivered instead.

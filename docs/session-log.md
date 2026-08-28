@@ -2307,3 +2307,63 @@ clear: user reads his paper lease's wear section or uploads a legible copy.
 ($5,000 + $1,793.43 via Ex06 ¶3 + $250 via NYSDRA letter = $7,043.43,
 rounded down). $5,388.51 question dropped as moot. Awaiting user review;
 the $7,000-vs-$7,500 choice is flagged in the handling notes.
+
+---
+
+## Addendum 38 (2026-08-28) — HMF Lease-End Kit reviewed; Ex15 re-read in full: the scratch worry dissolves, and three better facts surface
+
+User uploaded the **HMF Lease-End 120-Day Kit** (4-spread brochure,
+HMF-SC-LeaseEnd120-DM-0221, read in full — text + visual). Cross-read with
+the **full text of Ex15** (Lease Term Extension Agreement, all 4 pages).
+
+**1. Acceptable wear per HMF's own published standard:** scratches < 4",
+dings/dents < 4", windshield cracks < 2", window/paint chips < 1/2", tire
+tread ≥ 1/8". The user's minor scratches/dents ("not noticeable at a casual
+glance," est. <$500 — Addendum 37) are almost certainly **chargeable at
+$0**. ⚠ Brochure is marked ADVERTISEMENT, printed 2021, non-binding; final
+charges come from a formal post-turn-in inspection; the contractual
+standard ("Lessor's standards for normal use," Ex15 ¶2) lives in the
+lease's still-unread fine print. Mitigation: free non-binding
+pre-termination inspection — Lease-End Advisor (855) 463-5378; self-assess
+at HMFUSA.com/lease-end. **Counter stays at $7,000** (draft updated).
+
+**2. Ex15 ¶2 — mid-extension return carries NO early-termination penalty:**
+"If your Lease terminates after the Original Maturity Date but before the
+Maximum Maturity Date, for any reason, the Early Termination provisions of
+your Lease will not apply and the termination shall be treated as a
+full-maturity termination." Return before the next month's due date (the
+23rd) or be billed the next month; payments are NOT prorated (¶5); must
+call (844) 363-7477 before returning. **Consequence: once a settlement
+closes, return at the next monthly boundary and stop paying $314/mo — up
+to ~$942 saved vs. riding to 11/23.** (If NO settlement: keep the car —
+standing preservation — decision needed by ~late October.)
+
+**3. Ex15 ¶3 — buyout wipes ALL turn-in charges and gets credit for
+extension payments:** "If you exercise your purchase option, you will not
+owe Lessor for excess mileage or excess wear" (and the disposition fee
+applies only "if the lessee does not purchase"); "any monthly payments you
+make during the extended lease term (excluding the portions allocable to
+taxes and rent) will be deducted from the Vehicle purchase price" — i.e.,
+each $297.26 base payment since 5/23/26 reduces the buyout price. Quote:
+(855) 537-8542.
+
+**4. Known turn-in costs regardless of wear:** disposition fee "specified
+in the lease contract," brochure says up to $400 (Ex01 form fields show a
+400.00 — probable but unlabeled); excess mileage $.20/mi over allowance —
+allowance number unread (Ex01 fine print), but odometer 11,230 on
+2/18/2026 (RO #370267) makes excess mileage a non-issue under any
+plausible allowance, and Ex15 ¶2 adds 1/12 of the annual allowance per
+extension month.
+
+**5. Ex15 ¶7 adds a MANDATORY ARBITRATION clause (FAA, AAA/JAMS, class
+waiver) to the HMF lease** — any future dispute with HMF/HLTT over
+lease-end charges goes to arbitration, EXCEPT "we will not choose to
+arbitrate any claim you bring in small claims court" — the small-claims
+route for a bogus wear bill is expressly preserved. (HMF ≠ HMA; no
+apparent effect on the Article 75 case.)
+
+**6. Turn-in checklist (brochure):** return only to an authorized Hyundai
+dealer; all original equipment present (EV charging cable, both fobs);
+remove toll tag; cancel autopay after the final payment; keep insurance in
+force through return (Ex15 ¶4); cancel/transfer the NJ plates — liability
+for tickets/tolls continues until done.

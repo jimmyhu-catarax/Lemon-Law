@@ -66,18 +66,19 @@ jimmy.hu@gmail.com | 215-307-5492
   per Eugene 8/27, there is no surrender to HMA and "HMA can't make any
   promise or representation on behalf of Hyundai Finance." Asking would
   reopen a structure question Eugene already closed.
-- **The scratch/dent exposure (user est. <$500 at lease turn-in) is handled
-  by price, not terms.** Options, user's call before sending:
-  (a) send as drafted at $7,000; (b) ask **$7,500** to buffer the expected
-  lease-end wear charge without ever mentioning vehicle condition; (c) if
-  the user later buys the vehicle out (the lease-standing preservation
-  option, still undecided), there is no turn-in inspection and no wear
-  charge at all.
-  ⚠ Disclosure: the lease's actual excess-wear-and-use standard is
-  **unread** — Ex01 pp. 5–8 are image-only scans with no text layer and no
-  OCR is available in this environment. Whether minor scratches/dents are
-  even chargeable under the lease's own threshold is unverified; the <$500
-  figure is the user's estimate.
+- **The scratch/dent exposure is likely $0** (updated 8/28 after reading the
+  HMF Lease-End Kit the user supplied): HMF's own published
+  acceptable-wear standard is **scratches less than 4", dings/dents less
+  than 4"**, windshield cracks <2", paint chips <1/2", tire tread ≥1/8".
+  Scratches "not noticeable at a casual glance" sit well inside it. The
+  wear buffer is therefore unnecessary — **send at $7,000**; $7,500 remains
+  available if the user wants the ~$400 disposition fee absorbed too.
+  ⚠ Disclosure: the brochure is marked "THIS IS AN ADVERTISEMENT," is a
+  2021 printing, and says final charges come from a formal inspection after
+  turn-in; the *contractual* standard is in the lease fine print (Ex01
+  pp. 5–8, image-only, still unread — "Lessor's standards for normal use"
+  per Ex15 ¶2). Mitigation: HMF offers a free, non-binding pre-termination
+  inspection — schedule it before turn-in.
 - **$5,388.51 question is moot** (flat check, no repurchase variant).
 - Everything through counsel; no direct contact with Rigby or HMA.
 

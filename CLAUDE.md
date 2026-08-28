@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **35 as of 2026-08-27** — were moved there on 2026-07-30. They hold
+> addenda — **36 as of 2026-08-28** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 33**: the
@@ -32,7 +32,15 @@
    primary sources (the Official Reports, the statute, the actual exhibits). If
    something can't be verified, say so.
 3. **Deliverables are filing-ready, not outlines.** Finished documents.
-4. This is the user's litigation. Give him the basis to decide; flag where a
+4. **Disclose incomplete information at the point of use** (user's standing
+   order, 2026-08-28). Any decision, analysis, or recommendation that rests
+   on information you could not fully access — an email attachment you
+   couldn't open, a document never independently inspected, an unverified
+   statutory text, a conversation known only from testimony — must say so
+   **in the deliverable itself**, at the moment the conclusion is stated,
+   not only in a log or addendum. Name what's missing, what was relied on
+   instead, and how the gap could change the conclusion.
+5. This is the user's litigation. Give him the basis to decide; flag where a
    licensed NY attorney's review is genuinely warranted. Do **not** re-litigate
    settled decisions (see "Do not reopen").
 
@@ -240,7 +248,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 35 addenda as of 2026-08-27.
+**[`docs/session-log.md`](docs/session-log.md) — 36 addenda as of 2026-08-28.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum
@@ -255,4 +263,10 @@ to take the case"**).
 `update_draft` has **no `replyToMessageId`** — editing a reply draft silently
 detaches it from its thread. **Any revision to a reply must be a fresh
 `create_draft`.** There is no delete-draft tool; dead drafts must be removed by
-hand.
+hand. **Attachments** (Addendum 36): no download tool exists, but
+`get_message` with `messageFormat: "RAW"` returns full base64 MIME —
+attachments extract locally with Python's `email` module. Works at ≥545KB;
+**fails ("session expired") at 9.3MB** — for oversized emails, ask the user
+to upload the attachment. `search_threads` previews only the ~5 OLDEST
+messages of a thread — `get_thread` is mandatory before reporting "no
+response" (Addendum 33).

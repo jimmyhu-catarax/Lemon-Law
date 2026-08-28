@@ -2219,3 +2219,54 @@ scope qualifier limiting the release to claims arising from this vehicle +
 amount-only confidentiality + one higher number (~$7,000 absorbing the
 incidentals and fee) — the "small change + more cash" shape Eugene says
 works. Decision is the user's.
+
+---
+
+## Addendum 36 (2026-08-28) — New PRIME DIRECTIVE rule; attachment capability mapped; signed Exhibit F finally verified
+
+**1. New standing rule, hardcoded into CLAUDE.md PRIME DIRECTIVE ¶4 (user's
+order, 2026-08-28):** any decision, analysis, or recommendation resting on
+incomplete information (an unreadable attachment, an uninspected document, an
+unverified text, testimony-only facts) must disclose that **in the deliverable
+itself, at the point the conclusion is stated** — not only in the log. Name
+what's missing, what was relied on instead, and how the gap could change the
+conclusion.
+
+**2. Gmail attachment capability, established by test:** there is no
+attachment-download tool, but `get_message` with `messageFormat: "RAW"`
+returns the complete base64 MIME, and attachments decode locally with
+Python's `email` module. Verified working on a 32KB message and on the
+**545KB Zoho email `19ffd78085ee0b41`**; verified FAILING ("MCP server Gmail
+session expired", 3 attempts) on the user's **9.3MB email `1a04427f59b714ba`**.
+The ceiling sits somewhere between ~545KB and 9.3MB. For oversized emails:
+ask the user to upload the attachment. (The 9.3MB email's own attachment
+content was already held locally and sha-verified —
+`materials/2026-08-05-HMA-Executive-Office-receipts-attachment.pdf`,
+sha ff257b8f.)
+
+**3. Signed Exhibit F affirmation independently verified — Addendum 32's
+caveat CLOSED.** Extracted from the Zoho completion email (8/13/2026,
+Vicario, "Exhibit F - Hu Client Aff.pdf has been signed"), 2 pp, 208,147
+bytes, sha256 107fe56f…, preserved to
+`materials/Hu_v_HMA_ExF_Client_Affirmation_SIGNED_2026-08-13.pdf`.
+Checked against the Addendum 30 comments:
+- ¶1 VIN **KM8KNDDF9RU253237** — the missing "R" is FIXED ✓
+- ¶15 now reads "**At the hearing,** Hyundai did not present any evidence or
+  provide any documents." — qualifier added ✓
+- ¶8 typo fixed: "about two-hundred (200) days" (was "200 hundred") ✓
+- ¶18 now "Hyundai did not **prove** any affirmative defenses" — resolves
+  the "attempt" concern by a different (acceptable) route ✓
+- Caption reads HYUNDAI MOTOR AMERICA ✓; ¶1 lease date May 23, 2024 ✓
+- ¶7's 8,151 miles reconciles: 8,148 at drop-off (user's Q16) + 3 mi on RO
+  #358530 = 8,151 at pickup ✓
+- Zoho Sign Document ID stamped on both pages. ⚠ One per-¶4 disclosure: the
+  text layer shows the affirmation date and signature lines blank — the
+  signature/date are presumably image overlays (not text-extractable), so
+  visual confirmation of the executed signature block has not been done.
+  The email is the "document completed / digitally signed" copy, which is
+  strong but indirect evidence of execution.
+
+**Environment note:** the container was reclaimed since the packet build —
+pypdf/pikepdf/reportlab gone, `pdftotext` absent, and the system
+`cryptography` package broken (`_cffi_backend` missing — `pip install cffi`
+fixes it, then pypdf imports).

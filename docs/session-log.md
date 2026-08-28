@@ -2177,3 +2177,45 @@ Per the user's instruction, the reply to Eugene/Michael was rewritten as v2
    never received (Ex09b = duplicate of Ex06). The user was told this when
    he asked for "the second contract" — Ex06 (offer letter) + Ex09a (Aug
    2025 release, the amendment target) were delivered instead.
+
+---
+
+## SESSION ADDENDUM 35 — 2026-08-27 (Eugene's substantive reply: the $5k is A CHECK, not a repurchase; boilerplate strikes unlikely wholesale; "negotiate the cash higher")
+
+User sent the clause-specification email 8/27 16:56Z (with the 8/10 HMA
+receipts email attached), prefaced "if you were in my position, what would
+you do?" Eugene replied 20:03Z (msg `1a044d28064da183`), verbatim points:
+
+1. **Deal-structure CORRECTION:** *"The offer HMA made is not contingent
+   upon you returning the vehicle… Their offer doesn't include a formal
+   reacquisition of the vehicle. Just a check. You could conceivably buy
+   out the vehicle instead if you wanted to."* His earlier "give back the
+   car" meant only an ordinary lease return at maturity. **Consequences:**
+   the $5,388.51-vs-$5,000 variant question dissolves (it is a flat $5k
+   check); the as-is-surrender package (items 4–6) mostly dissolves — there
+   is no surrender to HMA; lease-end wear/mileage exposure is an HMF matter
+   that exists whether or not he settles.
+2. **Boilerplate:** *"they won't typically agree to wholesale changes which
+   take out substantive parts of the agreement… If there is a small change
+   sometimes we can get it done."*
+3. **Entity point:** *"HMA can't make any promise or representation on
+   behalf of Hyundai Finance… a different entity."* And accepting a vehicle
+   sight unseen *"would be legal malpractice for any lawyer to agree to."*
+4. **His advice:** *"focus on negotiating the cash amount higher and not be
+   so concerned about the release terms."* Presenting the full demand list
+   *"we will assuredly end up getting a decision from the court. Which is
+   fine! But I want to make sure you understand that strong likelihood."*
+5. **The no-release exit:** *"If the arbitrator's decision is vacated you
+   could then presumably have an arbitration hearing and get a mandated
+   decision — which requires no Release Agreement."* (Note: that is the
+   remand branch — separate retainer $6,000/$7,500, Addendum 26.)
+
+**Analysis for the user (delivered in chat):** the correction is favorable
+(pure additive cash; keep the car to 11/23); Eugene's cash-first advice is
+sound negotiation but inverts the user's revealed priority — he walked from
+$4,000 in Sept 2025 over these exact clauses, and the award records the
+refusal was "not due to the $ amount." The sellable middle: one-sentence
+scope qualifier limiting the release to claims arising from this vehicle +
+amount-only confidentiality + one higher number (~$7,000 absorbing the
+incidentals and fee) — the "small change + more cash" shape Eugene says
+works. Decision is the user's.

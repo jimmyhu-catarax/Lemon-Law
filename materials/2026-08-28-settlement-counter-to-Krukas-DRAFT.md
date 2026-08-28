@@ -1,13 +1,15 @@
-# DRAFT v1 — Counter to Eugene & Michael: small changes + higher number
+# DRAFT v2 — Counter to Eugene & Michael: two small changes + $7,500
 
-**Status:** DRAFT — for Petitioner's review. Reply on the "Hu v Hyundai"
-thread to Eugene's 8/27 20:03Z substantive reply (msg `1a044d28064da183`),
-cc Michael.
+**Status:** DRAFT v2 (supersedes v1's $7,000) — user chose **$7,500**,
+2026-08-28. Reply on the "Hu v Hyundai" thread to Eugene's 8/27 20:03Z
+substantive reply (msg `1a044d28064da183`), cc Michael.
 
-**Shape:** the "terms-first package" — Eugene's own "small change + more
-cash" formula. Drops the wholesale clause strikes and the entire
-as-is/surrender package (moot under the flat-check structure Eugene
-described 8/27). Two small term asks + one built-up number.
+**Changelog v1 → v2:** number raised to $7,500; build-up now includes the
+month-to-month extension payments (~$1,250 since May, $314/mo accruing),
+which makes $7,500 a *discount* against the documented total (~$8,300);
+scope sentence marked as the must-have, confidentiality as negotiable;
+wear/as-is package stays out entirely (HMF matter; scratches within HMF's
+published acceptable-wear standard).
 
 ---
 
@@ -15,43 +17,45 @@ described 8/27). Two small term asks + one built-up number.
 
 Hi Eugene, Mike,
 
-Thank you — that clarifies a lot, especially that the offer is a check with
-no vehicle reacquisition. That structure works for me, and I'll follow your
-advice: drop the wholesale changes, focus on the number, and keep the term
-asks small. Here's where I land:
+Thank you — that clarifies things, especially that the offer is just a
+check with no vehicle reacquisition. That structure works for me, and I'll
+take your advice: keep the term asks small and focus on the number.
 
-**Two small changes to the release** (in the "small change sometimes we can
-get it done" category, not wholesale rewrites):
+**Two small changes to the release:**
 
-1. **One sentence limiting the release's scope** — that the release covers
-   claims arising from or relating to the subject vehicle (VIN
-   KM8KNDDF9RU253237) and its lease. I'm fine releasing everything connected
-   to this car, known or unknown — I just don't want to sign a general
-   release of every conceivable claim against Hyundai under every state's
-   law. One sentence does it, and I'm not asking to strike their §1542
-   paragraph or the indemnity language anymore.
-2. **Confidentiality made mutual and limited to the settlement amount** — a
-   routine ask.
+1. **One sentence limiting the release's scope** to claims arising from or
+   relating to the subject vehicle (VIN KM8KNDDF9RU253237) and its lease.
+   I'm fine releasing everything connected to this car, known or unknown —
+   I just won't sign a general release of every conceivable claim under
+   every state's law. This is the change I need; I'm no longer asking to
+   strike their §1542 paragraph, the indemnity language, or anything else
+   wholesale.
+2. **Confidentiality made mutual and limited to the settlement amount.**
+   Preferred, but negotiable.
 
-**The number: $7,000 flat, all-in.** The build-up is theirs, not mine:
+**The number: $7,500 flat, all-in.** The build-up is mostly their own
+paperwork:
 
-- $5,000 (Ms. Rigby's revived offer), plus
-- $1,793.43 in receipted incidentals — their own January 29 letter (¶3)
-  says HMA "may reimburse, subject to proof, any related incidental
-  damages/expenses, including but not limited to reasonable repair, towing,
-  and car rental costs actually incurred." I have every receipt, and their
-  roadside program already reimbursed the $391.25 impound fee from the same
-  episode, plus
-- the $250 arbitration filing fee (NYSDRA's own letter says the consumer
-  should request this on settlement).
+- **$5,000** — Ms. Rigby's revived offer;
+- **$1,793.43** — receipted incidentals. Their January 29 letter (¶3) says
+  HMA "may reimburse, subject to proof, any related incidental
+  damages/expenses, including but not limited to reasonable repair,
+  towing, and car rental costs actually incurred." I have every receipt,
+  and their roadside program already reimbursed the $391.25 impound fee
+  from the same episode;
+- **$250** — the arbitration filing fee (NYSDRA's own letter says to
+  request this on settlement);
+- **~$1,250 and counting** — the month-to-month lease extension payments
+  ($314/month since May) I've been making to keep the vehicle while this
+  got resolved.
 
-That's $7,043.43 documented; $7,000 flat rounds it down and closes
-everything in one payment with no line-item back-and-forth.
+That totals over $8,200. $7,500 flat rounds it down — one payment,
+everything closed. It's also plainly less than outside counsel will cost
+them to oppose the petition.
 
-I understand pressing further means a court decision instead — I'm
-comfortable with that if they won't move, but I think this lands inside
-what you described as achievable. I'd like to review the final agreement
-before signing.
+I understand pushing further may mean a court decision instead — I'm
+comfortable with that if they won't move. I'd like to review the final
+agreement before signing.
 
 Thanks both.
 
@@ -62,35 +66,32 @@ jimmy.hu@gmail.com | 215-307-5492
 
 ## Handling notes (not part of the email)
 
-- **The as-is / lease-closure package (v2 items 4–6) is deliberately gone**:
-  per Eugene 8/27, there is no surrender to HMA and "HMA can't make any
-  promise or representation on behalf of Hyundai Finance." Asking would
-  reopen a structure question Eugene already closed.
-- **The scratch/dent exposure is likely $0** (updated 8/28 after reading the
-  HMF Lease-End Kit the user supplied): HMF's own published
-  acceptable-wear standard is **scratches less than 4", dings/dents less
-  than 4"**, windshield cracks <2", paint chips <1/2", tire tread ≥1/8".
-  Scratches "not noticeable at a casual glance" sit well inside it. The
-  wear buffer is therefore unnecessary — **send at $7,000**; $7,500 remains
-  available if the user wants the ~$400 disposition fee absorbed too.
-  ⚠ Disclosure: the brochure is marked "THIS IS AN ADVERTISEMENT," is a
-  2021 printing, and says final charges come from a formal inspection after
-  turn-in; the *contractual* standard is in the lease fine print (Ex01
-  pp. 5–8, image-only, still unread — "Lessor's standards for normal use"
-  per Ex15 ¶2). Mitigation: HMF offers a free, non-binding pre-termination
-  inspection — schedule it before turn-in.
-- **$5,388.51 question is moot** (flat check, no repurchase variant).
+- **Floor signaling is deliberate**: the scope sentence is marked
+  must-have, confidentiality negotiable — that tells Eugene where he can
+  give. If the user wants Eugene empowered to close in one round, he can
+  add a fallback verbally (e.g., "accept anything ≥ $X if the scope
+  sentence is granted") — user's call, not in the email.
+- **Wear/as-is is out entirely**: no surrender to HMA (flat check); HMA
+  cannot bind HMF (Eugene 8/27); and HMF's own published standard treats
+  scratches/dings < 4" as acceptable wear, so the user's minor scratches
+  are likely chargeable at $0. Free non-binding pre-termination inspection
+  available: (855) 463-5378.
+- **The $314/mo clock argues for speed** — each month unresolved adds a
+  payment; after settlement closes, return the car at the next monthly
+  boundary (Ex15 ¶2: no early-termination penalty mid-extension; call
+  (844) 363-7477 first; payments not prorated).
 - Everything through counsel; no direct contact with Rigby or HMA.
 
 ## Verification record
 
 | Assertion | Source |
 |---|---|
-| Flat check / no reacquisition / buyout possible | Eugene 8/27 20:03Z, msg `1a044d28064da183`, verbatim (Addendum 35) |
-| "small change sometimes we can get it done" | same message, verbatim |
-| HMA cannot bind Hyundai Finance | same message, verbatim |
+| Flat check / no reacquisition | Eugene 8/27 20:03Z, msg `1a044d28064da183`, verbatim (Addendum 35) |
 | Jan offer ¶3 incidentals language | Ex06 extraction, read 2026-08-26, verbatim |
 | $1,793.43 receipted / $391.25 reimbursed | Ex21 receipted subtotals; RAP Response (Req. 2026-6680) |
 | $250 refund-on-settlement | NYSDRA letter May 11, 2026 (msg `19e182a76fa1d49f`) |
-| §1542 / indemnity clause letters (j)/(h) | Ex09a extraction, read 2026-08-26 |
-| Scratch/dent estimate <$500, undisclosed to anyone | [user statement, 2026-08-28 — no document] |
+| $314/mo extension payment, due the 23rd | Ex15 ¶1, read in full 2026-08-28 (Addendum 38) |
+| "~$1,250" = 4 payments (5/23–8/23) × $314 = $1,256 | arithmetic; ⚠ Ex19 verifies payments only through 5/23/26 — payments since are user-known, not independently documented (assumed current, as Ex15 requires) |
+| Total: 5,000 + 1,793.43 + 250 + 1,256 = $8,299.43 | arithmetic |
+| Scratches/dings < 4" = acceptable wear | HMF Lease-End Kit (`materials/HMF_Lease_End_120_Day_Brochure.pdf`), read 8/28; ⚠ marked ADVERTISEMENT, non-binding, 2021 printing — contractual standard (Ex01 fine print) still unread |
+| No early-termination penalty mid-extension | Ex15 ¶2, verbatim (Addendum 38) |

@@ -2367,3 +2367,29 @@ dealer; all original equipment present (EV charging cable, both fobs);
 remove toll tag; cancel autopay after the final payment; keep insurance in
 force through return (Ex15 ¶4); cancel/transfer the NJ plates — liability
 for tickets/tolls continues until done.
+
+---
+
+## Addendum 39 (2026-08-28) — $7,500 counter FINALIZED; Gmail reply draft created, awaiting user's send
+
+User's decision: **$7,500 flat** (scratches resolved as likely-$0 per
+Addendum 38, so the number absorbs incidentals + fee + extension payments
+rather than a wear buffer). Draft v2 written
+(`materials/2026-08-28-settlement-counter-to-Krukas-DRAFT.md`) and a
+**Gmail reply draft created on the correct thread** (fresh `create_draft`
+with `replyToMessageId: 1a044d28064da183` per the Addendum 12/16 rule) —
+draft id `r-7180169248553925773`, msg `1a046b91878c4318`, thread
+`19ff739ddab106d2`, to Eugene cc Michael. **NOT SENT — the user sends.**
+
+Shape: (1) scope-limiting sentence = must-have (release limited to claims
+arising from the subject vehicle/lease; wholesale §1542/indemnity strikes
+withdrawn); (2) mutual amount-only confidentiality = negotiable;
+(3) $7,500 against a documented build-up of $8,299.43 ($5,000 + $1,793.43
+Ex06-¶3 incidentals + $250 NYSDRA fee + $1,256 extension payments);
+review-before-signing retained; court-decision fallback acknowledged.
+⚠ Disclosed in the draft's verification record: extension payments after
+5/23/26 are user-known only (Ex19 ends there); the "~$1,250" is 4 × $314
+arithmetic on the assumption he is current.
+
+Any revision to this reply = fresh `create_draft`; the dead draft must be
+deleted by hand.

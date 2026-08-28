@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **38 as of 2026-08-28** — were moved there on 2026-07-30. They hold
+> addenda — **39 as of 2026-08-28** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 33**: the
@@ -248,7 +248,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 38 addenda as of 2026-08-28.
+**[`docs/session-log.md`](docs/session-log.md) — 39 addenda as of 2026-08-28.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

@@ -2270,3 +2270,40 @@ Checked against the Addendum 30 comments:
 pypdf/pikepdf/reportlab gone, `pdftotext` absent, and the system
 `cryptography` package broken (`_cffi_backend` missing — `pip install cffi`
 fixes it, then pypdf imports).
+
+---
+
+## Addendum 37 (2026-08-28) — DECISION: terms-first counter drafted; the scratch/dent fact; lease wear standard unreadable
+
+**User's decision:** go with the terms-first package. His stated reading of
+Eugene's advice — accept boilerplate + negotiate higher (~$7,000 absorbing
+$1,793.43 + $250); ask which small changes are removable; confidentiality
+mutual and amount-only — adopted with one correction: the package does not
+"accept the boilerplate first," it asks for the two small changes and the
+number in the same counter (scope-qualifier sentence + mutual amount-only
+confidentiality + $7,000). The wholesale ¶(j)/§1542 strike and the ¶(h)
+indemnity fight are dropped.
+
+**New fact [user statement, 8/28 — no document]:** the vehicle has minor
+paint scratches and dents; user estimates **<$500** exposure at lease
+turn-in; not disclosed to anyone. Handling: by **price, not terms** — the
+as-is package is moot under the flat-check structure (Addendum 35: no
+surrender to HMA; HMA cannot bind HMF; lease-end wear is an HMF matter
+either way). Options given: send at $7,000; ask $7,500 as buffer; or buyout
+(no turn-in inspection at all). No duty to volunteer condition in a
+flat-check settlement; make no affirmative condition representation if one
+appears in the final agreement.
+
+**⚠ Disclosure (PRIME DIRECTIVE ¶4):** the lease's excess-wear-and-use
+standard is **UNREAD** — Ex01 pp. 5–8 are image-only scans (pypdf: 0 chars),
+no OCR tooling in this environment (`tesseract`/`pytesseract` absent), and
+the old `_extracted` text holds only the first-page form fields. Whether
+minor scratches/dents are even chargeable under the lease's own threshold is
+unverified; general lease-industry norms were NOT asserted as fact. To
+clear: user reads his paper lease's wear section or uploads a legible copy.
+
+**Deliverable:** `materials/2026-08-28-settlement-counter-to-Krukas-DRAFT.md`
+(v1) — two small term asks + $7,000 built up from HMA's own documents
+($5,000 + $1,793.43 via Ex06 ¶3 + $250 via NYSDRA letter = $7,043.43,
+rounded down). $5,388.51 question dropped as moot. Awaiting user review;
+the $7,000-vs-$7,500 choice is flagged in the handling notes.

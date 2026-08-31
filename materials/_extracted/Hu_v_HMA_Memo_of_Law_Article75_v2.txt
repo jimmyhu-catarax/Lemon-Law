@@ -1,0 +1,200 @@
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF NEW YORK
+
+In the Matter of the Application of
+
+JIMMY Y. HU,
+Petitioner,
+
+For a Judgment Pursuant to Article 75 of the
+Civil Practice Law and Rules Vacating an
+Arbitration Award,
+
+-against-
+
+HYUNDAI MOTOR AMERICA,
+Respondent.
+
+
+Index No. ________________
+AG Case No. NC-1-1249605441
+
+
+
+MEMORANDUM OF LAW IN SUPPORT OF
+PETITION TO VACATE ARBITRATION AWARD
+
+
+DRAFT — FOR ATTORNEY REVIEW
+
+
+
+
+
+
+Jimmy Y. Hu, M.D.
+Petitioner, pro se
+
+PRELIMINARY STATEMENT
+This proceeding arises under New York’s New Car Lemon Law, General Business Law § 198-a, and seeks vacatur of a compulsory arbitration award that denied Petitioner’s claim on a ground the record before the arbitrator affirmatively refutes.
+Petitioner leased a new 2024 Hyundai IONIQ 5 SEL AWD. The vehicle’s high-voltage battery system failed repeatedly. It required two complete high-voltage battery replacements under warranty. On a single repair order — Repair Order #358530, generated and maintained by Respondent’s own authorized dealer — the vehicle sat out of service, marked “VEH. DISABLED,” for 124 consecutive calendar days, from April 3, 2025 to August 5, 2025. Its odometer advanced three miles across that entire span. One hundred twenty-four days is 4.1 times the thirty-day threshold that General Business Law § 198-a (d) (2) fixes as a matter of law.
+The arbitrator nevertheless found that the vehicle had not been out of service for thirty days or more, and denied the claim in a single dispositive sentence:
+“Based on testimony that the vehicle is currently operating and no allegation that the use and value is impaired, the consumer has not met his burden of proof.”
+That sentence contains two independent errors, each sufficient on its own to require vacatur.
+First, the assertion that there was “no allegation that the use and value is impaired” is contradicted by the arbitrator’s own summary of Petitioner’s case, set out two paragraphs earlier on the same page of the same award. That summary recites the vehicle’s prolonged unavailability, Petitioner’s out-of-pocket transportation costs, and his being stranded when the vehicle failed to start in February 2026. A finding that a party made “no allegation” is not a credibility determination entitled to deference; it is an assertion about what the record contains. Where the award itself demonstrates that the assertion is false, the award is not “supported by adequate evidence in the record.” It is refuted by it.
+Second, the arbitrator rested her ruling on “testimony that the vehicle is currently operating.” That is not the statutory test. The Court of Appeals expressly repudiated the condition-at-hearing standard in Matter of DaimlerChrysler Corp. v Spitzer, 7 NY3d 653 (2006). And the thirty-day prong of section 198-a (d) (2) contains no “continues to exist” element whatsoever. Once a vehicle has been out of service by reason of repair for thirty days within the statutory period, the condition is satisfied. It cannot be un-satisfied by a later repair. Were the rule otherwise, a manufacturer could defeat every Lemon Law claim in the State simply by repairing the vehicle on the eve of the hearing.
+Because this arbitration was compulsory — Respondent was required to submit to it once Petitioner elected it under General Business Law § 198-a (k) — judicial review under CPLR Article 75 is broad, not the narrow review afforded consensual arbitration. The award must accord with due process, be supported by adequate evidence in the record, and be rational and not arbitrary and capricious. This award satisfies none of those requirements. It should be vacated.
+
+STATEMENT OF FACTS
+A. The Vehicle and the Lease
+On May 23, 2024, Petitioner leased a new 2024 Hyundai IONIQ 5 SEL AWD, VIN KM8KNDDF9RU253237, from Koeppel Hyundai in Long Island City, New York. The vehicle was delivered with 40 miles on the odometer. The agreed cash price was $53,360.77; the gross capitalized cost was $54,597.70; the monthly payment was $314.00; and Petitioner made a $2,953.00 capitalized cost reduction at signing. The vehicle was leased for personal use and registered in New York State. It is a “motor vehicle” and Petitioner is a “consumer” within the meaning of General Business Law § 198-a (a).
+Warranty service was performed at Hyundai of Paramus, 234 Route 4 East, Paramus, New Jersey, an authorized Hyundai dealer. Section 198-a (b) (1) obligates the manufacturer to make repairs conforming the vehicle to its express warranties “[i]f the motor vehicle does not conform to all express warranties during the first eighteen thousand miles of operation or during the period of two years following the date of original delivery.” Every event described below occurred well within both limits.
+B. The Nonconformity
+The vehicle suffered a recurring defect in its high-voltage battery system, manifesting in diagnostic trouble codes P1BAD92 and C110213. Petitioner first reported a nonconformity on February 12, 2025, at 7,026 miles, under Repair Order #356398, which also addressed Recall 272 (ICCU software). The 7,026-mile figure is significant: it is the odometer reading at the first report of the nonconformity, and it is the figure from which any statutory mileage deduction must be computed. See GBL § 198-a (c) (1).
+The defect was not cured. The vehicle ultimately required two complete high-voltage battery replacements, both performed under warranty at Respondent’s expense — an implicit but unambiguous concession that the vehicle did not conform to Respondent’s express warranty.
+C. The 124-Day Out-of-Service Period (Repair Order #358530)
+The operative fact in this proceeding is not in dispute, because it comes from Respondent’s own records. On April 3, 2025, Petitioner surrendered the vehicle to the dealer for repair under Repair Order #358530. That order bears the notation “VEH. DISABLED.” The repair invoice closed on August 5, 2025. Petitioner recovered the vehicle on August 7, 2025. Across the entire period the odometer advanced three miles — conclusive proof that the vehicle was not driven, not available, and not in Petitioner’s possession.
+Measure
+Days
+Source / Basis
+April 3, 2025 → August 5, 2025 (invoice closed)
+124
+RO #358530 — Respondent’s own record; “VEH. DISABLED”
+April 3, 2025 → August 7, 2025 (vehicle recovered)
+126
+RO #358530 + delivery date
+February 12, 2025 → August 7, 2025 (from first report)
+176
+RO #356398 + RO #358530
+Statutory threshold, GBL § 198-a (d) (2)
+30
+Statute
+
+Petitioner’s records reflect additional out-of-service periods across four separate repair episodes totaling approximately 198 to 201 days. Petitioner does not rely on that larger figure here, and the Court need not reach it. The 124-day period standing alone — documented entirely by Respondent’s own repair order — exceeds the statutory threshold by more than four times and independently establishes the presumption under section 198-a (d) (2).
+D. The February 2026 Recurrence
+On February 18, 2026, at approximately 8,662 miles, the vehicle again failed to start, stranding Petitioner — a practicing physician who relies on the vehicle to reach patients across multiple clinical sites. The technician’s own notation records that the vehicle was “too dead to complete” diagnostic testing. The high-voltage battery was replaced a second time. This event is established by date, odometer reading, and the technician’s contemporaneous note; none of those facts is disputed.
+E. Respondent’s Settlement Offers and Their Trajectory
+Respondent’s conduct outside the hearing room bears directly on the rationality of a finding that this vehicle never suffered a qualifying nonconformity.
+Date
+Offer
+Terms and Defects
+Aug. 18, 2025
+$7,977.00 repurchase
+Mileage deduction expressly waived. Sent to an incorrect e-mail address.
+Jan. 29, 2026
+$5,388.51 restitution
+Mileage deduction of $4,326.49 computed on an 8,148-mile basis. The correct first-report basis is 7,026 miles (RO #356398), yielding $3,727.78 — an overstatement of $598.71.
+~Apr. 2026
+Repurchase rescinded; $2,500 counter
+Offer withdrawn entirely and replaced with a nominal sum.
+
+Each written offer was conditioned on execution of a notarized release containing a broad unknown-claims waiver (invoking California Civil Code § 1542), a confidentiality clause, an indemnity provision, and a California choice-of-law clause — in a New York transaction, governed by a New York statute, arbitrated under a program administered by the New York Attorney General.
+The arithmetic of the January 2026 offer is independently verifiable and independently wrong. Applying the statutory formula to the cash price of $53,360.77:
+$53,360.77 × (8,148 − 40) ÷ 100,000 = $4,326.49 $53,360.77 × (7,026 − 40) ÷ 100,000 = $3,727.78 Overstatement: $598.71
+Petitioner also incurred documented incidental expenses of $1,793.43 (rental, rideshare, transit, and towing, net of reimbursement), recoverable under section 198-a (c) (1).
+F. The Arbitration and the Award
+Petitioner elected arbitration under General Business Law § 198-a (k) and 13 NYCRR Part 300. The matter was administered by the New York State Dispute Resolution Association on behalf of the Attorney General and assigned to the New York Peace Institute Community Dispute Resolution Center. Arbitrator Maneesha Sharma issued the award on June 11, 2026, denying Petitioner’s claim in its entirety. The award was transmitted to Petitioner by e-mail that day at 2:24 p.m. Eastern. This proceeding is timely commenced within ninety days of delivery of the award. See CPLR 7511 (a).
+Four issues were placed in dispute on page 1 of the award. On page 3, the arbitrator found against Petitioner on each: that the vehicle had not been subject to four or more repair attempts; that it had not been out of service by reason of repair for thirty days or more; that the problem did not continue to exist after the fourth attempt; and that the problem did not substantially impair the vehicle’s value.
+In the narrative portion of the award, the arbitrator credited Respondent’s explanation that the vehicle “needed back order parts which is a challenge in whole industry” and that a “loaner [was] provided no charge.” She observed that there is “no guarantee by any manufacturer of a defect free car” and concluded, without analysis, that “[t]he manufacturer’s argument is compelling.”
+The award also recites that Petitioner declined Respondent’s buyback offers “not due to the $ amount but was concerned about a clause related to the state of CA that he did not think applied,” and that Petitioner extended his lease “as he can have it available for inspection if needed.”
+The award misidentifies the vehicle as a “new 2024 WAGON ION,” misidentifies the selling dealer as “Hyundai Brooklyn” (the vehicle was leased from Koeppel Hyundai in Long Island City), and mistypes the controlling repair order as “RO 258530” rather than #358530.
+
+ARGUMENT
+POINT I
+BECAUSE LEMON LAW ARBITRATION IS COMPULSORY, JUDICIAL REVIEW UNDER ARTICLE 75 IS BROAD
+General Business Law § 198-a (k) permits the consumer to elect arbitration and compels the manufacturer to submit to it. The proceeding is therefore compulsory, and that characterization controls the scope of this Court’s review.
+In Motor Veh. Mfrs. Assn. of U.S. v State of New York, 75 NY2d 175 (1990), the Court of Appeals upheld the constitutionality of section 198-a (k) precisely because the expanded judicial review available in compulsory arbitration safeguards the statutory scheme. The Court held:
+“Inasmuch as compulsory arbitration is involved, judicial review under CPLR article 75 is broad, requiring that the award be in accord with due process and supported by adequate evidence in the record.”Motor Veh. Mfrs. Assn., 75 NY2d at 186 (citing Caso v Coffey, 41 NY2d 153, 156 [1976], and Mount St. Mary’s Hosp. v Catherwood, 26 NY2d 493 [1970]).
+The Court emphasized that Lemon Law arbitrators, “unlike others, are not given broad powers to interpret substantive case law when rendering a decision.” Rather, they “are required to follow a specific procedure outlined in the statute and regulations to resolve fact-specific disputes and grant one of only two types of specific relief.” Id. The Legislature “ensur[ed] that its mandate be followed by providing for the expanded judicial review available in compulsory arbitration.” Id. at 185.
+The Appellate Division has distilled the standard into three requirements. “[T]he standard of review of a Lemon Law arbitration award is whether it accords with due process, is supported by adequate record evidence, and is rational and not arbitrary and capricious.” Matter of General Motors Corp. [Gurau], 33 AD3d 1149, 1151 (3d Dept 2006); accord Matter of General Motors Corp. [Sheikh], 2007 NY Slip Op 05186 (3d Dept 2007). Failure of any one requirement compels vacatur.
+The First Department — the department in which this proceeding lies — has applied that standard to vacate Lemon Law awards. In Matter of BMW of N. Am., LLC v Leonidou, 2020 NY Slip Op 02858 (1st Dept 2020), the Court reversed the denial of a petition to vacate and held:
+“In a compulsory arbitration proceeding, an arbitrator must abide by the statutory standards, or an award will be vacated for exceeding the legislative grant of authority.”
+The Court vacated the award there because it “lack[ed] a rational basis, as it is not supported by adequate evidence in the record.” Id. (citing Matter of BMW of N. Am., LLC v Riina, 149 AD3d 420 [1st Dept 2017]). Petitioner acknowledges that Leonidou and Riina were brought by manufacturers seeking to vacate awards in favor of consumers. That is immaterial: the standard is symmetrical, and the facts here run in the opposite direction. In Leonidou the record contained no evidence supporting the award. Here the record contains Respondent’s own repair order establishing 124 days out of service — and the award finds the opposite.
+This is not the “manifest disregard” standard applicable to voluntary arbitration, under which courts defer to an arbitrator’s errors of law and fact. In compulsory arbitration, “judicial review … must be premised on adequate evidence in the record.” Mount St. Mary’s Hosp., 26 NY2d at 508. Vacatur is authorized under CPLR 7511 (b) (1) (iii), which reaches an award in which “an arbitrator … exceeded his power.” An arbitrator who departs from the statutory standards of section 198-a exceeds the legislative grant of authority and thereby exceeds her power.
+POINT II
+THE AWARD’S DISPOSITIVE FINDING IS REFUTED BY THE ARBITRATOR’S OWN SUMMARY OF THE RECORD
+The award denies relief on a single stated ground:
+“Based on testimony that the vehicle is currently operating and no allegation that the use and value is impaired, the consumer has not met his burden of proof.”
+Two paragraphs earlier, on the same page of the same document, the arbitrator summarized Petitioner’s presentation. That summary recites the vehicle’s extended unavailability, Petitioner’s out-of-pocket transportation expenditures, his being stranded when the vehicle failed to start in February 2026, and his profession as a physician dependent on reliable transportation to reach patients.
+The award thus asserts that Petitioner made “no allegation” of impairment of use and value while simultaneously reciting the allegations of impairment of use and value. Both propositions cannot be true. The award refutes itself within its own four corners.
+The distinction matters. Had the arbitrator written that she disbelieved Petitioner, or that she weighed his evidence and found it insufficient, that would be a credibility determination or an evidentiary assessment, and this Court would owe it substantial deference. But that is not what she wrote. She wrote that the allegation was never made. That is a statement about the contents of the record, not about their weight. It is objectively verifiable, and the award itself establishes that it is wrong.
+An award premised on a demonstrably false characterization of the record is not “supported by adequate evidence in the record.” Motor Veh. Mfrs. Assn., 75 NY2d at 186. It is arbitrary within the meaning of Gurau, 33 AD3d at 1151, and it “lacks a rational basis” within the meaning of Leonidou, 2020 NY Slip Op 02858. No external evidence is required to demonstrate the defect; the award proves it standing alone.
+Nor can the error be dismissed as harmless. This sentence is the sole stated basis for the denial. Strike it and nothing supports the award.
+POINT III
+THE AWARD APPLIES A CONDITION-AT-HEARING STANDARD THAT THE COURT OF APPEALS HAS REPUDIATED
+The arbitrator’s reasoning turns on “testimony that the vehicle is currently operating.” That is not, and has never been, the test under General Business Law § 198-a.
+In Matter of DaimlerChrysler Corp. v Spitzer, 7 NY3d 653 (2006), the Court of Appeals confronted precisely this question and rejected the manufacturer’s position. The “continues to exist” language in the statute is confined to the four-repair-attempt prong of section 198-a (d) (1), and asks only whether the problem persists after the fourth attempt — not whether it persists to the date of the hearing. Id. at 658. There is no free-standing requirement that a nonconformity remain manifest when the arbitrator happens to convene.
+The point is dispositive here for a reason more fundamental still. Petitioner’s claim rests on the thirty-day prong, section 198-a (d) (2), which provides a presumption where:
+“the vehicle is out of service by reason of repair for a cumulative total of thirty or more calendar days during either period [the first two years or eighteen thousand miles].”GBL § 198-a (d) (2).
+That subdivision contains no “continues to exist” element. None. The statutory trigger is historical: the vehicle either was, or was not, out of service for thirty days during the covered period. Once the thirtieth day passes, the presumption attaches. Nothing in the text permits it to detach because the manufacturer later effects a repair.
+The consequences of the contrary rule are intolerable and illustrate why it cannot be law. If a vehicle’s operability on the hearing date defeated a thirty-day claim, then every manufacturer could defeat every such claim by the simple expedient of repairing the vehicle before the hearing. The thirty-day prong would be a dead letter. A consumer whose vehicle sat disabled for four months would have no remedy so long as it started on the morning of the arbitration. The Legislature did not enact a statute that self-destructs on contact with a competent service department.
+The arbitrator applied the standard DaimlerChrysler forecloses. In doing so she “fail[ed] to abide by the statutory standards” and “exceed[ed] the legislative grant of authority.” Leonidou, 2020 NY Slip Op 02858; see CPLR 7511 (b) (1) (iii).
+POINT IV
+THE STATUTORY PRONGS ARE DISJUNCTIVE, AND THE THIRTY-DAY PRONG WAS ESTABLISHED BY RESPONDENT’S OWN RECORDS
+Section 198-a (d) establishes a presumption that a reasonable number of repair attempts has been undertaken if, within the first two years or eighteen thousand miles:
+“(1) the same nonconformity, defect or condition has been subject to repair four or more times … or (2) the vehicle is out of service by reason of repair for a cumulative total of thirty or more calendar days …”
+The disjunctive “or” is not decorative. The prongs are independent alternatives. A consumer who satisfies either is entitled to the presumption. A consumer need not satisfy both, and a finding against the consumer on one has no bearing on the other.
+This matters because the award’s Finding No. 2 — that the vehicle was not subject to four or more repair attempts — does not dispose of Petitioner’s claim. Petitioner’s claim rests on the thirty-day prong. The only finding that could reach it is the finding that the vehicle was not out of service for thirty days or more.
+That finding has no rational basis. Repair Order #358530 — Respondent’s own document, prepared by Respondent’s own authorized dealer, in Respondent’s own ordinary course of business — establishes:
+• Vehicle surrendered for repair: April 3, 2025;
+• Notation on the face of the order: “VEH. DISABLED”;
+• Repair invoice closed: August 5, 2025;
+• Odometer advance across the entire period: three miles.
+April 3 to August 5 is 124 calendar days. The statutory threshold is thirty. The margin is not close; it is 4.1 times the requirement. Adding the two days until Petitioner actually recovered the vehicle on August 7 yields 126 days. Measured from the first report of the nonconformity on February 12, 2025, the vehicle was unavailable for 176 days.
+No evidence in the record contradicts any of this, because the evidence is Respondent’s. Respondent generated the repair order. Respondent wrote “VEH. DISABLED.” Respondent closed the invoice on August 5. An arbitrator is not free to find that a vehicle was not out of service for thirty days when the manufacturer’s own paperwork says it was out of service for 124. That finding is unsupported by any record evidence, let alone “adequate” evidence. Motor Veh. Mfrs. Assn., 75 NY2d at 186.
+POINT V
+A PARTS BACKORDER IS NOT A STATUTORY EXCUSE, AND A LOANER DOES NOT TOLL THE THIRTY-DAY COUNT
+The arbitrator credited Respondent’s explanation that the vehicle “needed back order parts which is a challenge in whole industry” and that a “loaner [was] provided no charge.” Neither is a defense the Legislature made available.
+Section 198-a (e) specifies — exhaustively — the circumstances that extend the thirty-day period:
+“The term of an express warranty … and the thirty day out of service period shall be extended by any time during which repair services are not available to the consumer because of a war, invasion, strike or fire, flood or other natural disaster.”GBL § 198-a (e).
+War. Invasion. Strike. Fire. Flood. Natural disaster. A supply-chain backorder is none of these. The maxim expressio unius est exclusio alterius applies with full force: the Legislature enumerated the excuses it would accept, and a parts shortage — however genuine, however industry-wide — is not among them. That allocation of risk is deliberate. The Legislature placed the risk of parts unavailability on the manufacturer, which controls its own supply chain, rather than on the consumer, who does not.
+The loaner vehicle is likewise beside the point. The statute counts days the vehicle is out of service by reason of repair. It does not count days the consumer is without any transportation. Had the Legislature intended a loaner to toll the period it would have said so; it said the opposite by enumerating the exclusive extensions in subdivision (e). A consumer who leases a specific vehicle, and pays $314 per month for that vehicle, does not receive the benefit of his bargain because a dealer hands him the keys to something else for four months.
+The arbitrator’s further observation that there is “no guarantee by any manufacturer of a defect free car” is true, irrelevant, and revealing. The Lemon Law does not require a defect-free car. It requires that when a nonconformity arises within the covered period, the manufacturer conform the vehicle to its warranty within a reasonable number of attempts or a reasonable time — and it fixes thirty days as the outer bound of reasonableness for out-of-service time. By substituting a general observation about the automobile industry for the statutory test, the arbitrator decided a case the Legislature did not present to her.
+POINT VI
+THE AWARD’S MATERIAL MISSTATEMENTS OF THE RECORD CONFIRM THE ABSENCE OF REASONED DECISION-MAKING
+Petitioner does not seek vacatur because the award contains typographical errors. He identifies them because, in the aggregate, they bear on whether the arbitrator engaged with the record she was charged with deciding.
+The award states
+The record establishes
+“new 2024 WAGON ION”
+2024 Hyundai IONIQ 5 SEL AWD, VIN KM8KNDDF9RU253237
+“Hyundai Brooklyn”
+Koeppel Hyundai, Long Island City, New York
+“RO 258530”
+Repair Order #358530 — the controlling 124-day order
+“no allegation that the use and value is impaired”
+The award’s own consumer summary, two paragraphs earlier, recites the allegations of impairment
+
+The award also conflates two distinct repair episodes, attributing to the February 2026 no-start a repair order number that Petitioner’s records associate with a separate August 2025 visit at which no work was performed. The arbitrator thus assigned an incorrect repair order and mileage to the incident that produced the second high-voltage battery replacement.
+Set against this, the award’s entire analysis of Respondent’s position consists of five words: “The manufacturer’s argument is compelling.” No reasoning is offered. No evidence is cited. No statutory provision is applied. A conclusion is announced.
+Due process in a compulsory arbitration requires more. See Motor Veh. Mfrs. Assn., 75 NY2d at 186. Where an award misidentifies the vehicle, misidentifies the selling dealer, mistypes the controlling repair order, conflates two repair episodes, denies that allegations were made which the award itself recites, and disposes of the merits in five conclusory words, the cumulative record does not reflect the “specific procedure outlined in the statute and regulations” that the Court of Appeals identified as the safeguard justifying compulsory arbitration. Id.
+POINT VII
+PETITIONER’S REFUSAL OF CONDITIONED SETTLEMENT OFFERS IS NOT EVIDENCE THAT THE VEHICLE CONFORMED
+The award records that Petitioner declined Respondent’s offers “not due to the $ amount but was concerned about a clause related to the state of CA that he did not think applied.” That is the arbitrator’s own finding, in her own words, and it is fatal to any suggestion that Petitioner was holding out for money.
+The concern was well founded. Each written offer conditioned payment on a notarized release containing a broad unknown-claims waiver invoking California Civil Code § 1542, a confidentiality clause, an indemnity provision, and a California choice-of-law clause. This is a New York lease, of a New York-registered vehicle, by a New York consumer, under a New York statute, in an arbitration administered by the New York Attorney General. A consumer does not forfeit his statutory rights by declining to sign away unknown claims under the law of a State with no connection to the transaction. Section 198-a (n) renders void any waiver of a consumer’s rights under the section, and a release conditioned on foreign law and unknown-claims waivers implicates precisely that prohibition.
+More fundamentally: a refusal to settle is not evidence of conformity. Whether Petitioner should have accepted $5,388.51 in January 2026 has no logical bearing on whether the vehicle sat disabled for 124 days in 2025. The two questions are unrelated.
+If the offers bear on anything, they bear against Respondent. In August 2025 Respondent offered a full repurchase of $7,977.00 and expressly waived the mileage deduction — a concession no manufacturer makes for a conforming vehicle. In January 2026 it reduced the figure to $5,388.51 and computed the deduction on the wrong mileage basis, overstating it by $598.71. By April 2026 it had rescinded the repurchase entirely and countered with $2,500. A party that offers to buy a vehicle back, then withdraws the offer as the hearing approaches, does not credibly maintain that the vehicle never failed to conform.
+Finally, the award forecloses any mootness argument. It records that Petitioner extended his lease “as he can have it available for inspection if needed.” Petitioner remains the lessee. The vehicle remains available. Relief remains capable of being granted.
+POINT VIII
+PETITIONER IS ENTITLED TO RELIEF AND TO ATTORNEY’S FEES
+Upon vacatur, CPLR 7511 (d) permits this Court to remit for rehearing before a new arbitrator. Petitioner respectfully submits that remittal to a different arbitrator is warranted, given the nature and number of the misstatements identified above.
+On the merits, section 198-a (c) (1) directs that where the manufacturer fails to conform the vehicle after a reasonable number of attempts, it shall, at the consumer’s option, replace the vehicle or accept its return and refund the full purchase price. For a leased vehicle, the refund runs to the lessee and comprises all sums paid — capitalized cost reduction, monthly payments, fees, and charges — together with incidental costs, less only the statutory mileage allowance.
+Any mileage deduction must be computed from 7,026 miles — the odometer reading on February 12, 2025, when the nonconformity was first reported under RO #356398 — not from the 8,148-mile figure Respondent used. On the cash price of $53,360.77, the correct deduction is $3,727.78, and in all events the statutory cap of ten percent ($5,336.08) applies. Petitioner is additionally entitled to documented incidental expenses of $1,793.43.
+Section 198-a (l) provides that a court may award reasonable attorney’s fees to a prevailing consumer or to a consumer who prevails in a proceeding to vacate or modify an arbitration award. Petitioner is presently self-represented and accordingly seeks no fees for his own time; he reserves the right to seek fees under section 198-a (l) should he retain counsel in this proceeding.
+
+CONCLUSION
+This award denies a Lemon Law claim on the ground that the consumer never alleged impairment of use and value, in a document that recites his allegations of impairment of use and value. It finds that a vehicle was not out of service for thirty days, when the manufacturer’s own repair order marks it “VEH. DISABLED” for 124. It rests on the vehicle’s operability at the hearing, a standard the Court of Appeals rejected in DaimlerChrysler. And it excuses a four-month repair on the basis of a parts backorder that appears nowhere in the exclusive list of statutory extensions.
+An award may be wrong and still stand, where review is narrow. This review is not narrow. Because the arbitration was compulsory, the award must be supported by adequate evidence in the record and must be rational. Motor Veh. Mfrs. Assn., 75 NY2d at 186; Gurau, 33 AD3d at 1151. It is neither.
+For the foregoing reasons, Petitioner respectfully requests that the Court vacate the arbitration award dated June 11, 2026 pursuant to CPLR 7511 (b) (1) (iii); remit the matter for rehearing before a different arbitrator or, in the alternative, grant such relief on the merits as the record permits; and grant such other and further relief as the Court deems just and proper.
+
+
+Dated: New York, New York
+ ____________________, 2026
+
+
+Respectfully submitted,
+
+
+
+_______________________________
+Jimmy Y. Hu, M.D.
+Petitioner, pro se

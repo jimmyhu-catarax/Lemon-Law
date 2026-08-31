@@ -1,0 +1,177 @@
+SUPPLEMENTAL EXHIBIT — Hu v. Hyundai Motor America | AG Case No. NC-1-1249605441
+
+
+
+
+                 SUPPLEMENTAL EXHIBIT — INCIDENT
+                   NARRATIVE & EXPENSE PACKET
+                              Hu v. Hyundai Motor America
+              NY New Car Lemon Law Arbitration | AG Case No. NC-1-1249605441
+
+
+
+
+ Claimant                        Dr. Jimmy Y. Hu, MD (Self-Represented)
+
+ Respondent                      Hyundai Motor America (HMA)
+
+ Vehicle (VIN)                   2024 Hyundai IONIQ 5 SEL AWD — KM8KNDDF9RU253237
+
+ Incident Period                 January 6 – February 20, 2026
+
+ Hearing Date                    June 9, 2026 — 10:00 AM via Zoom
+
+ Arbitrator                      Maneesha Sharma
+
+ HMA Case No.                    42053079
+
+ Total Expenses Claimed          $1,793.43 (see Exhibit 17 — Itemized Ledger)
+
+
+
+
+SECTION I — INCIDENT NARRATIVE (January 6 – February 20,
+2026)
+
+
+Purpose
+This supplemental exhibit provides a complete factual record of the incidental damages sustained by
+Claimant Dr. Jimmy Y. Hu, MD, as a direct and proximate result of (a) a manufacturing defect in the
+high-voltage battery system of his 2024 Hyundai IONIQ 5 SEL AWD (VIN: KM8KNDDF9RU253237),
+and (b) failures by Hyundai Roadside Assistance that materially compounded those damages, during
+the period of January 6 through February 20, 2026. The complete itemization of all expenses described
+below appears in Exhibit 17 (Itemized Incidental Expense Ledger), and the supporting receipts are
+compiled in Exhibit 21 (Expense Receipt Packet). The total claimed is $1,989.25.
+
+Chronological Incident Log
+January 5, 2026
+Vehicle driven without incident. Battery and EV systems appeared fully functional.
+January 6, 2026 — First Battery Failure
+On the morning of January 6, 2026, the high-voltage battery was completely dead. The vehicle would
+not start, and it would not accept a charge when plugged into an EV charging port. Claimant attempted
+both starting and charging the vehicle without success; contemporaneous video recordings of these
+SUPPLEMENTAL EXHIBIT — Hu v. Hyundai Motor America | AG Case No. NC-1-1249605441
+
+failed attempts exist and are available for the arbitrator's review. Claimant was forced to take a cab to
+and from his ophthalmology practice in Clifton, NJ. Hyundai Roadside Assistance responded and
+reportedly was able to jump-start the vehicle.
+January 7, 2026 — Second Failure & Tow to Paramus Hyundai
+The following morning, January 7, 2026, the vehicle was again completely dead. Claimant contacted
+Hyundai Roadside Assistance, and the vehicle was towed to the Hyundai Paramus Service Center. An
+EV technician examined the vehicle and raised the concern that the failure could be due either to a
+manufacturing defect or to the pre-existing damage on the right headlamp assembly. Claimant
+regarded the headlamp theory as unlikely: that damage had been present since December 22, 2024,
+and was never flagged as mechanically relevant when Hyundai returned the vehicle to Claimant on
+August 7, 2025 after its prior 126-day battery-defect repair. The Hyundai Paramus Service Center
+wanted Claimant to front the cost of diagnostic testing.
+January 2026 — Headlamp Blame Amid Declining Settlement Pressure
+While the Paramus dealership advanced the headlamp theory and sought to have Claimant front the
+cost of diagnostic testing, Hyundai Motor America was simultaneously asserting that the failure was a
+headlamp issue rather than a warranty-covered manufacturing defect — while also pressing Claimant
+to accept a declining Lemon Law settlement offer. The juxtaposition of these two postures —
+disclaiming the warranty defect on one hand while pushing a declining settlement on the other — is
+itself probative of the Respondent's posture toward this claim.
+January 8–23, 2026 — Mounting Loss-of-Use Costs
+While the vehicle sat at the Paramus Hyundai Service Center and Claimant weighed the diagnostic-fee
+request, he had no functional vehicle and continued incurring out-of-pocket transportation costs. He
+rented a Hyundai Kona from National Car Rental (Jan 8–16, $412.57), then a vehicle from Avis (Jan
+20–23, $192.09), supplemented by Lyft rides and public transit.
+January 22, 2026 — Headlamp Replaced at Mizzoni's Auto Body (Self-Pay)
+Claimant elected to replace the right headlamp assembly at Mizzoni's Auto Body, authorizing a "Self-
+Pay" repair to bypass insurance and warranty delays. This also had the effect of eliminating the only
+alternative explanation Hyundai had offered: with the headlamp now addressed, any subsequent failure
+would necessarily point to the battery defect. The vehicle was stored in an indoor garage for
+approximately two weeks following the repair.
+February 9, 2026 — The Headlamp Theory Collapses at the KFC Lot
+On February 9, 2026, Claimant retrieved the vehicle from Mizzoni's Auto Body with the headlamp repair
+confirmed complete. He drove the vehicle approximately 20 minutes; the high-voltage battery displayed
+35–40% state of charge with roughly 130 miles of estimated range. At approximately 12:45 PM,
+Claimant parked at 780 Main Avenue, Passaic, NJ (a lot across from a KFC). At approximately 1:00 PM
+— fifteen minutes later — the vehicle was completely dead: no start, no hazard lights, and doors that
+would not lock. This was the factual checkmate: with the headlamp now fully replaced, the battery failed
+again, conclusively demonstrating that the headlamp had never been the cause. Hyundai Roadside
+Assistance was contacted (Reference Case #76530936).
+February 9–12, 2026 — Roadside Dispatch Failures & Unauthorized Impound
+Claimant contacted Hyundai Roadside Assistance at approximately 1:00 PM to request a tow
+(Reference Cases #765-30936 and #765-31242). Because the vehicle was immobilized, Claimant
+walked roughly 30 minutes back to the office to attend to patients. By 6:00 PM no tow truck had arrived;
+Claimant called Roadside Assistance for a status update, and called again while traveling home that
+evening. Roadside Assistance stated that it had attempted to reach Claimant but had the wrong
+callback number on file, and that it required either the key to be left with the vehicle or a person present
+to supervise the tow. As Claimant was at a work event and unable to return, he arranged for Nancy, the
+KFC store manager at 780 Main Avenue, to supervise the tow on site. When the AAA driver dispatched
+by Hyundai arrived that night, he witnessed the vehicle being actively towed away by a different,
+SUPPLEMENTAL EXHIBIT — Hu v. Hyundai Motor America | AG Case No. NC-1-1249605441
+
+unauthorized tow truck. Claimant reported the unauthorized tow to Hyundai Roadside Assistance, and
+the vehicle was filed as "missing."
+On February 10 and 11, Claimant searched local impound lots to locate the vehicle. At approximately
+4:00 PM on February 11 (Reference Case #765-325-70), he located it at Raineri's Towing, confirmed
+impounded, with release fees quoted at approximately $391 plus potential additional charges. Because
+the lot closed at 5:00 PM, an immediate release was impossible, and Roadside Assistance instructed
+Claimant to call back the following morning to arrange the tow.
+On February 12 (Reference Cases #765-329-99 and #765-331-94), Claimant went in person to
+Raineri's Towing at 179 Main Avenue, paid in excess of $400 in release fees, and handed the key to
+the clerk, Ms. Sandra Elliott, who confirmed she would give it to the lot's internal driver and have staff
+supervise the Hyundai pickup. Three successive Hyundai-dispatched tow attempts then failed: (1) the
+first AAA driver was sent to the office address rather than the service-station address where the vehicle
+was held, reacted with verbal hostility, and hung up; (2) Roadside Assistance failed to pass Ms. Elliott's
+coordinating phone number to the next driver, Caesar, who arrived to find no one present, had no
+number to call, and left — after which the ticket was closed; and (3) a third driver, requested at 4:00
+PM, did not arrive until 5:40 PM, after the lot had already closed at 5:00 PM. Each of these failures is
+directly attributable to Hyundai Roadside Assistance and compounded Claimant's loss of use and
+impound exposure.
+February 10–20, 2026 — Second National Rental
+To maintain access to his surgical practice while the vehicle was held, Claimant rented a Chevrolet
+Trax from National Car Rental (Feb 10–20, $608.40), held through the date the vehicle was returned.
+February 13, 2026 — Vehicle Arrives at Paramus Hyundai; $540 Diagnostic Fee Requested
+On the morning of February 13 (Reference Case #765-33-647), Hyundai Roadside Assistance finally
+dispatched a successful tow; the vehicle was recovered from the impound lot and transported to the
+Hyundai Paramus Service Center. The dealership requested a $540 diagnostic fee as a precondition to
+inspecting the vehicle.
+February 18, 2026 (Approx.) — Diagnostic Agreement Executed
+Claimant executed the Hyundai Service Diagnostic Agreement for the $540 fee. Paramus Hyundai
+service staff verbally stated that the fee would be waived if the defect proved to be an issue covered
+under the manufacturer warranty.
+February 19, 2026 — Warranty Defect Confirmed
+Paramus Hyundai completed diagnostics and officially confirmed that the root cause is a defect covered
+under the manufacturer warranty, and authorized replacement of the high-voltage battery. Because the
+defect was warranty-covered, the $540 diagnostic fee was waived per the parties' verbal agreement.
+This is the same core battery/EV system defect that caused the vehicle's original 126-day loss-of-use
+period beginning April 3, 2025.
+February 20, 2026 — Vehicle Returned
+Vehicle was returned to Claimant on February 20, 2026. Claimant used a final Lyft ride ($83.92) from
+the rental return point to Paramus Hyundai to retrieve the vehicle.
+
+
+
+
+ Video                 Contemporaneous Video Evidence (available on request)
+          1.           Phone video(s), Jan 6–7, 2026 — failed attempts to start and charge the vehicle (no-start / no-
+                       charge condition). Available for playback at hearing.
+SUPPLEMENTAL EXHIBIT — Hu v. Hyundai Motor America | AG Case No. NC-1-1249605441
+SUPPLEMENTAL EXHIBIT — Hu v. Hyundai Motor America | AG Case No. NC-1-1249605441
+
+
+SECTION II — CLAIMANT CERTIFICATION
+
+
+I, Dr. Jimmy Y. Hu, MD, hereby certify under penalty of perjury that the foregoing information is true and
+correct to the best of my knowledge, information, and belief. All expenses documented in this exhibit
+and in Exhibit 17 were actually incurred and are directly and proximately attributable to the loss of use
+of my 2024 Hyundai IONIQ 5 SEL AWD (VIN: KM8KNDDF9RU253237) during the period January 6
+through February 20, 2026, as a result of the warranty-covered manufacturing defect in the high-
+voltage battery system and the compounding failures of Hyundai Roadside Assistance.
+
+
+Signature: _______________________________________________
+
+Printed Name: Dr. Jimmy Y. Hu, MD — Consumer (Self-Represented)
+Date: June 2_____, 2026
+
+
+
+
+                  Submitted in support of Hu v. Hyundai Motor America, AG Case No. NC-1-1249605441
+           NY Peace Institute CDRC (NYSDRA Program) | Arbitrator: Maneesha Sharma | Hearing: June 9, 2026
+

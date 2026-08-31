@@ -2393,3 +2393,62 @@ arithmetic on the assumption he is current.
 
 Any revision to this reply = fresh `create_draft`; the dead draft must be
 deleted by hand.
+
+---
+
+## Addendum 40 (2026-08-31) — SETTLEMENT AT $7,500 AGREED; proposed Release reviewed: all three asks GRANTED; two confirmations gate the signature
+
+**The events (thread `19ff739ddab106d2`, full get_thread 8/31):** user sent
+his adapted counter 8/28 05:07Z (`1a046c3cc07d375d`). Eugene 05:32Z: Mike
+away; moving fast before HMA engages outside counsel; the release already
+scopes to the Subject Vehicle; proposed presenting **$7,500 non-negotiable
++ the two changes**. User approved 16:48Z. Eugene 21:56Z: **"Hyundai agreed
+to the $7,500"**; HMA's counsel made confidentiality mutual. Eugene 8/31
+14:00Z (`1a0581eed74fbfc6`): proposed Release + firm's Client Authorization
+Form attached; sign both, **notarize the Release**, return; he signs and
+forwards; check payable jointly to firm+client, processed through escrow,
+**"remit the full $7,500 proceeds to you since you have already paid the
+attorney fee"** (→ the $3,000 invoice is PAID — user-fact via counsel).
+
+**Documents preserved:**
+`materials/Hu_Release_Agreement_2026-08-31_PROPOSED.pdf` (sha 1518923a);
+`materials/Hu_Client_Authorization_Form_2026-08-31.pdf` (sha 8f2c7aa9).
+
+**Release review — GRANTED:** ¶1 defines Subject Vehicle by the correct
+VIN and ends **"Claims unrelated to the Subject Vehicle are not subject to
+this Agreement"** (Eugene's sentence, verbatim); ¶3(b) §1542 waiver
+survives but only "with regard to the released Claims" — scoped; ¶3(i)
+confidentiality is **mutual** (Releasor, Releasor's attorneys, and
+Releasee) and limited to **"financial terms"** with court/spouse/tax/
+attorney carve-outs — the story stays tellable; ¶2(a) **$7,500** to
+Releasor and Eugene Krukas PLLC; no vehicle-condition representation, no
+surrender obligation (flat check confirmed). ¶3(h) indemnity present as
+expected (objection withdrawn; bounded by released-Claims scope).
+
+**Review — TWO GATES before signing (drafted as reply
+`r6437242518738397650`, msg `1a05856b8de15fec` — NOT SENT):**
+1. **¶3(j) names "New York Supreme, County of Nassau, Docket No.
+   654750/2026."** The signed affirmation (verified, Addendum 36) is
+   captioned COUNTY OF NEW YORK, and CLAUDE.md venue is New York County.
+   Framed as halt-and-confirm, not asserted error — filing county could
+   have changed; NYSCEF unreachable (egress 403). If wrong, fix before
+   signing: ¶3(j) directs dismissal of the named action.
+2. **No payment deadline anywhere; ¶3(j) dismissal "forthwith" on
+   signing.** Sequencing risk (dismiss-with-prejudice before funds).
+   Asked: expected check timing; confirm dismissal held until funds clear
+   escrow; optionally add "payment within 30 days."
+Plus one low-priority clarification: releasees include "affiliates" —
+confirm future HMF lease-end billing disputes (post-signing events) sit
+outside the release per ¶1's last sentence.
+
+**Post-signing obligations to remember:** the $7,500 and financial terms
+become confidential (court/spouse/tax consultants/attorneys only) — the
+final number must NEVER enter the public case-history artifact or any
+shared document; the offer trajectory (pre-settlement offers) is
+negotiation history, not settlement terms, but keep the signed deal's
+number out of everything shared. After funds clear: return the car at a
+monthly boundary (call 844-363-7477; before the 23rd) or buy out —
+Addendum 38 mechanics.
+
+⚠ The obsolete 8/28 Gmail draft (`r-7180169248553925773`, superseded by
+the version the user actually sent) should be deleted by hand.

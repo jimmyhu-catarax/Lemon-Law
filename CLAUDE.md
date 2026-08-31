@@ -9,16 +9,18 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **39 as of 2026-08-28** — were moved there on 2026-07-30. They hold
+> addenda — **40 as of 2026-08-31** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 33**: the
-> petition is **FILED AND SERVED**; Hyundai's internal counsel (Jane Rigby)
-> has revived the **$5k offer, "take it or leave it"** — otherwise outside
-> counsel opposes; the user will accept IF the boilerplate is fixed and
-> Eugene has asked **exactly which clauses to strike** (answer drafted:
-> Ex09a ¶¶ (j) §1542, (i) gag, (h) indemnity). Addendum 32's
-> "filing unknown" was WRONG — superseded. All talks through counsel.
+> N" reference below points into that file.** Start with **Addendum 40**:
+> **HYUNDAI AGREED TO SETTLE AT $7,500** (8/28) with both term changes the
+> user demanded (scope sentence + mutual amount-only confidentiality); the
+> proposed Release arrived 8/31 and grants all three asks. **Signature is
+> gated on two confirmations from Eugene**: ¶3(j) names "County of Nassau,
+> Docket 654750/2026" (affirmation was captioned New York County — confirm),
+> and there is no payment deadline (confirm dismissal held until funds
+> clear). Reply drafted, awaiting user send. Once signed, the $7,500 is
+> CONFIDENTIAL — never in any shared document. All talks through counsel.
 
 ---
 
@@ -248,7 +250,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 39 addenda as of 2026-08-28.
+**[`docs/session-log.md`](docs/session-log.md) — 40 addenda as of 2026-08-31.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

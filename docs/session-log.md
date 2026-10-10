@@ -2452,3 +2452,45 @@ Addendum 38 mechanics.
 
 ⚠ The obsolete 8/28 Gmail draft (`r-7180169248553925773`, superseded by
 the version the user actually sent) should be deleted by hand.
+
+---
+
+## Addendum 41 (2026-10-10) — Step-back fairness assessment delivered; ⚠ STATUS GAP since 8/31 — settlement execution state UNKNOWN
+
+**1. The user asked for a step-back judgment** ("was this a fair and just
+outcome?") after Addendum 40. Assessment delivered in chat (not a filing):
+
+- **Fair as a negotiated exit: yes.** Trajectory $7,977 → $5,388.51 →
+  $2,500 → "$5,000 take it or leave it" → **$7,500 + both term changes**,
+  car kept, no second retainer. $7,500 covers the $1,793.43 incidentals +
+  $250 arbitration fee + $3,000 retainer ($5,043 total), leaving ≈$2,457
+  clear. Probability-weighted, continuing (vacatur → remand arbitration
+  under a separate $6,000/$7,500 retainer → standing fight past 11/23) was
+  judged unlikely to beat the certain $7,500 (stated as judgment, not
+  statistic; cf. Addendum 22's break-even ≈43.5% against the then-$5,000).
+- **Just: no.** Uncompensated residue named plainly: ~200 days without the
+  car; the $2,100.30 headlamp; hundreds of hours of the user's time; and
+  the central injustice — HMA's August 2025 $7,977 repurchase died over
+  HMA's own boilerplate and "not negotiable" posture, costing the user
+  ~13 months to land at roughly the same money. Statutory benchmark: a
+  clean win ≈ $10,505.74 paid-to-date less a possible mileage offset
+  (⚠ § 198-a(c)(1) official text still unverified). The user's "low-end
+  for lemon settlements" claim: no verifiable dataset exists here —
+  neither confirmed nor refuted, disclosed as such.
+- Recommendation stood: sign once the two Addendum 40 gates clear.
+
+**2. ⚠ STATUS GAP for the next session:** no case events between 8/31 and
+this logging date (10/10) are recorded in this log. UNKNOWN as of
+2026-10-10: whether Eugene confirmed the ¶3(j) county/docket question and
+the payment-before-dismissal sequencing; whether the drafted reply
+(msg `1a05856b8de15fec`) was sent; whether the Release was
+signed/notarized/returned; whether the $7,500 was received; whether the
+petition was dismissed; and the return-vs-buyout decision (lease wall
+11/23/2026 is ~6 weeks out). **First act next session: full `get_thread`
+on `19ff739ddab106d2`, then ask the user for status.** Standing reminders:
+once signed, the $7,500 and financial terms are CONFIDENTIAL
+(court/spouse/tax consultants/attorneys only — never in any shared
+document or the public case-history artifact); the obsolete 8/28 Gmail
+draft (`r-7180169248553925773`) still needs hand-deletion; after funds
+clear, return the car at a monthly boundary (call 844-363-7477 before the
+23rd) or buy out (Addendum 38 mechanics).

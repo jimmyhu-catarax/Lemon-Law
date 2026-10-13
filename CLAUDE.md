@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **41 as of 2026-10-10** — were moved there on 2026-07-30. They hold
+> addenda — **42 as of 2026-10-13** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 40**:
@@ -19,7 +19,7 @@
 > gated on two confirmations from Eugene**: ¶3(j) names "County of Nassau,
 > Docket 654750/2026" (affirmation was captioned New York County — confirm),
 > and there is no payment deadline (confirm dismissal held until funds
-> clear). Reply drafted, awaiting user send. **Addendum 41 (10/10): events since 8/31 are UNRECORDED — get_thread `19ff739ddab106d2` first, then ask the user for status.** Once signed, the $7,500 is
+> clear). Reply drafted, awaiting user send. **Addendum 42 (10/13): the user has CASHED the settlement check — the settlement is consummated; Jan–Feb 2026 incidentals are released (¶1/¶2/¶3(g)). Executed Release not yet seen — obtain and preserve.** (Addendum 41: events 8/31→10/13 otherwise still unrecorded.) Once signed, the $7,500 is
 > CONFIDENTIAL — never in any shared document. All talks through counsel.
 
 ---
@@ -250,7 +250,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 41 addenda as of 2026-10-10.
+**[`docs/session-log.md`](docs/session-log.md) — 42 addenda as of 2026-10-13.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

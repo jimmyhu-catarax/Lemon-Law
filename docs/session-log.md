@@ -2494,3 +2494,42 @@ document or the public case-history artifact); the obsolete 8/28 Gmail
 draft (`r-7180169248553925773`) still needs hand-deletion; after funds
 clear, return the car at a monthly boundary (call 844-363-7477 before the
 23rd) or buy out (Addendum 38 mechanics).
+
+## Addendum 42 (2026-10-13) — Settlement check CASHED (user statement); Jan–Feb 2026 incidentals are RELEASED
+
+**1. Status (user statement 10/13, no document seen):** the user has
+cashed the settlement check. Date cashed, date the Release was executed,
+and whether Eugene answered the Addendum 40 gates (¶3(j) county/docket;
+payment-before-dismissal) remain unrecorded. ⚠ The **executed** Release
+has not been seen — the analysis below reads the 8/31 PROPOSED version
+(`materials/Hu_Release_Agreement_2026-08-31_PROPOSED.pdf`). Ask the user
+or Eugene for the executed copy and preserve it to `materials/`.
+
+**2. Question: can the user still seek the ~$1,793.43 Jan–Feb 2026
+incidentals (rental/rideshare/towing)? Answer given: no — not from
+Hyundai or anyone in its orbit.** Basis (proposed Release, verbatim):
+
+- ¶1 releases "any and all claims … and damages based on, resulting or to
+  result from, or in any way connected with the subject vehicle … or any
+  nonconformity and/or defect in the … service, or repair of the subject
+  vehicle." The Feb 2026 12V/jump-start event (RO #370267) and its
+  rental/tow/rideshare costs fall squarely inside. The scope sentence the
+  user won ("Claims unrelated to the Subject Vehicle are not subject to
+  this Agreement") does not help — these are vehicle-related.
+- Releasees include HMA, Hyundai Motor Company, and their "subsidiaries,
+  … dealerships, … affiliates … insurers" — covers the dealers, HMA's
+  roadside program, and very likely HMF/Hyundai Capital America
+  (⚠ corporate relationship not independently verified).
+- ¶2: payment is "in full satisfaction of all Claims"; ¶3(g): covenant
+  never to "commence, maintain or prosecute … any … claim" connected with
+  released Claims; ¶3(h): indemnity if a third party pursues them.
+- Economically already paid: the user's own 8/28 counter itemized
+  $1,793.43 as a component of the $7,500 "flat, all-in"
+  (`materials/2026-08-28-settlement-counter-to-Krukas-DRAFT.md`).
+- Only non-released source: the user's OWN auto insurer (not a Releasee).
+  Flagged as low-yield and risky: rental-reimbursement coverage usually
+  requires a covered physical-damage loss, not a mechanical breakdown;
+  notice is ~8 months late; and a paid claim the insurer can't subrogate
+  (the Release extinguished it) may breach the policy's subrogation
+  clause and route through ¶3(h). Recommended: don't pursue; if the user
+  wants certainty, one email to Eugene (still counsel) settles it.

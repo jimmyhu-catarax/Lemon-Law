@@ -9,7 +9,7 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **42 as of 2026-10-13** — were moved there on 2026-07-30. They hold
+> addenda — **43 as of 2026-10-14** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
 > N" reference below points into that file.** Start with **Addendum 40**:
@@ -19,7 +19,7 @@
 > gated on two confirmations from Eugene**: ¶3(j) names "County of Nassau,
 > Docket 654750/2026" (affirmation was captioned New York County — confirm),
 > and there is no payment deadline (confirm dismissal held until funds
-> clear). Reply drafted, awaiting user send. **Addendum 42 (10/13): the user has CASHED the settlement check — the settlement is consummated; Jan–Feb 2026 incidentals are released (¶1/¶2/¶3(g)). Executed Release not yet seen — obtain and preserve.** (Addendum 41: events 8/31→10/13 otherwise still unrecorded.) Once signed, the $7,500 is
+> clear). Reply drafted, awaiting user send. **Addendum 42 (10/13): the user has CASHED the settlement check — the settlement is consummated; Jan–Feb 2026 incidentals are released (¶1/¶2/¶3(g)). Executed Release not yet seen — obtain and preserve.** **Addendum 43 (10/14): publicity plan v1 + Gemini prompts in `materials/2026-10-14-publicity-plan-and-gemini-prompts-v1.md` — nothing public until its four gates clear.** (Addendum 41: events 8/31→10/13 otherwise still unrecorded.) Once signed, the $7,500 is
 > CONFIDENTIAL — never in any shared document. All talks through counsel.
 
 ---
@@ -250,7 +250,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 42 addenda as of 2026-10-13.
+**[`docs/session-log.md`](docs/session-log.md) — 43 addenda as of 2026-10-14.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

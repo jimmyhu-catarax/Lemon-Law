@@ -2533,3 +2533,36 @@ Hyundai or anyone in its orbit.** Basis (proposed Release, verbatim):
   (the Release extinguished it) may breach the policy's subrogation
   clause and route through ¶3(h). Recommended: don't pursue; if the user
   wants certainty, one email to Eugene (still counsel) settles it.
+
+## Addendum 43 (2026-10-14) — Publicity plan v1 + two Gemini second-opinion prompts
+
+The user asked for (1) a prompt to get a second opinion from Google Gemini
+(taken to mean the opinion on recovering the Addendum 42 incidentals) and
+(2) a plan to publicize the story, with its own Gemini prompt.
+Deliverable: `materials/2026-10-14-publicity-plan-and-gemini-prompts-v1.md`.
+
+- **Release re-read (proposed 8/31 version, pp. 3–5):** there is **no
+  non-disparagement clause**. ¶3(i) bars disclosure of **"financial terms"
+  only**. ⚠ The executed version is still unseen.
+- **Plan structure:** four gates (executed Release; a yes/no email to Eugene
+  on what may be said, plus whether an NHTSA complaint is consistent with
+  ¶3(g); the lease closed out with the HMF balance at $0; naming
+  decisions), then phases: canonical write-up, owner communities, press,
+  and NHTSA/AG/legislators.
+- **Inference risk identified:** the offer trajectory ending in the 8/26
+  "$5,000 revived" plus "then it settled" lets readers bracket the amount.
+  That item is classified "ask Eugene first."
+- **Existing artifact audit:** "The Lemon That Fought Back"
+  (https://claude.ai/code/artifact/5ca30ef8-d7ee-43d4-b576-17921e3e701c) is
+  **private**, its record is frozen at 8/26, and its "Where it stands"
+  section is stale (it lists striking §1542/confidentiality/indemnity and an
+  as-is return, which is not what was won). It shows the $5,000 August
+  revival and names Rigby, plus "Danielle Alvarez" (recollection only). It
+  must be revised before it is ever made public. It contains no settlement
+  amount.
+- Both Gemini prompts leave out every financial term of the settlement
+  (pasting the amount into a third-party AI service is arguably "disclosure
+  to an entity" under ¶3(i)).
+- ⚠ The claim that "the statute has no parts-shortage/loaner exception"
+  rests on partly-unverified GBL § 198-a text. It is flagged in the plan as
+  needing verification before publication.

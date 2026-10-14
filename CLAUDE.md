@@ -9,18 +9,20 @@
 > and prints the roadmap. Then read this file.
 >
 > **⚠ Then read [`docs/session-log.md`](docs/session-log.md).** The session
-> addenda — **43 as of 2026-10-14** — were moved there on 2026-07-30. They hold
+> addenda — **44 as of 2026-10-14** — were moved there on 2026-07-30. They hold
 > the retractions, the halt-and-confirm flags, the evidentiary status of every
 > undocumented conversation, and the live action items. **Every "see Addendum
-> N" reference below points into that file.** Start with **Addendum 40**:
-> **HYUNDAI AGREED TO SETTLE AT $7,500** (8/28) with both term changes the
-> user demanded (scope sentence + mutual amount-only confidentiality); the
-> proposed Release arrived 8/31 and grants all three asks. **Signature is
-> gated on two confirmations from Eugene**: ¶3(j) names "County of Nassau,
-> Docket 654750/2026" (affirmation was captioned New York County — confirm),
-> and there is no payment deadline (confirm dismissal held until funds
-> clear). Reply drafted, awaiting user send. **Addendum 42 (10/13): the user has CASHED the settlement check — the settlement is consummated; Jan–Feb 2026 incidentals are released (¶1/¶2/¶3(g)). Executed Release not yet seen — obtain and preserve.** **Addendum 43 (10/14): publicity plan v1 + Gemini prompts in `materials/2026-10-14-publicity-plan-and-gemini-prompts-v1.md` — nothing public until its four gates clear.** (Addendum 41: events 8/31→10/13 otherwise still unrecorded.) Once signed, the $7,500 is
-> CONFIDENTIAL — never in any shared document. All talks through counsel.
+> N" reference below points into that file.** Start with **Addendum 44**:
+> **THE CASE IS SETTLED.** Release signed + notarized 9/9/2026 (only change
+> from the 8/31 draft: ¶3(j) Nassau → New York County), preserved as
+> `materials/Hu_Release_Agreement_2026-09-09_SIGNED_by_Hu.pdf`; check cashed
+> (user, 10/13). Vicario's 8/31 written read: claims against **Hyundai Motor
+> Finance are "separate to this release."** Live items: lease turn-in by
+> **11/23/2026**; tax treatment of the payment (CPA — "tax consultants" is a
+> ¶3(i) carve-out); publicity plan (`materials/2026-10-14-publicity-plan-v2.md`,
+> nothing public until its gates clear). The settlement amount is
+> CONFIDENTIAL (¶3(i)) — never in any shared document or public artifact,
+> and never pasted into third-party AI tools. All talks through counsel.
 
 ---
 
@@ -250,7 +252,7 @@ Which surface to reach for and the standing permission to enable
 
 ## SESSION LOG — read before touching any filing
 
-**[`docs/session-log.md`](docs/session-log.md) — 43 addenda as of 2026-10-14.
+**[`docs/session-log.md`](docs/session-log.md) — 44 addenda as of 2026-10-14.
 Append new addenda there, not here.** It carries the retractions, the
 halt-and-confirm flags, the evidentiary status of every undocumented
 conversation, and the sourcing behind the facts above. **Start with Addendum

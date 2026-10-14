@@ -2566,3 +2566,61 @@ Deliverable: `materials/2026-10-14-publicity-plan-and-gemini-prompts-v1.md`.
 - ⚠ The claim that "the statute has no parts-shortage/loaner exception"
   rests on partly-unverified GBL § 198-a text. It is flagged in the plan as
   needing verification before publication.
+
+## Addendum 44 (2026-10-14) — STATUS GAP CLOSED: Release signed 9/9; counsel says HMF is outside the release; Gemini reviews reconciled; plan v2
+
+**1. Timeline 8/31 → 9/10, recovered from a full `get_thread` on
+`19ff739ddab106d2` (30 messages):**
+- 8/31 18:48Z: the user SENT the two-gates reply (msg `1a05927a3f91113e`,
+  formerly draft `1a05856b8de15fec`).
+- 8/31 20:19Z: Vicario (msg `1a0597a67327d743`), verbatim: "I looked this
+  over and fixed the jurisdiction – changed from Nassau to New York. Under
+  NY CPLR, settling defendants have 21 days to pay. That being said, we
+  always give leeway and typically expect payment within 30 days." And:
+  **"I think we're good on the 'affiliates' language. I read anything
+  against Hyundai Motor Finance as separate to this release."**
+  (⚠ The 21-day CPLR rule is counsel's statement and has not been verified
+  here.)
+- 9/4: the attachment was missing, and Vicario resent it. 9/6: Vicario said
+  "Our petition is returnable Friday" (9/11). 9/7: the user confirmed
+  receipt.
+- **9/9 05:44Z: the user sent the signed and notarized Release** (msg
+  `1a084b2b57b86134`, zip attachment). Signed "9 September 2026,"
+  notarized remotely via Proof (Karen L Cooper, ID: US passport). Preserved
+  as `materials/Hu_Release_Agreement_2026-09-09_SIGNED_by_Hu.pdf` (sha
+  2065918a). **A word-level diff against the 8/31 draft shows ONE
+  substantive change: ¶3(j) "County of Nassau" became "County of New
+  York."** Everything else is identical, including ¶1 scope, ¶3(g)/(h), and
+  ¶3(i) (financial terms only, no non-disparagement). Eugene's
+  counter-signature block is blank on this copy.
+- 9/9 13:49Z: Vicario asked for the current registration ("Hyundai can't
+  issue the checks without it"). 9/10 01:51Z: the user replied
+  (registration presumably attached; not opened).
+- No later messages. Check cashed (user statement 10/13; date unknown).
+- **Closed standing item:** the "obsolete draft" `r-7180169248553925773`
+  was in fact SENT (it is the 8/28 05:07Z message `1a046c3cc07d375d`).
+  Nothing needs to be deleted.
+
+**2. Correction to Addendum 42:** it said HMF is "very likely" a Releasee.
+Counsel's written reading (8/31, above) is the opposite. HMF never owed the
+incidentals, so the incidentals conclusion is unchanged. For lease-end
+matters, counsel's reading favors the user.
+
+**3. Gemini second opinions (the user pasted both) reconciled** in the
+appendix to `materials/2026-10-14-publicity-plan-v2.md`. Adopted: **tax
+treatment of the payment as a live issue, which I had missed** (CPA; ¶3(i)
+carve-out); the user can still contest lease-end wear charges on their own
+terms but not offset them with defect history; no offer figures or
+post-petition talks in public; a NYSCEF docket audit gate; regulators
+before press before self-publishing; no naming of the tow company. Rejected
+or flagged: HMF-as-Releasee (conflicts with counsel); the claim that ¶3(g)
+doesn't reach a tow-company claim (¶3(g) is not limited to Releasees);
+*Denburg*, *Ambac*, and *DaimlerChrysler*/"*Bay Ridge*" as misapplied or
+garbled; the pseudonym as thin cover. **GBL § 198-a(e) ("war, invasion,
+strike, fire, flood or other natural disaster") is UNVERIFIED Gemini
+text.** It must be checked before anything is published. Every Gemini
+citation is unverified.
+
+**4. Plan v2** includes the email to Eugene and Mike (executed Release and
+discontinuance; W-9/1099; ¶3(i) scope; NHTSA/AG under ¶3(g); lease turn-in).
+It has not been sent and no Gmail draft has been created.

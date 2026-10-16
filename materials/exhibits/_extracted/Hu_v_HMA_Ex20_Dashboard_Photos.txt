@@ -1,0 +1,74 @@
+Hu v. Hyundai Motor America
+AG Case No. NC-1-1249605441 · VIN: KM8KNDDF9RU253237
+
+
+EXHIBIT 20 — DASHBOARD PHOTOGRAPHS: BATTERY RANGE
+DEGRADATION TIMELINE
+Consumer: Jimmy Y. Hu · Hearing: June 9, 2026 · Arbitrator: Maneesha Sharma
+
+PURPOSE
+Four chronological dashboard photographs documenting progressive battery range degradation. These photographs
+visually corroborate the defect timeline in Repair Orders (Ex. 4), Smart Diagnosis Report (Ex. 10), and Days Out of Service
+Summary (Ex. 11). All photos taken from the vehicle's own instrument cluster.
+
+                                                            Range
+Photo     Date                Odometer         Charge       Shown            Significance
+
+1         Feb 19, 2025        7,223 mi         91%          127 mi           First degradation — >50% range loss ■
+
+2         Apr 1, 2025         8,087 mi         41%          17 mi            Pre-service severity
+
+                                                                             Day vehicle dropped off — corroborates RO
+3         Apr 3, 2025         8,128 mi         100%         37 mi ★          #358530
+
+4         Aug 12, 2025        8,276 mi         10%          23 mi            Coolant warning 5 days post-pickup ■
+
+
+
+Photo 1 — Feb 19, 2025 (7,223 mi) — FIRST DOCUMENTED DEGRADATION: 127 mi at 91% Charge
+[CRITICAL]
+ CRITICAL EVIDENCE. Only 127 miles at 91% charge. At delivery (May 2024), 90% charge yielded approximately 270
+ miles — this represents greater than 50% loss in functional range, and is the first documented manifestation of the
+ battery defect. Consumer first became aware of the defect at this date. The Hyundai Smart Diagnosis report (Exhibit
+ 10) documents the underlying fault codes.
+
+
+
+
+Photo 2 — Apr 1, 2025 (8,087 mi) — Accelerating Failure: Only 17 mi at 41% Charge
+
+
+
+
+ Two days before Consumer drove the vehicle to Paramus Hyundai on April 3. Only 17 miles at 41% charge — a
+ functioning IONIQ 5 at 41% charge would show approximately 110+ miles of range. The vehicle was becoming
+ completely unusable for any meaningful travel. This photograph corroborates the urgency of Consumer's decision to
+ bring the vehicle directly to Paramus Hyundai on April 3, 2025.
+
+
+
+
+Photo 3 — Apr 3, 2025 (8,128 mi) — PIVOTAL: Only 37 mi at 100% Full Charge — Day Consumer
+Drove to Paramus and Left Vehicle for Service [PIVOTAL]
+ THE KEY PHOTOGRAPH IN THIS EXHIBIT. Dashboard shows only 37 miles at 100% charge with Level 2 charging
+ confirmed complete. A fully charged 2024 Hyundai IONIQ 5 SEL AWD should display approximately 266+ miles at
+ 100% charge. This photograph directly corroborates Repair Order #358530 (Exhibit 4), in which Paramus Hyundai
+ confirmed 'deviations in multiple cells' via Techline diagnostics. Consumer drove the vehicle to the service center on
+ this date, left it with Paramus Hyundai, and received a loaner vehicle. The vehicle remained at the service center for
+ 126 consecutive days. Odometer reads 8,128 miles — consistent with RO documentation.
+
+
+
+
+Photo 4 — Aug 12, 2025 (8,276 mi) — 'Refill Coolant' Warning: 5 Days After Pickup
+  Consumer retrieved the vehicle on August 7, 2025 after 126 consecutive days in service. Just 5 days later — August
+  12, 2025 — the dashboard displayed a prominent 'Refill coolant' warning with orange alert icon. The vehicle was
+  immediately returned to Paramus Hyundai for service completed August 28–29, 2025. Odometer reads 8,276 — only
+  148 miles driven in 5 days post-pickup. Combined with the April–August repair period, total documented loss-of-use
+  reaches 179+ days.
+
+
+
+
+Exhibit 20 — Hu v. Hyundai Motor America, AG Case No. NC-1-1249605441.
+

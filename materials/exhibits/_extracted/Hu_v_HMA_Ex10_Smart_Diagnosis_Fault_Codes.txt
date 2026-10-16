@@ -1,0 +1,124 @@
+Hu v. Hyundai Motor America
+AG Case No. NC-1-1249605441 · VIN: KM8KNDDF9RU253237
+EXHIBIT 10 — SMART DIAGNOSIS FAULT CODE REPORT & DIAGNOSTIC FEE DEMANDS
+Consumer: Jimmy Y. Hu · Hearing: June 9, 2026 · Arbitrator: Maneesha Sharma
+
+I. SOURCE DOCUMENTS
+This exhibit is drawn from two versions of the Hyundai Smart Diagnosis printout, scan reference SHyundai Se26010917440,
+generated at Paramus Hyundai on January 8, 2026 at 12:50 PM during the diagnostic evaluation following the January 6–7, 2026
+complete battery failure events. Both printouts contain identical diagnostic trouble code (DTC) data; they differ only in the
+handwritten diagnostic fee notation ($1,040 on one, $540 on the other). Original PDFs of both source documents are attached
+behind this cover sheet.
+
+II. DIAGNOSTIC SCAN METADATA
+
+ Scan Reference                 SHyundai Se26010917440 / Session B(B)AANJ0332601080341
+
+ Date / Time                    January 8, 2026 at 12:50 PM
+
+ Vehicle                        2024 Hyundai IONIQ 5 (NE EV) / 70kW + 160kW dual motor
+
+ VIN Confirmed                  KM8KNDDF9RU253237
+
+ Tool S/W Version               NNH-02-0102 · VCI Ver. 03.25
+
+ Systems Scanned                5 systems
+
+ Total DTCs Found               7 DTCs (Active + History)
+
+ Critical Finding               Battery/charging system faults (VCMS, ABSC) are in separate systems from
+                                headlamp faults (ICU)
+
+
+III. COMPLETE DTC LISTING WITH STRATEGIC ANNOTATION
+Codes highlighted in red are the primary battery/charging defect codes central to this claim. Codes in gray are lighting/radar system
+codes that Hyundai personnel cited as a possible cause — a theory definitively refuted by the February 19, 2026 warranty
+diagnosis (RO #370267).
+
+ System /           DTC         Description                        Categor      Strategic Significance
+ Module             Code                                           y
+
+ VCMS (Vehicle      P1BAD9      Battery Charger Coupler            Powertrai    PRIMARY DEFECT — directly
+ Charging           2           Temperature too High               n            establishes battery/charging system
+ Management                                                                     failure; entirely unrelated to headlamp
+ System)
+
+ ABSESC             C11021      Battery Voltage Low                Chassis      PRIMARY DEFECT — confirms low
+ (ABS/ESC)          3                                                           battery voltage system-wide; entirely
+                                                                                unrelated to headlamp
+
+ ADAS_DRV           C18818      FR/RR CRDR Signal Error Fault      Chassis/     Radar sensor error — consistent with
+ (ADAS Driving      6                                              ADAS         right headlamp area damage; does
+ ECU)                                                                           NOT cause battery failure
+
+ C_RADAR            C27075      Control Module Missing             Chassis/     Calibration fault — right-front sensor
+ (Corner Radar)     4           Calibration (Front Right)          ADAS         area; does NOT cause battery failure
+
+ ICU (Integrated    8235300     Dedicated DRL RH SCG               Body         RIGHT HEADLAMP —
+ Central Control                (Daytime Running Light Right                    lighting/cosmetic fault; separate
+ Unit)                          Short-Circuit to Ground)                        system from battery
+
+ ICU (Integrated    8258A0      External Tail Lamp Front Right     Body         RIGHT LAMP CIRCUIT — lighting
+ Central Control    0           Circuit Short to Ground                         fault; separate system from battery
+ Unit)
+ System /           DTC           Description                        Categor      Strategic Significance
+ Module             Code                                             y
+
+ ICU (Integrated    C16280        CAN Time Out CLU (Central          Body         Network timeout — may cascade from
+ Central Control    0             Logic Unit communication                        headlamp circuit but does NOT explain
+ Unit)                            timeout)                                        battery death
+
+
+
+IV. STRATEGIC SIGNIFICANCE — WHY THIS DOCUMENT IS CRITICAL
+This Smart Diagnosis printout establishes four key facts:
+    ●    The battery/charging system (VCMS) and chassis battery voltage (ABSC/ESC) failures are recorded in entirely separate
+         ECU modules from the right headlamp faults (ICU). These are distinct electronic systems. A broken headlamp assembly
+         cannot cause a VCMS battery charger fault.
+    ●    Hyundai's own diagnostic tool — not Consumer's testimony — generated these codes. This is Hyundai's own equipment
+         identifying a powertrain/battery failure.
+    ●    The headlamp codes (8235300, 8258A00) are consistent with the pre-existing cosmetic damage present since December
+         22, 2024, which was not flagged when the vehicle was returned to Consumer on August 7, 2025 after the first 126-day
+         repair event.
+    ●    The February 19, 2026 warranty confirmation (RO #370267) — which authorized battery replacement at no charge —
+         directly refutes any claim that the headlamp caused the battery failures.
+
+
+In summary: Hyundai's own Smart Diagnosis system shows P1BAD92 and C110213 as battery/powertrain system faults on
+January 8, 2026. Six weeks later, Hyundai's own technicians confirmed those same faults were warranty-covered manufacturing
+defects requiring battery replacement. The headlamp was irrelevant.
+
+V. DIAGNOSTIC FEE DEMANDS — CHRONOLOGY
+The same Smart Diagnosis printout contains handwritten dealer notations demanding diagnostic fees before the dealer would
+proceed with warranty inspection of a battery failure — despite the fact that the vehicle's battery failure was ultimately confirmed as
+a warranty-covered defect. Consumer paid the $540 fee under protest. It was not refunded after warranty confirmation.
+
+ Date                 Amount        Document            Context
+                      Demand
+                      ed
+
+ 01/08/2026           $1,040.00     SHyundai            Handwritten note on Smart Diagnosis report: "In the system we
+                                    Se26010917440       need 4 hours of Diagnosis $1040 of Diagnose the vehicle in order
+                                    (initial fee        to see what else vehicle needs." Dealer demanded this fee
+                                    version)            before proceeding with warranty inspection for a battery failure
+                                                        event — January 6–7, 2026.
+
+ ~02/13/2026          $540.00       SHyundai            Revised diagnostic fee demanded when vehicle was towed to
+                                    Se26010917440       Paramus Hyundai after the February 9, 2026 battery failure (RO
+                                    (revised fee        #370267). Consumer signed the $540 Hyundai Service
+                                    version)            Diagnostic Agreement under protest, stating the fee should be
+                                                        waived if the defect proved warranty-covered. On February 19,
+                                                        2026, the dealer confirmed the root cause was a warranty-
+                                                        covered defect.
+
+
+
+Consumer Certification
+I, Jimmy Y. Hu, certify under penalty of perjury that the foregoing description of the Smart Diagnosis documents is true and
+accurate.
+
+Signature: ___________________________________                Date: ____6/1/2026___
+Jimmy Y. Hu, Consumer (Self-Represented)
+This document is Exhibit 10 to Consumer's submission in Hu v. Hyundai Motor America, AG Case No. NC-1-1249605441.
+The two source PDFs (SHyundai Se26010917440 — $1,040 version and $540 version) are attached as pages 2–3 of this exhibit.
+
